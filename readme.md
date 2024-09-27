@@ -5,4 +5,4 @@ The structure of folders is `<network>/<reward-epoch-id>`. Each contains three f
 
 Since the reward epoch 227 on Flare and Songbird, the repository is the authoritative source for reward distribution data which and is used by the Flare's [Signing tool](https://github.com/flare-foundation/signing-tool).
 
-NOTE: previously, the reward distibution data were published [here](https://github.com/flare-foundation/FTSO-Scaling/tree/main/rewards-data)
+NOTE: previously, the reward distibution data were published [here](https://github.com/flare-foundation/FTSO-Scaling/tree/main/rewards-data).
