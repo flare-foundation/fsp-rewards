@@ -89,4 +89,4 @@ if __name__ == '__main__':
         signed_tx = executor_account.signTransaction(tx)
         tx_hash = web3.eth.sendRawTransaction(signed_tx.rawTransaction)
 
-        print('0x' + tx_hash.hex())
+        print(tx_hash.hex())

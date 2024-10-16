@@ -48,7 +48,7 @@ if __name__ == '__main__':
     proofs = []
     total_rewards = []  # just for logging purposes
     for reward_epoch in reward_epochs_to_claim:
-        file_path = f'../../songbird/{reward_epoch}/reward-distribution-data.json'
+        file_path = f'../../flare/{reward_epoch}/reward-distribution-data.json'
         
         # Open and load the JSON file
         with open(file_path, 'r') as json_file:
@@ -89,4 +89,4 @@ if __name__ == '__main__':
         signed_tx = executor_account.signTransaction(tx)
         tx_hash = web3.eth.sendRawTransaction(signed_tx.rawTransaction)
 
-        print('0x' + tx_hash.hex())
+        print(tx_hash.hex())
