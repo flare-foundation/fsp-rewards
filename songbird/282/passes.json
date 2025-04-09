@@ -21,7 +21,12 @@
     "eligibleForReward": true,
     "voterAddress": "0x89f7498a8db97ff7d8ef323e480cb18db44a1309",
     "passes": 3,
-    "failures": []
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
   },
   {
     "rewardEpochId": 282,
@@ -85,7 +90,12 @@
     "eligibleForReward": true,
     "voterAddress": "0x121c651710217239592a169b9f7d1038ad53446d",
     "passes": 3,
-    "failures": []
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
   },
   {
     "rewardEpochId": 282,
@@ -121,6 +131,10 @@
       {
         "protocolId": 255,
         "failureId": "FAST_UPDATES_FAILURE"
+      },
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
       }
     ]
   },
@@ -130,7 +144,12 @@
     "eligibleForReward": true,
     "voterAddress": "0xd9ddd06b3e603f451dd8a16574ca9d3df564742b",
     "passes": 3,
-    "failures": []
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
   },
   {
     "rewardEpochId": 282,
@@ -146,6 +165,10 @@
       {
         "protocolId": 255,
         "failureId": "FAST_UPDATES_FAILURE"
+      },
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
       }
     ]
   },
@@ -155,7 +178,12 @@
     "eligibleForReward": true,
     "voterAddress": "0x7429e0c70306834e2b210cf3feb306342f456ce7",
     "passes": 3,
-    "failures": []
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
   },
   {
     "rewardEpochId": 282,
@@ -179,7 +207,12 @@
     "eligibleForReward": true,
     "voterAddress": "0xd6122bb3d05454b4e4cc9883064a96607eb835bf",
     "passes": 3,
-    "failures": []
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
   },
   {
     "rewardEpochId": 282,
@@ -265,7 +298,12 @@
     "eligibleForReward": true,
     "voterAddress": "0x1a34a80deb40d2a1a6c0e2959785058a975ad900",
     "passes": 3,
-    "failures": []
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
   },
   {
     "rewardEpochId": 282,
@@ -312,7 +350,12 @@
     "eligibleForReward": true,
     "voterAddress": "0xce1008d12bb6e5aa47905d1f3bd97042217ffeab",
     "passes": 3,
-    "failures": []
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
   },
   {
     "rewardEpochId": 282,
@@ -396,6 +439,10 @@
       {
         "protocolId": 255,
         "failureId": "FAST_UPDATES_FAILURE"
+      },
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
       }
     ]
   },
@@ -429,7 +476,12 @@
     "eligibleForReward": true,
     "voterAddress": "0xa0e1fba30e75e2d0d6c428cff4b3b6a06233422b",
     "passes": 2,
-    "failures": []
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
   },
   {
     "rewardEpochId": 282,
@@ -445,7 +497,12 @@
     "eligibleForReward": true,
     "voterAddress": "0x3ed54c61ec0ff7c144d547c2d032392864e66ca2",
     "passes": 3,
-    "failures": []
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
   },
   {
     "rewardEpochId": 282,
@@ -472,6 +529,10 @@
       {
         "protocolId": 255,
         "failureId": "FAST_UPDATES_FAILURE"
+      },
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
       }
     ]
   },
@@ -484,6 +545,10 @@
       {
         "protocolId": 255,
         "failureId": "FAST_UPDATES_FAILURE"
+      },
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
       }
     ]
   },
@@ -493,7 +558,12 @@
     "eligibleForReward": true,
     "voterAddress": "0xed1af13d359044eea494cb9acf03997cabffd44b",
     "passes": 3,
-    "failures": []
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
   },
   {
     "rewardEpochId": 282,
@@ -505,6 +575,10 @@
       {
         "protocolId": 100,
         "failureId": "FTSO_SCALING_FAILURE"
+      },
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
       }
     ]
   },
@@ -518,6 +592,10 @@
       {
         "protocolId": 255,
         "failureId": "FAST_UPDATES_FAILURE"
+      },
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
       }
     ]
   },
@@ -542,6 +620,10 @@
       {
         "protocolId": 255,
         "failureId": "FAST_UPDATES_FAILURE"
+      },
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
       }
     ]
   },
@@ -559,6 +641,10 @@
       {
         "protocolId": 255,
         "failureId": "FAST_UPDATES_FAILURE"
+      },
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
       }
     ]
   },
@@ -567,6 +653,11 @@
     "eligibleForReward": true,
     "voterAddress": "0x526e10f59b79d4e434d367f30a5cf6aa49641642",
     "passes": 3,
-    "failures": []
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
   }
 ]
