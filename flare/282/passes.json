@@ -21,7 +21,12 @@
     "eligibleForReward": true,
     "voterAddress": "0xe34fb45b2e966a69f8b2a17118aa14d57667d197",
     "passes": 3,
-    "failures": []
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
   },
   {
     "rewardEpochId": 282,
@@ -88,6 +93,10 @@
       {
         "protocolId": 100,
         "failureId": "FTSO_SCALING_FAILURE"
+      },
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
       }
     ]
   },
@@ -145,7 +154,12 @@
     "eligibleForReward": true,
     "voterAddress": "0x80a4a02420af8d7e42b111032c66692848dea62f",
     "passes": 3,
-    "failures": []
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
   },
   {
     "rewardEpochId": 282,
@@ -174,7 +188,12 @@
     "eligibleForReward": true,
     "voterAddress": "0x4b84eeb4492a53fa6c8d6a188c1ab2327f3abc45",
     "passes": 3,
-    "failures": []
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
   },
   {
     "rewardEpochId": 282,
@@ -243,7 +262,12 @@
     "eligibleForReward": true,
     "voterAddress": "0x12649c1937fbdad9bebc1246110fcafea490b8a2",
     "passes": 3,
-    "failures": []
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
   },
   {
     "rewardEpochId": 282,
@@ -251,7 +275,12 @@
     "eligibleForReward": true,
     "voterAddress": "0x3a32539045a214958132e1d9afba66460e0073eb",
     "passes": 3,
-    "failures": []
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
   },
   {
     "rewardEpochId": 282,
@@ -291,14 +320,24 @@
     "eligibleForReward": true,
     "voterAddress": "0x1a34a80deb40d2a1a6c0e2959785058a975ad900",
     "passes": 3,
-    "failures": []
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
   },
   {
     "rewardEpochId": 282,
     "eligibleForReward": true,
     "voterAddress": "0x5cbd87f8591869f5959a196722245f0c893c78ea",
     "passes": 1,
-    "failures": []
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
   },
   {
     "rewardEpochId": 282,
@@ -362,7 +401,12 @@
     "eligibleForReward": true,
     "voterAddress": "0xf10e0cd76c442c39d5817ac1c4e9ce1d8f7e281b",
     "passes": 3,
-    "failures": []
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
   },
   {
     "rewardEpochId": 282,
@@ -410,7 +454,12 @@
     "eligibleForReward": true,
     "voterAddress": "0x8080ec3d0330a80d57901bcecb298646fbde5419",
     "passes": 3,
-    "failures": []
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
   },
   {
     "rewardEpochId": 282,
@@ -421,6 +470,10 @@
       {
         "protocolId": 0,
         "failureId": "STAKING_AVAILABILITY"
+      },
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
       }
     ]
   },
@@ -497,6 +550,10 @@
       {
         "protocolId": 0,
         "failureId": "STAKING_AVAILABILITY"
+      },
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
       }
     ]
   },
@@ -565,6 +622,10 @@
       {
         "protocolId": 100,
         "failureId": "FTSO_SCALING_FAILURE"
+      },
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
       }
     ]
   },
@@ -590,7 +651,12 @@
     "eligibleForReward": true,
     "voterAddress": "0xf1f468658f7b098d44fbc54f77459a765704f34a",
     "passes": 1,
-    "failures": []
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
   },
   {
     "rewardEpochId": 282,
@@ -611,7 +677,12 @@
     "eligibleForReward": true,
     "voterAddress": "0x7596fcdc437840d5befad5af8c831698a29c5b58",
     "passes": 3,
-    "failures": []
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
   },
   {
     "rewardEpochId": 282,
@@ -646,6 +717,10 @@
       {
         "protocolId": 0,
         "failureId": "STAKING_AVAILABILITY"
+      },
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
       }
     ]
   },
@@ -658,6 +733,10 @@
       {
         "protocolId": 0,
         "failureId": "STAKING_AVAILABILITY"
+      },
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
       }
     ]
   },
@@ -696,6 +775,10 @@
       {
         "protocolId": 0,
         "failureId": "STAKING_AVAILABILITY"
+      },
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
       }
     ]
   },
@@ -713,6 +796,10 @@
       {
         "protocolId": 0,
         "failureId": "STAKING_AVAILABILITY"
+      },
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
       }
     ]
   }
