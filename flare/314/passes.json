@@ -1,0 +1,763 @@
+[
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "ACDTftso",
+    "eligibleForReward": true,
+    "voterAddress": "0x8372deecfe2a7b700031ab2b455df6b02b9c0cc1",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "EvolveFTSO",
+    "eligibleForReward": true,
+    "voterAddress": "0xc841535773feba1e53c09eb1e8890ebea0208d89",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Honest Systems",
+    "eligibleForReward": true,
+    "voterAddress": "0xf1416ce1f91d565fa4ffa8bab153ba5495c6bd49",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Ivy Oracle",
+    "eligibleForReward": true,
+    "voterAddress": "0xd6ae2609e2b9c5cc5079dcd041f17d742486937c",
+    "passes": 2,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Flare.Space",
+    "eligibleForReward": true,
+    "voterAddress": "0xff1e3dc8b89c4443bac578d3c8fae0f27060e5de",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "eligibleForReward": false,
+    "voterAddress": "0xa4194444f3008be13783cc9d9942f23b8492df38",
+    "passes": 0,
+    "failures": [
+      {
+        "protocolId": 0,
+        "failureId": "STAKING_AVAILABILITY"
+      },
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Last Oracle",
+    "eligibleForReward": true,
+    "voterAddress": "0x7596fcdc437840d5befad5af8c831698a29c5b58",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "eligibleForReward": false,
+    "voterAddress": "0x526e10f59b79d4e434d367f30a5cf6aa49641642",
+    "passes": 0,
+    "failures": [
+      {
+        "protocolId": 0,
+        "failureId": "STAKING_AVAILABILITY"
+      },
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Chainbase Staking",
+    "eligibleForReward": true,
+    "voterAddress": "0x568a27b3770b6ea514c2008d8f6a3fddf61ff017",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Comfy Nodes",
+    "eligibleForReward": true,
+    "voterAddress": "0xc058d02fdd08294d29fd4db631e6edc789741ea6",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "AFOracle",
+    "eligibleForReward": true,
+    "voterAddress": "0x0be579444595e122bc9b236befcb598b1cb7f1ce",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "StakeCapital FTSO",
+    "eligibleForReward": true,
+    "voterAddress": "0x52304625c2000a1cf338b4307541d6f5e388f414",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Defi Oracles",
+    "eligibleForReward": true,
+    "voterAddress": "0x2a0a6c933853555cfd88398fdc13aef32433579a",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "4DadsFTSO",
+    "eligibleForReward": true,
+    "voterAddress": "0x5637eed1e134f4e17ad7b063b991d18b95af41a8",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "FocusTSO",
+    "eligibleForReward": true,
+    "voterAddress": "0x3a32539045a214958132e1d9afba66460e0073eb",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "FTSOCAN",
+    "eligibleForReward": true,
+    "voterAddress": "0x9843a22fa7fd382a38d7fe5a15d0153dbbe0799c",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Wonderftso",
+    "eligibleForReward": true,
+    "voterAddress": "0x80a4a02420af8d7e42b111032c66692848dea62f",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "PRICEKRAKEN",
+    "eligibleForReward": true,
+    "voterAddress": "0x3cdf058efb4a09ed78a40f8e6941b5814187d9cd",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "LightFTSO",
+    "eligibleForReward": true,
+    "voterAddress": "0x693a28bcd38f99308315074a2f6e7535fecd27fa",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Tailwind FTSO",
+    "eligibleForReward": true,
+    "voterAddress": "0xea92f0754e66fe02d97612eb759fd1802de644a1",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Stakeway",
+    "eligibleForReward": true,
+    "voterAddress": "0xaa9c30ff905d056e7dd06e0d81246c68272d63d6",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "NORTSO",
+    "eligibleForReward": true,
+    "voterAddress": "0x6241834cd0a3ae76b7eb07b32ee9f0a3219fa6d5",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Poseidon FTSO",
+    "eligibleForReward": true,
+    "voterAddress": "0xd523dd62e3d32d72a62035f05a4eba304275585c",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "uGaenn",
+    "eligibleForReward": true,
+    "voterAddress": "0x4b44a128ac0a3d4ed7cc80532f16b9fbcfa96e0b",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "WitterFTSO",
+    "eligibleForReward": true,
+    "voterAddress": "0xd6122bb3d05454b4e4cc9883064a96607eb835bf",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "FTSOExpress",
+    "eligibleForReward": true,
+    "voterAddress": "0xc12bec79a27371e0dea690c2759f5d683845bd00",
+    "passes": 2,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Solarius",
+    "eligibleForReward": true,
+    "voterAddress": "0x7a1259118f5be97afcaea3adb16f77a3944a9f85",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Oracle Daemon",
+    "eligibleForReward": true,
+    "voterAddress": "0xa6f5901011aac01427428c97394743e193879490",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Envision",
+    "eligibleForReward": true,
+    "voterAddress": "0xc1d269e9d2a39c6a285eaaf53eb9fe9b7245c87e",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Mickey B Fresh",
+    "eligibleForReward": true,
+    "voterAddress": "0x65ae92f3473d75815f2a86298b76a608f94e1575",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Encode Club",
+    "eligibleForReward": true,
+    "voterAddress": "0xf697cef9e0be6bebac06410a5bcc56f7e8f52835",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "DataVector",
+    "eligibleForReward": true,
+    "voterAddress": "0x6053267bd317fe8f2d51bf063271cd1596d12783",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "True FTSO",
+    "eligibleForReward": true,
+    "voterAddress": "0xd03a130079430a5d8fd1caea3535a80ddc6bfc0d",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Bushido FTSO",
+    "eligibleForReward": true,
+    "voterAddress": "0x69175664e592a41d789f912ad92ec0c45ac64609",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "FlareFi",
+    "eligibleForReward": true,
+    "voterAddress": "0xf05015da740eb3a7aa3c51d4ef09375f472030d4",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "EDPFTSO",
+    "eligibleForReward": true,
+    "voterAddress": "0xb90b0fd5e028e09bd75fdfd3fa371dcfaee70da8",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "AU",
+    "eligibleForReward": true,
+    "voterAddress": "0xb3c9aa09f22a06122d3608ef075f14e001561470",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Flare Beacon",
+    "eligibleForReward": true,
+    "voterAddress": "0x3cfd132642356730341221f8e52cce82cf10caa9",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Luganodes",
+    "eligibleForReward": true,
+    "voterAddress": "0x3887d51081d03ee6b1ad8bd0dc4e2ec88683a109",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "eligibleForReward": true,
+    "voterAddress": "0x59ce07fcdd12fa7f902d2dddcab6e1696415615a",
+    "passes": 0,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Ankr",
+    "eligibleForReward": true,
+    "voterAddress": "0x25a762a3ae37ad037221daf623dadfa8e3247ca2",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Knot Nodes",
+    "eligibleForReward": true,
+    "voterAddress": "0xc3eb218212feb146a84eaffb2b8bc4d165f58e75",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Google Cloud",
+    "eligibleForReward": true,
+    "voterAddress": "0x564a2694342e57ee1223697b67086695695d1c57",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "HEWG",
+    "eligibleForReward": true,
+    "voterAddress": "0x631c6ed44e4dfc461c9fbb583651aba06a8e2f94",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Flaris",
+    "eligibleForReward": true,
+    "voterAddress": "0xbc1682730ae5bd0aed7d210da330ed581d9f2c4d",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "SenseiNode",
+    "eligibleForReward": true,
+    "voterAddress": "0x12649c1937fbdad9bebc1246110fcafea490b8a2",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "FTSO London",
+    "eligibleForReward": true,
+    "voterAddress": "0x69e79bb0de5dcd9f7201f8277957f12c0f4c142c",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "African Proofs",
+    "eligibleForReward": true,
+    "voterAddress": "0x26534ac74153e3257ddd3471f96faa33d5d3b575",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Use Your Spark",
+    "eligibleForReward": true,
+    "voterAddress": "0x661a71e863c887e68aa8c9348e8aa60e48a868ad",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Flare Dienst",
+    "eligibleForReward": true,
+    "voterAddress": "0x813d2d3e5ef3b446df83d8d5264972a07a690657",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "FTSO Plus",
+    "eligibleForReward": true,
+    "voterAddress": "0x6ebbe1e29aee3325a34a10bb267c55db7664750e",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Aternety",
+    "eligibleForReward": true,
+    "voterAddress": "0xe9c9930d6704f1e24c153dbaabca687ea27c960d",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "eligibleForReward": true,
+    "voterAddress": "0x5cbd87f8591869f5959a196722245f0c893c78ea",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "AlphaOracle",
+    "eligibleForReward": true,
+    "voterAddress": "0xc29e844b2e9393155b8e3f441bc68f2a69d1efe5",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Aimlezz",
+    "eligibleForReward": true,
+    "voterAddress": "0x3168e8457b3f36d01cef47947f927b9c30076f2a",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Kiln",
+    "eligibleForReward": true,
+    "voterAddress": "0xc459a983636c2f5fc690968a732037d1ead1a10f",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Linden Services",
+    "eligibleForReward": true,
+    "voterAddress": "0x1a34a80deb40d2a1a6c0e2959785058a975ad900",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Burst FTSO",
+    "eligibleForReward": true,
+    "voterAddress": "0x258b0352df1d1268856f92846d223c74eb2de9d9",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "FTSO EU",
+    "eligibleForReward": true,
+    "voterAddress": "0x267757380d129191994ed55606e41ab3aac52b6a",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Nansen",
+    "eligibleForReward": true,
+    "voterAddress": "0x6c7c332a090c8d2085857cf3220ea01c6d45a723",
+    "passes": 2,
+    "failures": [
+      {
+        "protocolId": 100,
+        "failureId": "FTSO_SCALING_FAILURE"
+      }
+    ]
+  },
+  {
+    "rewardEpochId": 314,
+    "eligibleForReward": false,
+    "voterAddress": "0x3b1860969c6e00aef35c48a1bbbe15a3017d558d",
+    "passes": 0,
+    "failures": [
+      {
+        "protocolId": 0,
+        "failureId": "STAKING_AVAILABILITY"
+      },
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "SolidiFi Nexus",
+    "eligibleForReward": true,
+    "voterAddress": "0xde38ab3840a9da20a266b68a395df270895561e5",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Swyke",
+    "eligibleForReward": true,
+    "voterAddress": "0xf1f468658f7b098d44fbc54f77459a765704f34a",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "sToadz FTSO",
+    "eligibleForReward": true,
+    "voterAddress": "0x4b84eeb4492a53fa6c8d6a188c1ab2327f3abc45",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "FlareBus",
+    "eligibleForReward": true,
+    "voterAddress": "0x52d45fe5d1c5e4531b05aa224589c82f8a011fd9",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Ugly Kitty",
+    "eligibleForReward": true,
+    "voterAddress": "0x19e655bb5f25ccbb88ca26f69694cd83641f3b78",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Aureus Ox",
+    "eligibleForReward": true,
+    "voterAddress": "0xe3b7968c1b706461a8f63540080ecf4ce70c30c0",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Flare Sensei",
+    "eligibleForReward": true,
+    "voterAddress": "0x5a7fbd867a4e3ef65085448beb05ed2a55b223ae",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "eligibleForReward": false,
+    "voterAddress": "0x8597012f40b98f24f40e01a552e5ca5945391f0d",
+    "passes": 0,
+    "failures": [
+      {
+        "protocolId": 0,
+        "failureId": "STAKING_AVAILABILITY"
+      },
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
+  },
+  {
+    "rewardEpochId": 314,
+    "eligibleForReward": false,
+    "voterAddress": "0xecafe633830fa27b4912a5588c28b7d994e1f203",
+    "passes": 0,
+    "failures": [
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Atlas TSO",
+    "eligibleForReward": true,
+    "voterAddress": "0xe3e7c8e587a273966562c8f9768a10f214f63c49",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "FTSO Asia",
+    "eligibleForReward": true,
+    "voterAddress": "0xa6b95941845b229ad7b2cd4c3c6de3ad9d0865ff",
+    "passes": 0,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "TempestFTSO",
+    "eligibleForReward": true,
+    "voterAddress": "0x8080ec3d0330a80d57901bcecb298646fbde5419",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Xdrops Oracle",
+    "eligibleForReward": true,
+    "voterAddress": "0x625598caf40c63eb62860260cfd343d5fa4d88d4",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Bifrost Wallet",
+    "eligibleForReward": true,
+    "voterAddress": "0x1650d2760baee638c034200dedcbe17b050d0364",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Ftso.Best",
+    "eligibleForReward": true,
+    "voterAddress": "0x05d8f084bf6ac2267a5ca699740e9236db6e2bdb",
+    "passes": 0,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "eligibleForReward": true,
+    "voterAddress": "0x11cd153df9f4497aa3d21e95f61cf638911377eb",
+    "passes": 0,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "InfStones",
+    "eligibleForReward": true,
+    "voterAddress": "0xe34fb45b2e966a69f8b2a17118aa14d57667d197",
+    "passes": 2,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Scintilla",
+    "eligibleForReward": true,
+    "voterAddress": "0x4fd3b47e10017d767bee358fe7290533c7218836",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Stakecore",
+    "eligibleForReward": true,
+    "voterAddress": "0xcdeae85d8cef99a6433f341c3dce6096c3c5598c",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "eligibleForReward": true,
+    "voterAddress": "0x59b1ab4ad053de8f9c9a0660f6a995f37d40f03d",
+    "passes": 0,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Flare Oracle",
+    "eligibleForReward": true,
+    "voterAddress": "0xd18c9dd0302b3f56ea6f1b021f4259684b3619e8",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "A-FTSO",
+    "eligibleForReward": true,
+    "voterAddress": "0xed077a4ab0864bf5b3b56caacbb3e41633acf52f",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "FTSO Paris",
+    "eligibleForReward": true,
+    "voterAddress": "0x5558543cb4da2c0f6d6c066a5ad1080943f9341e",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "eligibleForReward": true,
+    "voterAddress": "0x1645a43ec5d09a0f0110683b5f5a4dc2ffcef17d",
+    "passes": 0,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "FTSO UK",
+    "eligibleForReward": true,
+    "voterAddress": "0x30339750867a19381f4cbcd5da9b04c8ac6c5eae",
+    "passes": 0,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "A41",
+    "eligibleForReward": true,
+    "voterAddress": "0xbbc569ca9c9288b6772f467025dc376b4cc5b107",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Sun-Dara",
+    "eligibleForReward": true,
+    "voterAddress": "0xa65810ab797902af04843f24cec2208942eecbe1",
+    "passes": 3,
+    "failures": []
+  },
+  {
+    "rewardEpochId": 314,
+    "dataProviderName": "Lena Instruments",
+    "eligibleForReward": false,
+    "voterAddress": "0xa3b84c1f57ff17a6ea5098ad58d94ba8ea7149b7",
+    "passes": 0,
+    "failures": [
+      {
+        "protocolId": 255,
+        "failureId": "FAST_UPDATES_FAILURE"
+      },
+      {
+        "protocolId": 0,
+        "failureId": "STAKING_AVAILABILITY"
+      },
+      {
+        "protocolId": 200,
+        "failureId": "FDC_FAILURE"
+      }
+    ]
+  }
+]
