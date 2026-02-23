@@ -1,0 +1,2421 @@
+{
+  "rewardEpochId": 333,
+  "network": "songbird",
+  "appliedMinConditions": true,
+  "rewardClaims": [
+    {
+      "merkleProof": [
+        "0x13774958b9b97dc41afc51f500503e54b575c7bf0a2c2c33f0e0922299a2f0be",
+        "0x5311d688e9cb9389f26eb663d42abe6c9c03531d64a629af4eee686f27d7f1a8",
+        "0xd3ca375822bbc328e15ce09bf0fe367dc6d6a7081c5f5ed21bbb823c1c25b401",
+        "0xcc9a0405bccd0b2092870064c8b05868886e368c99a9104e6d5e65250b70b4bc",
+        "0x86df3734a246092ddfb56b2d1aecf99adb0f23d8ee0cb9b9c3aece5416fdb4c9",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x010a16c53f33e4d93892f00897965578b55a8cfc",
+        "claimType": 2,
+        "amount": "59760411459006542458819",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x542e9752f6b24514190a2865f1b1f764f98acc069286ccdbca441fabb246612c",
+        "0x905a1351c813c41b21bb2b44667cebe2cdfefd33b43348cc8260fa3b0aa1cb10",
+        "0x5d931c1f2ae841ab4991dbcc4ee1c4a2cd5957f3bb52fd014a6c76a3d33a0c95",
+        "0x2da6519b9aa46931a2090b8995f996ea5e02824d5e4345bb055ec66df676d330",
+        "0x01fe5e214f0e3afa188bcd5de03fa1ec3597826033dad461f03e287f7ecaa6f6",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x01caaaa7b40aa13ab2a04087d262b5558e695607",
+        "claimType": 1,
+        "amount": "17810390275548879758565",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x3c0d59676c19f29d5fd50f6c81d30430c8133e643da2ec60c7bef8ae4e3cf09a",
+        "0xba8a94d8176dbdae00773fd7cd557c486ef2615c08233c62422bd88ce7e55ccc",
+        "0x8ed0e236de884709478b799a20d93f0abe78285728eaca27ebb6d7adab7df982",
+        "0x50397b676821e92ca4b1835cad0cfc398f46929a415433a7c8258c95bfff58b7",
+        "0x01fe5e214f0e3afa188bcd5de03fa1ec3597826033dad461f03e287f7ecaa6f6",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x01f24cb1de93f218f6627d496e6318bea65f2f34",
+        "claimType": 1,
+        "amount": "19689892955201602224934",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x9baefe13c8bb947e41767682198d164af7b7003dcd18be2abe14035a8e9ab815",
+        "0xf995f617141752fe049d6bcc3836a84dda83b3f666837e5808c6032c502fa9c5",
+        "0x581e6c39871136ba4091682e9ec57423056c67ef38255325b36955c4b59f968f",
+        "0x3033c37bdc8e870d65746d0ff63927c3ffc85a2fad2b152ab1d30be771db8982",
+        "0xf645a449e520f06215add1d3d21bdff0ec15847063c28291485018f6e2c3139a",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x04a8b3171fbbfe4554b55190b43e709c4b672030",
+        "claimType": 2,
+        "amount": "188279355305463854164359",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xd0977774bf6f677e965e8347d0d596adf994e8f706076276d5c55569f8bbf659",
+        "0xd3312e24525964ac74e01c564165d9a426886d7724ffc6345616e913fc23a1d0",
+        "0xba9d9a21d5edf8b7597da6dd53cd09a7716559af7ffcdcb0954ab7549eecdd0c",
+        "0xa65acd50a88de94fac0ea037dfebdc3350d7e45a4f129602b78c65c48586e38a",
+        "0xe524a1b46ba5459a0f7c44df13270405622fe92876c81e1efeb822664eacd6e3",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x04bd6870d801d68cd58163900b8eed6bddda29cb",
+        "claimType": 2,
+        "amount": "51250546514146927659836",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xa12da5e21a39a18690884d99faf94a7665e00878708cb729ab021ae0177916d1",
+        "0x3626d526001bb837b03907096685d92c20321f26eb6beb299a550c5e51ad6bc5",
+        "0xaecb5ef79dc4c5b270ef3051befcaa371b6445607360ad48d7c33bb401d9781d",
+        "0x1d5cccfb9fdedc99de84880a48f8ce59cf082a6344469e24fa9ca7faba1ca22f",
+        "0xf645a449e520f06215add1d3d21bdff0ec15847063c28291485018f6e2c3139a",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x0501b6306b03a9eede8165d4b9abcb4915937b89",
+        "claimType": 2,
+        "amount": "48975130615337466239237",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x230f86d49c4ca033a39d8db3d55cd4862509ab740e98db0bc11c2ced8ac20e3c",
+        "0x85c53e1373d0017d228011b0e6a9878d180fe64f52e4f509f09238d44f7f4d0a",
+        "0xffb5b770013d9cb0809d693f2b65fe29457560f7f8737cda831c26d0b1270c71",
+        "0xcc9a0405bccd0b2092870064c8b05868886e368c99a9104e6d5e65250b70b4bc",
+        "0x86df3734a246092ddfb56b2d1aecf99adb0f23d8ee0cb9b9c3aece5416fdb4c9",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x05d8f084bf6ac2267a5ca699740e9236db6e2bdb",
+        "claimType": 1,
+        "amount": "10377296515145215325467",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x027aae3e336e891943df01250e445f4a149fb355116f26bc930504fba888f562",
+        "0x5e60b53eb0da72aa54584dab9b1a53d53ef2110cb101dc0eef6f2497c07443a6",
+        "0xf1184dc7e619c25cba18741dd5029c1335b072c180814aa41352d3e4f8b4c672",
+        "0x27bc2bb8e1f3efd1ae127f5c713bdf3ba047614ef25d8f3f42926a5783add4fc",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x0708a4c813594b7e0218cb4a5d8b75c76abfc859",
+        "claimType": 2,
+        "amount": "116186433848806516103216",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xb8714c128b655444afa89177a6f9d2b94fa5958aa3da7c3f79c2195727942757",
+        "0x8d2032fd8dfd3f60b780d3884d83815546ed60c76b91117dc874c27307741273",
+        "0xe712e288c7d4eb28fa3d1972cfcc69420fcf0762efc8038f5ac7eea41ef96f2b",
+        "0x620bdb508540c0f69ddb86dd39d2149570ff5dc554c36c451ea85a66fa96f9f7",
+        "0xbf109403fc7b61a6e232466403d2d4e89636f6e8d3213ae65a7f1b3ef301ae52",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x0a2128437f75ea111887f033fd84794403562737",
+        "claimType": 1,
+        "amount": "24172838582411334923808",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xb42aa1065f5ca69cce6d121ea1763f6b67667614d6afac5010333faa34119128",
+        "0x202404827a667baa2c7bc4b99a2f070ae9d19b0d360b42812096663c82bdc4be",
+        "0x6ba70710e6f2599a17a34e91715fdd84221a50ca59280b32e53387bc98640420",
+        "0x620bdb508540c0f69ddb86dd39d2149570ff5dc554c36c451ea85a66fa96f9f7",
+        "0xbf109403fc7b61a6e232466403d2d4e89636f6e8d3213ae65a7f1b3ef301ae52",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x0c660191434484428a563614e0aa9d2041772953",
+        "claimType": 1,
+        "amount": "47107862590291683011858",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x5a330ac9c723513cf0fd0bd5a6cfc12e2737fee367a9ab39f961b4c77f894067",
+        "0xa69d4ca8527d2bd9ba62b563eaae8d6e2ca4ba9797f172d9b36aff65cb5d5ed3",
+        "0x2ab7685a61484ab968aa1c2cb9268f97329f2658d6b208b7c1aeb2ab13341745",
+        "0x56b58bd220be5b462243ff4cfe965f54fb4bcca9ebea5f11b34971f873d52172",
+        "0xf1a97b0b93cc07f42f5587cec1b268425eb6350fcaf94913eb8db190f3017666",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x0d3852ad415477ffc39ce9351bd4dedbbd585833",
+        "claimType": 2,
+        "amount": "78759571820806408934312",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x8634fe128bc726f378546c28b4dc33e0d3a8f53c516312d0b489092eef5eff68",
+        "0x4428e412543020a6e68475bf7ca4a194f9bf786132da4470c7d44baf9c76a8ba",
+        "0xcc64fbb4b7cb32123d88de781db4fb7c2817de8df26e3ef42c772b0cfe873a90",
+        "0xf3ee9ba88da31e246d8b519b6949972a9b09db6350c79a1d565cae136b0e9b8a",
+        "0x46053751eaab72f8ba246b1f44faec22910051b22f8b0b7c10e75e21fe4cc208",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x0e879d2836196f9bb212eaa5d6b206fa633a8370",
+        "claimType": 0,
+        "amount": "108907127248287855162",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x458d2a0b1e4b76ecad74c824acdefe738f5afa63d914ec59d74565bedf777946",
+        "0x3532a534ef87ca2ba3d6d80aaed8db7855f6b23d8abb97a40e69293bd1d3feaa",
+        "0x50144e4cffb710752119fe17f4d592bddad9ebbc071c217c2dc31f30b965d82a",
+        "0x50397b676821e92ca4b1835cad0cfc398f46929a415433a7c8258c95bfff58b7",
+        "0x01fe5e214f0e3afa188bcd5de03fa1ec3597826033dad461f03e287f7ecaa6f6",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x0f80af5b905a9a34f69e74412c4a00b231d26daa",
+        "claimType": 2,
+        "amount": "188148955328570295602920",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x85cab7c52acf206ede33b310247ea27aec8dadf0339b9abf2798cfafdf83235e",
+        "0xeee14df3603fc048d9dbed5209cdc2256a8663515e3efd8b7bb1649116e2eea8",
+        "0x4df0741c5c37470aa427c103c89b0e5e3c279074a057f6acae20f7a54b9adb93",
+        "0x3e33806cf0bd2c6b033ac7660b5007eef709094adf8fe0bb7590680e172c3cc5",
+        "0x46053751eaab72f8ba246b1f44faec22910051b22f8b0b7c10e75e21fe4cc208",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x0fa72d3912d1c530ab1f6a8a9fb61c672947e964",
+        "claimType": 2,
+        "amount": "157325239204050930151920",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xb80d9a014f6651b781b814d6e57e75dab3dd5f2d9a7c43fab838c81e80965694",
+        "0x8d2032fd8dfd3f60b780d3884d83815546ed60c76b91117dc874c27307741273",
+        "0xe712e288c7d4eb28fa3d1972cfcc69420fcf0762efc8038f5ac7eea41ef96f2b",
+        "0x620bdb508540c0f69ddb86dd39d2149570ff5dc554c36c451ea85a66fa96f9f7",
+        "0xbf109403fc7b61a6e232466403d2d4e89636f6e8d3213ae65a7f1b3ef301ae52",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x121c651710217239592a169b9f7d1038ad53446d",
+        "claimType": 1,
+        "amount": "11670855687119932469558",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x600a06ba24e121d2604c0d5f40c641f55b3b7c3fb5019cc72488c3d6b8659766",
+        "0xa98c4a459108aade08d4fc723d67a9dd1e650c6243588cd574f4a0559b7c3f21",
+        "0x57435ab33ad9fb19ccdedd13a5b8c7831de0ceea5b7e15d0daba0ef2616f101b",
+        "0x56b58bd220be5b462243ff4cfe965f54fb4bcca9ebea5f11b34971f873d52172",
+        "0xf1a97b0b93cc07f42f5587cec1b268425eb6350fcaf94913eb8db190f3017666",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x18c8af2eac14282e207c67c405325e5a4a401a9f",
+        "claimType": 1,
+        "amount": "21152219150291777388469",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x60103265831328918d836eef81aebde2cb5cd2e0a319ea745ce4750759f0988a",
+        "0xa98c4a459108aade08d4fc723d67a9dd1e650c6243588cd574f4a0559b7c3f21",
+        "0x57435ab33ad9fb19ccdedd13a5b8c7831de0ceea5b7e15d0daba0ef2616f101b",
+        "0x56b58bd220be5b462243ff4cfe965f54fb4bcca9ebea5f11b34971f873d52172",
+        "0xf1a97b0b93cc07f42f5587cec1b268425eb6350fcaf94913eb8db190f3017666",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x19585c914aea4d985e034399c581b35014ec94ef",
+        "claimType": 1,
+        "amount": "47357781175644166916883",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x1e9d512cec7a5326f730f88cfa756e42857627640df8ee4e93feeef3cf5074ac",
+        "0x662da416782e9178fc62c754d5bdfb3ee049b939013367b8b99dc62b2b612a61",
+        "0xffb5b770013d9cb0809d693f2b65fe29457560f7f8737cda831c26d0b1270c71",
+        "0xcc9a0405bccd0b2092870064c8b05868886e368c99a9104e6d5e65250b70b4bc",
+        "0x86df3734a246092ddfb56b2d1aecf99adb0f23d8ee0cb9b9c3aece5416fdb4c9",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x1a34a80deb40d2a1a6c0e2959785058a975ad900",
+        "claimType": 1,
+        "amount": "13261004857371780270960",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xc91029df96b668d9070ea0f1d0958b3519c27609ce2bf3190b77a1fdeb81717c",
+        "0x0f31023d6174ff2553cebb63e759597f30ca47aa7581f0e816d85d047d36a146",
+        "0x53b10445d0332466172ebe77e4619b3de445a312c03a1c3adba3bd300a3270e5",
+        "0xd336fdb1c9e7fb596215d67d70af6a37defa7ea6a708465e36b04d80af31043a",
+        "0xbf109403fc7b61a6e232466403d2d4e89636f6e8d3213ae65a7f1b3ef301ae52",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x1b00870092a929d160492daf8e734b4bca033266",
+        "claimType": 2,
+        "amount": "174757963906852458665864",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x9b58fc5dba8dcbe68e43ef84583ebf474b9dbc3af09d15fd32a114357de24631",
+        "0xf995f617141752fe049d6bcc3836a84dda83b3f666837e5808c6032c502fa9c5",
+        "0x581e6c39871136ba4091682e9ec57423056c67ef38255325b36955c4b59f968f",
+        "0x3033c37bdc8e870d65746d0ff63927c3ffc85a2fad2b152ab1d30be771db8982",
+        "0xf645a449e520f06215add1d3d21bdff0ec15847063c28291485018f6e2c3139a",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x1c602a30335187a97d8061ffffd4522796de82bf",
+        "claimType": 2,
+        "amount": "144248661193681129195598",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x6cae4a0fd98c7fa113291ed10fab4951de985eb5caa49b7531ef19e07596a2ab",
+        "0x0d01a6522a3d15b58e3a03cfa4a9207d05042e75867309f738e6b5c4fdd52943",
+        "0x3dda2f2718db3c913aa896a6657b4a414034979bd1db37809cef1831586686e8",
+        "0x95ee94b6067935f1c356688a836f81664dd3854b75e15dc8bfab1a8c3d2ba604",
+        "0xf1a97b0b93cc07f42f5587cec1b268425eb6350fcaf94913eb8db190f3017666",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x1cbf078705c907510fdb711cf3c6e9b8e583f156",
+        "claimType": 1,
+        "amount": "28117377035954260180151",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xd2059591061409bc3fbf372b15b898762bb4bf468eedba1a6533f930fa255b62",
+        "0xd3312e24525964ac74e01c564165d9a426886d7724ffc6345616e913fc23a1d0",
+        "0xba9d9a21d5edf8b7597da6dd53cd09a7716559af7ffcdcb0954ab7549eecdd0c",
+        "0xa65acd50a88de94fac0ea037dfebdc3350d7e45a4f129602b78c65c48586e38a",
+        "0xe524a1b46ba5459a0f7c44df13270405622fe92876c81e1efeb822664eacd6e3",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x1e68dc808a240c096f0261144dc41fd4c883cfb0",
+        "claimType": 2,
+        "amount": "38219860261996878252527",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xe59a1df5ae9ea350289dab74f3e57c63c592a680687e56efe9bf32a1b684c9ce",
+        "0xaf3d9a19f908430ea797513f8174000b6d6b00a5195059a3392bb1de9b2caa81",
+        "0x4b6d83ecf52d26cefcffe29178e4b1cae19e1e3e758301bb66c5a60944c12cb5",
+        "0xbe5e25e7f9c395d541beab84915310b60f4babb3d09789365802b4f2990eca79",
+        "0xe524a1b46ba5459a0f7c44df13270405622fe92876c81e1efeb822664eacd6e3",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x21ef03f609aad7db7224d3f8fd90f5593d2607ca",
+        "claimType": 0,
+        "amount": "75954989073801498613",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x5539c8484df4e3d0f559d1fe864168819516d658f92c9cb14fdb9b2c5f91cdb5",
+        "0x844660a84810ba5e70c951c591f0309ef6225e66773fdac235937d912322fd7f",
+        "0x5d931c1f2ae841ab4991dbcc4ee1c4a2cd5957f3bb52fd014a6c76a3d33a0c95",
+        "0x2da6519b9aa46931a2090b8995f996ea5e02824d5e4345bb055ec66df676d330",
+        "0x01fe5e214f0e3afa188bcd5de03fa1ec3597826033dad461f03e287f7ecaa6f6",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x276d718dd0b4e9271e3bfa776c112753a06bc53f",
+        "claimType": 0,
+        "amount": "109107127248287855162",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xe26859cc2045b4e4d3e33639163d7fe0b0dd8edac7a6ece8fc679ac9ef12ece4",
+        "0xaf3d9a19f908430ea797513f8174000b6d6b00a5195059a3392bb1de9b2caa81",
+        "0x4b6d83ecf52d26cefcffe29178e4b1cae19e1e3e758301bb66c5a60944c12cb5",
+        "0xbe5e25e7f9c395d541beab84915310b60f4babb3d09789365802b4f2990eca79",
+        "0xe524a1b46ba5459a0f7c44df13270405622fe92876c81e1efeb822664eacd6e3",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x27cb5f4eba81976617b75953053d33ef2002dadf",
+        "claimType": 2,
+        "amount": "53044019429487121116853",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x9f94d218c0e26eb922d5715454465cb79711bff0bbb4c901ecb04c3fc035f3c4",
+        "0x82c8a314fd117c8f97007aa220e145f643f0afa25e943d4cef177bddfa4599ce",
+        "0x581e6c39871136ba4091682e9ec57423056c67ef38255325b36955c4b59f968f",
+        "0x3033c37bdc8e870d65746d0ff63927c3ffc85a2fad2b152ab1d30be771db8982",
+        "0xf645a449e520f06215add1d3d21bdff0ec15847063c28291485018f6e2c3139a",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x285ee7a4ec946ad5f6edae1611dbc4bc0510c783",
+        "claimType": 0,
+        "amount": "108707127248287855162",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xb3d64c958e43ca839440e7df56437044de4d3e3694a9c90184ddc51b6aa52f43",
+        "0x202404827a667baa2c7bc4b99a2f070ae9d19b0d360b42812096663c82bdc4be",
+        "0x6ba70710e6f2599a17a34e91715fdd84221a50ca59280b32e53387bc98640420",
+        "0x620bdb508540c0f69ddb86dd39d2149570ff5dc554c36c451ea85a66fa96f9f7",
+        "0xbf109403fc7b61a6e232466403d2d4e89636f6e8d3213ae65a7f1b3ef301ae52",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x28603d496801086f503d80b5d321ecad13ca3afc",
+        "claimType": 1,
+        "amount": "34205086805294907358527",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x0e407f49c980e790000c2040751c974991058276be6c95e6b8c6b1c38a104fc2",
+        "0x9498805670dde8b3ae6b2a6b1f547d6f62ff3cede0de71e1f19bd244fd342d29",
+        "0x3ac0f603a5886b56d3a660e8293fc89c48eac77262b488078187ea7ca6c0b5c4",
+        "0xc611986d125d93cbeaaf925c7784b8051b1151dcb64e5247fc4582b1241b99d8",
+        "0xb9a76688860668d594a4c4b6aff3288556831ede6b50883d94b8682f5ab7e987",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x2c293599ca61bb53e8ff82c8a19c2a8b883ea23f",
+        "claimType": 2,
+        "amount": "136820347221179629478255",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x0f52abd25a4e38ded3b656251a162612e7fe2d9dc874b7b9baaee07257c9b5f1",
+        "0xe8c27bd98e353cd334c89cd4f224aaccd6b6507aaf4a8b39e6e42e186242b630",
+        "0x6aad0487eb9a0ddaf4f44f817723622bcc1f06ab4a8e9e71f132436abe7c7c05",
+        "0xca226439332efa3904802d3eb28e6ac243daaa10604643bb15cfb3389ef9f39c",
+        "0xb9a76688860668d594a4c4b6aff3288556831ede6b50883d94b8682f5ab7e987",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x2d3bde536ad297f2ea74965f02c9e42f4780fb6a",
+        "claimType": 2,
+        "amount": "51403595932294999568272",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x4defbe3bbde7e7314a14a70f2a237f26af18117d599bdcc612488db448ca9546",
+        "0x6860994daec256877dfdaa77fde13519b2f4dcbd469ca7037f07efa14fbae4e6",
+        "0x0ab5c18bfa6101863771d860b5e16bf6bb4ed3ad93e7ae034eed68b6ba6c5b2b",
+        "0x2da6519b9aa46931a2090b8995f996ea5e02824d5e4345bb055ec66df676d330",
+        "0x01fe5e214f0e3afa188bcd5de03fa1ec3597826033dad461f03e287f7ecaa6f6",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x2d7bf53ed6117ad1dcd6416d460481522a16afdf",
+        "claimType": 2,
+        "amount": "188431450361166732098587",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x598091c4df1abe32d920b91fb5c38a0a6a3df9a2a60aaf4a5659bdb0bb75cd98",
+        "0x1ba40accf868b379b3f401f5866a3368fe3feff68121d2b76571cb0ce0def292",
+        "0x2ab7685a61484ab968aa1c2cb9268f97329f2658d6b208b7c1aeb2ab13341745",
+        "0x56b58bd220be5b462243ff4cfe965f54fb4bcca9ebea5f11b34971f873d52172",
+        "0xf1a97b0b93cc07f42f5587cec1b268425eb6350fcaf94913eb8db190f3017666",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x2de2c741658f0ae7b2ddd8eadd179911564af119",
+        "claimType": 2,
+        "amount": "98546654751889358240937",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xd3aa86f1e355153ceab4265cdeffb96459a8af69b9df9502a615cd3f1cd5fece",
+        "0x676688f532c5601495bb906834d0a30eb4aa869e6651970297866c5f1392733e",
+        "0x3d66a4422634b1f83535559420733f16497fcb2c2cbf35a6c1838d7522d7bbb8",
+        "0xa65acd50a88de94fac0ea037dfebdc3350d7e45a4f129602b78c65c48586e38a",
+        "0xe524a1b46ba5459a0f7c44df13270405622fe92876c81e1efeb822664eacd6e3",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x317edfb00ca5065590f6662ee33264b5c27b7c31",
+        "claimType": 1,
+        "amount": "10805807896336686867869",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xae1befb5e299f0ee912a29d4e5eabb4dc0a03ca1576568e847a4401d3546899f",
+        "0xf1aad22a384ac1b7debb2b04f695d6781fb317cd38b8779b722ddf2e91a1c877",
+        "0x8c03be722bf352669d98375a53ed4ac17bc2f6f14dbae51ae5a752e3928529d6",
+        "0x1d5cccfb9fdedc99de84880a48f8ce59cf082a6344469e24fa9ca7faba1ca22f",
+        "0xf645a449e520f06215add1d3d21bdff0ec15847063c28291485018f6e2c3139a",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x338119f38fc07f29aa96449251353d9e4684da6d",
+        "claimType": 0,
+        "amount": "108907127248287855162",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xce8865fa430e5a64a84c2dd526a4c7d81f1fb4a222b7d4c2ce40b1713a7153b0",
+        "0x20805221bc8095656121177a3e2c557599980a87bd234881a35608cf81d024f1",
+        "0xba9d9a21d5edf8b7597da6dd53cd09a7716559af7ffcdcb0954ab7549eecdd0c",
+        "0xa65acd50a88de94fac0ea037dfebdc3350d7e45a4f129602b78c65c48586e38a",
+        "0xe524a1b46ba5459a0f7c44df13270405622fe92876c81e1efeb822664eacd6e3",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x33ddae234e403789954cd792e1febdbe2466adc2",
+        "claimType": 2,
+        "amount": "20106457446672196406916",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x03f76870346f23f338689966b105055df0cc7ba34f8df3b29e5a5daaae818bb4",
+        "0xd531f75633f43e784abb81b5389844cd68f79ac9a28df2b848f59c01a7daa4ba",
+        "0xf1184dc7e619c25cba18741dd5029c1335b072c180814aa41352d3e4f8b4c672",
+        "0x27bc2bb8e1f3efd1ae127f5c713bdf3ba047614ef25d8f3f42926a5783add4fc",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x342c8c165db96a60efedd2e3480ae5398a1fd322",
+        "claimType": 1,
+        "amount": "41977489355176979244192",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xed6ca8093865ce89d2052f684b5dc8b20478adb83365d10b7806970f8e61e559",
+        "0x1cb1487aa41ccbd56d239c89d84f64da7cf40374283df3e4a1a7a5b9b18de4d5",
+        "0x4b6d83ecf52d26cefcffe29178e4b1cae19e1e3e758301bb66c5a60944c12cb5",
+        "0xbe5e25e7f9c395d541beab84915310b60f4babb3d09789365802b4f2990eca79",
+        "0xe524a1b46ba5459a0f7c44df13270405622fe92876c81e1efeb822664eacd6e3",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x35149714467f2fe71b46eeb4d11689ed8728bd25",
+        "claimType": 2,
+        "amount": "71241561102195519071681",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x97d735239d8ccfc2dfc921b3f3d4e4517e5161594fee0ebae859919da44fba76",
+        "0x2572df9b34bb4d0ec7793e48b091b1c80f527b866cb8a0d384d5feb89a030d11",
+        "0xc649d355c4ecd10ab79d73de281ec87bf6ee6cadee5de7f80a91798fcb213993",
+        "0x3033c37bdc8e870d65746d0ff63927c3ffc85a2fad2b152ab1d30be771db8982",
+        "0xf645a449e520f06215add1d3d21bdff0ec15847063c28291485018f6e2c3139a",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x35d73107a089ac2b3b14a6681d8c408aab9568d3",
+        "claimType": 2,
+        "amount": "96691354329645339741688",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x9447fc2dcf13ee0787836788f108d9225bdda055d2c00bb6748aa3c2ba831e98",
+        "0x2941fb8a8a29fa08191e7ca3ea03115cf7a6ed12492731628b5926cde9fc1185",
+        "0x2355a44e30d3103c5b2ab40efc7f6b6a38ce6fd0eb55579a10de990b77bf9edc",
+        "0xf3ee9ba88da31e246d8b519b6949972a9b09db6350c79a1d565cae136b0e9b8a",
+        "0x46053751eaab72f8ba246b1f44faec22910051b22f8b0b7c10e75e21fe4cc208",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x3886e101bb798ab3180b52a393b5beab39f2db1d",
+        "claimType": 2,
+        "amount": "72613807633899714026724",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x1e2c94275d923d8b7bf0250086c14fce1b6dfff62cbcaf1cd1ba4917586bb054",
+        "0x662da416782e9178fc62c754d5bdfb3ee049b939013367b8b99dc62b2b612a61",
+        "0xffb5b770013d9cb0809d693f2b65fe29457560f7f8737cda831c26d0b1270c71",
+        "0xcc9a0405bccd0b2092870064c8b05868886e368c99a9104e6d5e65250b70b4bc",
+        "0x86df3734a246092ddfb56b2d1aecf99adb0f23d8ee0cb9b9c3aece5416fdb4c9",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x3ed54c61ec0ff7c144d547c2d032392864e66ca2",
+        "claimType": 1,
+        "amount": "47069838826365963527946",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xffe5261ae6c4daee1e5666876039fccd208edea9840c0d6b4b4c784edccd8592",
+        "0x00ce5e89d9820a5a176041136d2307ed99d0ba2610829dee938b970f27c13c06",
+        "0x6ce272d14faf71f2018150c09940c68457442d0a5b030eed8de5bf746d265eb5",
+        "0x82ff6454bc6b7cb3a1b213452224ecf4df617478271890e0b4df7548ed1d5f76",
+        "0x27bc2bb8e1f3efd1ae127f5c713bdf3ba047614ef25d8f3f42926a5783add4fc",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x43cab70e8edefef8c648c4fc0863dd9d8ff5776a",
+        "claimType": 2,
+        "amount": "77052428294388383813389",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xf634c62b2df16450753674117e5650544b4e785e186052d824c298057907c8c3",
+        "0x55f14e200963e4662a00ca0b3e692ac625de2c955080eab1a7655cd327713989",
+        "0x8ccd3c913c19d64b3deeaaa68a3662c592eacf355334bd1ebb07650381fe5258",
+        "0xbe5e25e7f9c395d541beab84915310b60f4babb3d09789365802b4f2990eca79",
+        "0xe524a1b46ba5459a0f7c44df13270405622fe92876c81e1efeb822664eacd6e3",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x44eb776cd95ae59b2eda2ce354557427361e75da",
+        "claimType": 1,
+        "amount": "24202850387873850324727",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x12249ff682861d4da6b5faf9c80ce2e2bc7d39dec38114f33c75753e74e58458",
+        "0xcf31edc0eff16cae0fc4f0762d892b941ff867b51889160d252b72a83e1120bf",
+        "0x1c4aa038fe0b6aeb695c1dffa9122777d0d49550cd0380780c8d834636ee5506",
+        "0xca226439332efa3904802d3eb28e6ac243daaa10604643bb15cfb3389ef9f39c",
+        "0xb9a76688860668d594a4c4b6aff3288556831ede6b50883d94b8682f5ab7e987",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x4619ae2f09cf5e6da873c501a12d86aacbd7962b",
+        "claimType": 2,
+        "amount": "73661276300801442489031",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x76914f7e5e05e69df3638adbe16334cb315d53ed457646443594219f516f9908",
+        "0x3b74fea0cdb74fe311937f5cd9cc85ac90ee002a4deaa7bfecbf188b881fb0f8",
+        "0x8aec3b8956a4f5d800258430e08fd9b3a39e6dc1bf4696509a0727dd4b3c53ce",
+        "0x3e33806cf0bd2c6b033ac7660b5007eef709094adf8fe0bb7590680e172c3cc5",
+        "0x46053751eaab72f8ba246b1f44faec22910051b22f8b0b7c10e75e21fe4cc208",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x48dcd1215b7f8c92150742765ffe989f55b3a5b0",
+        "claimType": 1,
+        "amount": "18153451908474928497182",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xafea217b5871853573491e70f7f4665750af50755cc0a75f7fc8cc59c0470dda",
+        "0xc490aa9f16b708536dac8963ac2555897326a9a20407ce671f65b36249f13e6a",
+        "0x8c03be722bf352669d98375a53ed4ac17bc2f6f14dbae51ae5a752e3928529d6",
+        "0x1d5cccfb9fdedc99de84880a48f8ce59cf082a6344469e24fa9ca7faba1ca22f",
+        "0xf645a449e520f06215add1d3d21bdff0ec15847063c28291485018f6e2c3139a",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x493e5d0833646f99e4b414e9de5a10d8cb9b5c5a",
+        "claimType": 0,
+        "amount": "108707127248287855162",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x7ab33d9a9fd4044218b823953182f373d8336a1208f73398d19118520ad43a5b",
+        "0x9d4f140a95745e40fca31ee44518457fd54e0af90821081666d76e85ee004ed6",
+        "0x8aec3b8956a4f5d800258430e08fd9b3a39e6dc1bf4696509a0727dd4b3c53ce",
+        "0x3e33806cf0bd2c6b033ac7660b5007eef709094adf8fe0bb7590680e172c3cc5",
+        "0x46053751eaab72f8ba246b1f44faec22910051b22f8b0b7c10e75e21fe4cc208",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x4985138d5efab799caa5abb09eb7dbc87dd5141a",
+        "claimType": 1,
+        "amount": "38977626143271373596560",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x3d0db5bd81260d7482bd66b46b29e3c2ff68ca0aad34248a538124f3f1c06e0b",
+        "0xe06ca65b4ff920b829d6b6d1156c9d764750e141f7ccba224c3a1503ac5bb9a4",
+        "0x8ed0e236de884709478b799a20d93f0abe78285728eaca27ebb6d7adab7df982",
+        "0x50397b676821e92ca4b1835cad0cfc398f46929a415433a7c8258c95bfff58b7",
+        "0x01fe5e214f0e3afa188bcd5de03fa1ec3597826033dad461f03e287f7ecaa6f6",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x499017adb21d6f70480e4e6224cf4144071c1461",
+        "claimType": 2,
+        "amount": "172396297566105507527838",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x257b7f80e0f46cd70e9404cc59cd438f884974a7bf193078c8f2dab86b2f844d",
+        "0x85c53e1373d0017d228011b0e6a9878d180fe64f52e4f509f09238d44f7f4d0a",
+        "0xffb5b770013d9cb0809d693f2b65fe29457560f7f8737cda831c26d0b1270c71",
+        "0xcc9a0405bccd0b2092870064c8b05868886e368c99a9104e6d5e65250b70b4bc",
+        "0x86df3734a246092ddfb56b2d1aecf99adb0f23d8ee0cb9b9c3aece5416fdb4c9",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x4ddd9f80f88f53c730ce7c6041f17583447dd968",
+        "claimType": 1,
+        "amount": "12596998041852312062415",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x48cdd41e42a9093bb5d83e16796173baeac2c394f0481986b412238444c1d173",
+        "0x6860994daec256877dfdaa77fde13519b2f4dcbd469ca7037f07efa14fbae4e6",
+        "0x0ab5c18bfa6101863771d860b5e16bf6bb4ed3ad93e7ae034eed68b6ba6c5b2b",
+        "0x2da6519b9aa46931a2090b8995f996ea5e02824d5e4345bb055ec66df676d330",
+        "0x01fe5e214f0e3afa188bcd5de03fa1ec3597826033dad461f03e287f7ecaa6f6",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x4dfcbc3a1529fb3c07245095fba7830063d71c34",
+        "claimType": 0,
+        "amount": "1825819737771235966716",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x621fde76b7a50787ebb4a8c03b72fbe14e5e89757d273570a68742c5f1c94258",
+        "0x1f0e112223786de75fddf2bad8010961d2f2604f03f36651896e989ed1763262",
+        "0x67462f574f9b189f3ef71c131daebba12d9fc82b6e130d91daedc43ae774e614",
+        "0x95ee94b6067935f1c356688a836f81664dd3854b75e15dc8bfab1a8c3d2ba604",
+        "0xf1a97b0b93cc07f42f5587cec1b268425eb6350fcaf94913eb8db190f3017666",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x4eb408fa585a5c66e523a4ae5f5706374ec9e8c7",
+        "claimType": 2,
+        "amount": "47399126100691367653861",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xae13442acfb11d4b278cb8293bd72078c7477dcc1a6841c707f1012d924f1857",
+        "0xf1aad22a384ac1b7debb2b04f695d6781fb317cd38b8779b722ddf2e91a1c877",
+        "0x8c03be722bf352669d98375a53ed4ac17bc2f6f14dbae51ae5a752e3928529d6",
+        "0x1d5cccfb9fdedc99de84880a48f8ce59cf082a6344469e24fa9ca7faba1ca22f",
+        "0xf645a449e520f06215add1d3d21bdff0ec15847063c28291485018f6e2c3139a",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x4f29816fddfecef74b05639718eb719f719def4e",
+        "claimType": 0,
+        "amount": "75954989073801498613",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x6103f90595152dfd18464cf3b56f55efa29dc128ad060527ad8485e7d7ab3ed3",
+        "0x625e828b940f457ef286dc6d0542cff48311667127f75f2bf482c81791553ffd",
+        "0x67462f574f9b189f3ef71c131daebba12d9fc82b6e130d91daedc43ae774e614",
+        "0x95ee94b6067935f1c356688a836f81664dd3854b75e15dc8bfab1a8c3d2ba604",
+        "0xf1a97b0b93cc07f42f5587cec1b268425eb6350fcaf94913eb8db190f3017666",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x4f84caab4a53aabbad2dfe1013d2bb53edbf2f0a",
+        "claimType": 1,
+        "amount": "46490105041662083043328",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xc94c97bf781be18df9032a757cc42baa46f54af6931e5b2d9132d55ddcdd73c6",
+        "0x0f31023d6174ff2553cebb63e759597f30ca47aa7581f0e816d85d047d36a146",
+        "0x53b10445d0332466172ebe77e4619b3de445a312c03a1c3adba3bd300a3270e5",
+        "0xd336fdb1c9e7fb596215d67d70af6a37defa7ea6a708465e36b04d80af31043a",
+        "0xbf109403fc7b61a6e232466403d2d4e89636f6e8d3213ae65a7f1b3ef301ae52",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x527e5e829763885008e171493c0e8d4a1ec48239",
+        "claimType": 1,
+        "amount": "27670999257483005912011",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x50f84a8fb22a17007c0df96e618db38c841c0b8a4502f34ba477ed95091e1210",
+        "0x6c4010dcd3e8db26d4f82ce125e50b28d914d3ea21ead01ba770a40bb46210cd",
+        "0x0ab5c18bfa6101863771d860b5e16bf6bb4ed3ad93e7ae034eed68b6ba6c5b2b",
+        "0x2da6519b9aa46931a2090b8995f996ea5e02824d5e4345bb055ec66df676d330",
+        "0x01fe5e214f0e3afa188bcd5de03fa1ec3597826033dad461f03e287f7ecaa6f6",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x53caedda4339ed74272ecfef85b657def18fa2e4",
+        "claimType": 2,
+        "amount": "142583175332193247066026",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x0bbd49ef6b7364ef2c92c3805a226257e73ed0eb3eb820643d8b393cc5495aef",
+        "0x7f327f40ebca124c4fdc4a7a0d0d2bfd0117460e40542d9d4435e7da4f58750a",
+        "0x3ac0f603a5886b56d3a660e8293fc89c48eac77262b488078187ea7ca6c0b5c4",
+        "0xc611986d125d93cbeaaf925c7784b8051b1151dcb64e5247fc4582b1241b99d8",
+        "0xb9a76688860668d594a4c4b6aff3288556831ede6b50883d94b8682f5ab7e987",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x5483a24b91fd1fcb8ba1c5ae54c85d9b61d62198",
+        "claimType": 0,
+        "amount": "75954989073801498613",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x30da18ce82f9de1fa8fd229a3975ab34f9937c1fa2a3c2a69fb5ce8c0d7d601c",
+        "0xf6104a9be23d32b8c96a7901777714141f9ce7ac0cdc5846e531ac178fdd7a3d",
+        "0x08fc8db6468b38ae75b67d510c7972571bae59c9f2fad11c622a609a099a59ed",
+        "0xb25907f0f2231dc5f2f9ab017ff01760d474dd5958209f379130029c7da2a411",
+        "0x86df3734a246092ddfb56b2d1aecf99adb0f23d8ee0cb9b9c3aece5416fdb4c9",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x5635db9b68e39721af87c758deab3b9f4704e96e",
+        "claimType": 0,
+        "amount": "75954989073801498613",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x43008a65084cb6c105ffe0b1ac060d31152d735e7ecaafc8ab179a5a5d81ce89",
+        "0x912a34dcf4b15df2e461b5c2a7e0d059f82bae6de73cc64d5120d88095cac503",
+        "0x50144e4cffb710752119fe17f4d592bddad9ebbc071c217c2dc31f30b965d82a",
+        "0x50397b676821e92ca4b1835cad0cfc398f46929a415433a7c8258c95bfff58b7",
+        "0x01fe5e214f0e3afa188bcd5de03fa1ec3597826033dad461f03e287f7ecaa6f6",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x580b729602c10c59b058c3c3b0cec6c3db7ae0c7",
+        "claimType": 2,
+        "amount": "46683422748479729905887",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x5e1886f08724f82fc82012e5df422b4a72f7aa95d036598de396bf2b59de2005",
+        "0xa69d4ca8527d2bd9ba62b563eaae8d6e2ca4ba9797f172d9b36aff65cb5d5ed3",
+        "0x2ab7685a61484ab968aa1c2cb9268f97329f2658d6b208b7c1aeb2ab13341745",
+        "0x56b58bd220be5b462243ff4cfe965f54fb4bcca9ebea5f11b34971f873d52172",
+        "0xf1a97b0b93cc07f42f5587cec1b268425eb6350fcaf94913eb8db190f3017666",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x58cd43e9fcdbd4d0f507ab4f6029db8032746da8",
+        "claimType": 2,
+        "amount": "89167879098511852507920",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x079a4cce9fbd55ed847acf7a8b1e3eb15f62e8e0b835d05e7a166828ac453f7b",
+        "0xb13c2186e908c5cc92ea794ec2782ae8111ed1d35fd18af742ec436198e3edbf",
+        "0x6394fba6fba97a9e3a3cbb638c74987e87f65c2edadb080e5fc575093c389369",
+        "0xc611986d125d93cbeaaf925c7784b8051b1151dcb64e5247fc4582b1241b99d8",
+        "0xb9a76688860668d594a4c4b6aff3288556831ede6b50883d94b8682f5ab7e987",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x5bb7e630a3c14d4f4d889b1c7488f7affc8da0e1",
+        "claimType": 0,
+        "amount": "326821381744863565486",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x77262e8f471ff61a1e07f438c1a6d4cb74c4729fb37de7d2df30842d66d2c1bb",
+        "0x9d4f140a95745e40fca31ee44518457fd54e0af90821081666d76e85ee004ed6",
+        "0x8aec3b8956a4f5d800258430e08fd9b3a39e6dc1bf4696509a0727dd4b3c53ce",
+        "0x3e33806cf0bd2c6b033ac7660b5007eef709094adf8fe0bb7590680e172c3cc5",
+        "0x46053751eaab72f8ba246b1f44faec22910051b22f8b0b7c10e75e21fe4cc208",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x5f3c5991de3f0713715a733ee125785d516ceb16",
+        "claimType": 2,
+        "amount": "136445744019138719047582",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xf6352046be9944ae080ed5e0a7fc17270c931fdfa48f47c111e29f871dfbdc7d",
+        "0x55f14e200963e4662a00ca0b3e692ac625de2c955080eab1a7655cd327713989",
+        "0x8ccd3c913c19d64b3deeaaa68a3662c592eacf355334bd1ebb07650381fe5258",
+        "0xbe5e25e7f9c395d541beab84915310b60f4babb3d09789365802b4f2990eca79",
+        "0xe524a1b46ba5459a0f7c44df13270405622fe92876c81e1efeb822664eacd6e3",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x625598caf40c63eb62860260cfd343d5fa4d88d4",
+        "claimType": 1,
+        "amount": "12850898983073749883739",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x4e79c020d9aa3b4e5820a7eeec6b65f266f2f95e2c1d18670bad2fcc3b264987",
+        "0x6c4010dcd3e8db26d4f82ce125e50b28d914d3ea21ead01ba770a40bb46210cd",
+        "0x0ab5c18bfa6101863771d860b5e16bf6bb4ed3ad93e7ae034eed68b6ba6c5b2b",
+        "0x2da6519b9aa46931a2090b8995f996ea5e02824d5e4345bb055ec66df676d330",
+        "0x01fe5e214f0e3afa188bcd5de03fa1ec3597826033dad461f03e287f7ecaa6f6",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x633ce03ea66d910c15869e1552fdccc2bf9aad87",
+        "claimType": 2,
+        "amount": "96811401551495401336132",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x5e2d24954481d2d6cea482b251ccdf663abdf42f7b2a1fd1302fcfcd0a8a37a3",
+        "0x5368cd6ba5bb94846d5b17e1d11e246276c6467204276bb2435c22e38f58eef9",
+        "0x57435ab33ad9fb19ccdedd13a5b8c7831de0ceea5b7e15d0daba0ef2616f101b",
+        "0x56b58bd220be5b462243ff4cfe965f54fb4bcca9ebea5f11b34971f873d52172",
+        "0xf1a97b0b93cc07f42f5587cec1b268425eb6350fcaf94913eb8db190f3017666",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x65ae92f3473d75815f2a86298b76a608f94e1575",
+        "claimType": 1,
+        "amount": "14719385640702229553395",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xaa9ef3301d3d1882eac3e602934e3488f0999110fb3f87c71326bf6521470708",
+        "0x6ce272d14faf71f2018150c09940c68457442d0a5b030eed8de5bf746d265eb5",
+        "0x82ff6454bc6b7cb3a1b213452224ecf4df617478271890e0b4df7548ed1d5f76",
+        "0x27bc2bb8e1f3efd1ae127f5c713bdf3ba047614ef25d8f3f42926a5783add4fc",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x661a71e863c887e68aa8c9348e8aa60e48a868ad",
+        "claimType": 1,
+        "amount": "35645793833048311756460",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x130b9724f696db7094b5602eb9d43ea320baeb262cce085e1d61d25f92608a0e",
+        "0xb74dec2614bad3ab8ac4ed6023b5233a20f67544439db04c1d79c847026aeeb5",
+        "0x1c4aa038fe0b6aeb695c1dffa9122777d0d49550cd0380780c8d834636ee5506",
+        "0xca226439332efa3904802d3eb28e6ac243daaa10604643bb15cfb3389ef9f39c",
+        "0xb9a76688860668d594a4c4b6aff3288556831ede6b50883d94b8682f5ab7e987",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x664e070592063bfe5072f0ac25c6c11e5ccf9928",
+        "claimType": 2,
+        "amount": "105262051247262750791841",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x45dd4dc920d1a203c28b76844623c4c2b3ee5036c02a0fc8949bd00a3162656c",
+        "0x3532a534ef87ca2ba3d6d80aaed8db7855f6b23d8abb97a40e69293bd1d3feaa",
+        "0x50144e4cffb710752119fe17f4d592bddad9ebbc071c217c2dc31f30b965d82a",
+        "0x50397b676821e92ca4b1835cad0cfc398f46929a415433a7c8258c95bfff58b7",
+        "0x01fe5e214f0e3afa188bcd5de03fa1ec3597826033dad461f03e287f7ecaa6f6",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x69141e890f3a79cd2cff552c0b71508be23712dc",
+        "claimType": 2,
+        "amount": "172227261005740408892676",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xb9d828cb641643cd926d47cc761b969fa5dc9b90cbe606a5f0b650d9c1e6ade9",
+        "0xb62ca63d3b461becaf078db2c2f56ec5dd0e97f77c9d6e72bb2ec98d666fa08a",
+        "0xe712e288c7d4eb28fa3d1972cfcc69420fcf0762efc8038f5ac7eea41ef96f2b",
+        "0x620bdb508540c0f69ddb86dd39d2149570ff5dc554c36c451ea85a66fa96f9f7",
+        "0xbf109403fc7b61a6e232466403d2d4e89636f6e8d3213ae65a7f1b3ef301ae52",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x6976b491cf6043bbc11214633f7a51467760a967",
+        "claimType": 1,
+        "amount": "8689440909945695355778",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x952df45fb3274cc66873d70025f3262d1c127d46d6548440333457690bb8fd62",
+        "0x2941fb8a8a29fa08191e7ca3ea03115cf7a6ed12492731628b5926cde9fc1185",
+        "0x2355a44e30d3103c5b2ab40efc7f6b6a38ce6fd0eb55579a10de990b77bf9edc",
+        "0xf3ee9ba88da31e246d8b519b6949972a9b09db6350c79a1d565cae136b0e9b8a",
+        "0x46053751eaab72f8ba246b1f44faec22910051b22f8b0b7c10e75e21fe4cc208",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x6bf25c0256cbe8969424f6994e19cf5e0a3c23bb",
+        "claimType": 2,
+        "amount": "38977178142215088832837",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x31c0bc66ba3d280e3730cd6b395e0ef7f91aa71b43b7814f1def3ea3038f4079",
+        "0x52437144635a731dd68c293aeeeb798e6340371e9c0d1c2288f203c5cc722b8c",
+        "0x08fc8db6468b38ae75b67d510c7972571bae59c9f2fad11c622a609a099a59ed",
+        "0xb25907f0f2231dc5f2f9ab017ff01760d474dd5958209f379130029c7da2a411",
+        "0x86df3734a246092ddfb56b2d1aecf99adb0f23d8ee0cb9b9c3aece5416fdb4c9",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x6c2209754845df0fc01d048c3f3c3537b5d35b9c",
+        "claimType": 1,
+        "amount": "43689490976713114653672",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x1b40c264a24c2e6f3f71abf424040696387430597350933296fd1edece1aad1a",
+        "0xcaa2191b73cccf6f9a387490c0b1ab20c0be8f682bec060e2b25e91ee7fc7ed1",
+        "0xd3ca375822bbc328e15ce09bf0fe367dc6d6a7081c5f5ed21bbb823c1c25b401",
+        "0xcc9a0405bccd0b2092870064c8b05868886e368c99a9104e6d5e65250b70b4bc",
+        "0x86df3734a246092ddfb56b2d1aecf99adb0f23d8ee0cb9b9c3aece5416fdb4c9",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x6c6b3560704da8a2c33b1bb00e88ba343807e565",
+        "claimType": 2,
+        "amount": "112469508143817040766614",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x6138350e83b8009a06a33f65c069ebd689a5f0ba341648fe6b6d41ecba381619",
+        "0x1f0e112223786de75fddf2bad8010961d2f2604f03f36651896e989ed1763262",
+        "0x67462f574f9b189f3ef71c131daebba12d9fc82b6e130d91daedc43ae774e614",
+        "0x95ee94b6067935f1c356688a836f81664dd3854b75e15dc8bfab1a8c3d2ba604",
+        "0xf1a97b0b93cc07f42f5587cec1b268425eb6350fcaf94913eb8db190f3017666",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x6d323e71e141ce2d7b752313c8a654a9c9d1b377",
+        "claimType": 2,
+        "amount": "158557564678476825566606",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x0edf272640206359f8c53eb1a97ca447a3bbb0e84303ae646b66eb7ff5e447c2",
+        "0x49514f4f65b46e9e68c8df50c3dbd3d185d881997725ec481b25c8a18ccb93cf",
+        "0x6aad0487eb9a0ddaf4f44f817723622bcc1f06ab4a8e9e71f132436abe7c7c05",
+        "0xca226439332efa3904802d3eb28e6ac243daaa10604643bb15cfb3389ef9f39c",
+        "0xb9a76688860668d594a4c4b6aff3288556831ede6b50883d94b8682f5ab7e987",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x6facdb16ca28ade44f682c17be7b3357eb2f6a4c",
+        "claimType": 1,
+        "amount": "14163865324853740865579",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x9b3d89e1b87b7e5a92864bf1bf9796f3af62b85bf091f44effa0625fe9622cbe",
+        "0x6ed49a252e37728548bc6a3f093a63eb35015c517bee7374d9a5cccc87dd2ef4",
+        "0xc649d355c4ecd10ab79d73de281ec87bf6ee6cadee5de7f80a91798fcb213993",
+        "0x3033c37bdc8e870d65746d0ff63927c3ffc85a2fad2b152ab1d30be771db8982",
+        "0xf645a449e520f06215add1d3d21bdff0ec15847063c28291485018f6e2c3139a",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x7394923453fc2f606cfb4d0ea1a5438bb8260d08",
+        "claimType": 2,
+        "amount": "46837662306240042044700",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x29dfc160195b1f4b8152f4911459b88f62b488fe11dabb1f39b4b6fbeac82953",
+        "0x74db6d02d4780ba9e470981d2b05ba6a4d80353cdffc5baf91539bc8e3b9a839",
+        "0x851c74d3568e0256df295bfa48ede78217395c7e022fb5e8a5d656ecec567304",
+        "0xb25907f0f2231dc5f2f9ab017ff01760d474dd5958209f379130029c7da2a411",
+        "0x86df3734a246092ddfb56b2d1aecf99adb0f23d8ee0cb9b9c3aece5416fdb4c9",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x7429e0c70306834e2b210cf3feb306342f456ce7",
+        "claimType": 1,
+        "amount": "43056815251435102211067",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x8c8fcb4bdb2f1b926780e5d0436e84b23afdd9052be5dc0212e09f685d783b05",
+        "0x4428e412543020a6e68475bf7ca4a194f9bf786132da4470c7d44baf9c76a8ba",
+        "0xcc64fbb4b7cb32123d88de781db4fb7c2817de8df26e3ef42c772b0cfe873a90",
+        "0xf3ee9ba88da31e246d8b519b6949972a9b09db6350c79a1d565cae136b0e9b8a",
+        "0x46053751eaab72f8ba246b1f44faec22910051b22f8b0b7c10e75e21fe4cc208",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x75306a2ae227b444e2501908ade7c4c2b1e22423",
+        "claimType": 1,
+        "amount": "19564689767547892941853",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x941a40c70405c397388eda379a363b663308cbb9806dc5af8273b475abbf254b",
+        "0x2566abeef65b949170040d74c7f50ff4ff50dfdddcd039cda7dfc22aa8f04b18",
+        "0x2355a44e30d3103c5b2ab40efc7f6b6a38ce6fd0eb55579a10de990b77bf9edc",
+        "0xf3ee9ba88da31e246d8b519b6949972a9b09db6350c79a1d565cae136b0e9b8a",
+        "0x46053751eaab72f8ba246b1f44faec22910051b22f8b0b7c10e75e21fe4cc208",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x769530a9f2e4624ae2d6869869d510d4cd55b545",
+        "claimType": 2,
+        "amount": "22379275117162737454975",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x357bc0a3736ab5cd1f38d5de17687fd89087f6566155e8c462ced764eb367bc0",
+        "0xba8a94d8176dbdae00773fd7cd557c486ef2615c08233c62422bd88ce7e55ccc",
+        "0x8ed0e236de884709478b799a20d93f0abe78285728eaca27ebb6d7adab7df982",
+        "0x50397b676821e92ca4b1835cad0cfc398f46929a415433a7c8258c95bfff58b7",
+        "0x01fe5e214f0e3afa188bcd5de03fa1ec3597826033dad461f03e287f7ecaa6f6",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x78a99aa32cde18b33b150941fbf718715d15af6a",
+        "claimType": 2,
+        "amount": "32518647896613597798207",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x09bf1099524a2dba05fa250f37b9da32ecce71c2b79e4b22079215cf6bba7751",
+        "0x330325eabaf06dbc0a28ba4770d927fca478319c64b5ecddee0d9342c8017036",
+        "0x6394fba6fba97a9e3a3cbb638c74987e87f65c2edadb080e5fc575093c389369",
+        "0xc611986d125d93cbeaaf925c7784b8051b1151dcb64e5247fc4582b1241b99d8",
+        "0xb9a76688860668d594a4c4b6aff3288556831ede6b50883d94b8682f5ab7e987",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x79fdd105935d075bcf36dafb6e82ba2e33cd34cc",
+        "claimType": 1,
+        "amount": "5594818779290684358635",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x7c2b84f0919dd345276f56d1c1eec8e8eedcd045a5290129dfb50daf55bb0bbd",
+        "0x7785ba213998f8b48f8b27a2fd793da3744fbc47b57f4b4355f7c2043f9a2f42",
+        "0x4df0741c5c37470aa427c103c89b0e5e3c279074a057f6acae20f7a54b9adb93",
+        "0x3e33806cf0bd2c6b033ac7660b5007eef709094adf8fe0bb7590680e172c3cc5",
+        "0x46053751eaab72f8ba246b1f44faec22910051b22f8b0b7c10e75e21fe4cc208",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x7aeadd818077129f7143c3a1865bb339f0967aec",
+        "claimType": 2,
+        "amount": "34757763639782781452459",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x266e17e6880c83fc3f03c6504baddd56fe90255825d8334121810d223954cb79",
+        "0x29d8efdfba1726432e5362bc5c6de0f4a47f60a1a23ceac2c5015d446cda064d",
+        "0x851c74d3568e0256df295bfa48ede78217395c7e022fb5e8a5d656ecec567304",
+        "0xb25907f0f2231dc5f2f9ab017ff01760d474dd5958209f379130029c7da2a411",
+        "0x86df3734a246092ddfb56b2d1aecf99adb0f23d8ee0cb9b9c3aece5416fdb4c9",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x7c255e428e95bebc76e944d49d4f460c84b3a3c3",
+        "claimType": 2,
+        "amount": "65268386703357481601239",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x12d5b19fcf4c1537ceab40acb70b96e6752cbe20ae13f8de2d745fc35d51f968",
+        "0xb74dec2614bad3ab8ac4ed6023b5233a20f67544439db04c1d79c847026aeeb5",
+        "0x1c4aa038fe0b6aeb695c1dffa9122777d0d49550cd0380780c8d834636ee5506",
+        "0xca226439332efa3904802d3eb28e6ac243daaa10604643bb15cfb3389ef9f39c",
+        "0xb9a76688860668d594a4c4b6aff3288556831ede6b50883d94b8682f5ab7e987",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x7e74f48ee5575e028d6bebd77e368761f1d74a2a",
+        "claimType": 1,
+        "amount": "18415319075200360615105",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xc10f51b941b05c5262403dd9c2835dbb2fdb857ffc661c86534b0e05e513ff11",
+        "0xfc87491e86cadfd0878fd8d25b2b152452b448144b76e534f58028f7da9d6efc",
+        "0xaa7d4de2d60a7f013914de2c3a66019b5f666bb89a94d2689cb4d01d7d4b6a1c",
+        "0xd336fdb1c9e7fb596215d67d70af6a37defa7ea6a708465e36b04d80af31043a",
+        "0xbf109403fc7b61a6e232466403d2d4e89636f6e8d3213ae65a7f1b3ef301ae52",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x819eab111bd9a6e595187a914240529d2efff21f",
+        "claimType": 2,
+        "amount": "50387992167409248281542",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x6ce6d8394e40d602a46a1b85bc62b3223cb1b941e1e17774852c451354c213b1",
+        "0x0d01a6522a3d15b58e3a03cfa4a9207d05042e75867309f738e6b5c4fdd52943",
+        "0x3dda2f2718db3c913aa896a6657b4a414034979bd1db37809cef1831586686e8",
+        "0x95ee94b6067935f1c356688a836f81664dd3854b75e15dc8bfab1a8c3d2ba604",
+        "0xf1a97b0b93cc07f42f5587cec1b268425eb6350fcaf94913eb8db190f3017666",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x821bde578955b35f9f2c9022268e5bc748994f71",
+        "claimType": 2,
+        "amount": "43223231585346747504772",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x65c95eeae4325daffa16a5edb66e86be3091c12d7ad34d46bb0e21383be7aa30",
+        "0xd7bc4a471353640b6e535dbd5194e6bc8d42a46f706517276448e9edcb37c0a0",
+        "0x3dda2f2718db3c913aa896a6657b4a414034979bd1db37809cef1831586686e8",
+        "0x95ee94b6067935f1c356688a836f81664dd3854b75e15dc8bfab1a8c3d2ba604",
+        "0xf1a97b0b93cc07f42f5587cec1b268425eb6350fcaf94913eb8db190f3017666",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x833dde54a28a3070a086cc8919beaa7a0134de46",
+        "claimType": 2,
+        "amount": "52823455226774342974345",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x6a62b5310cbb507dbf2a69e90c0be69008a2dd215f8b0ccc3a45f2281f244880",
+        "0xd7bc4a471353640b6e535dbd5194e6bc8d42a46f706517276448e9edcb37c0a0",
+        "0x3dda2f2718db3c913aa896a6657b4a414034979bd1db37809cef1831586686e8",
+        "0x95ee94b6067935f1c356688a836f81664dd3854b75e15dc8bfab1a8c3d2ba604",
+        "0xf1a97b0b93cc07f42f5587cec1b268425eb6350fcaf94913eb8db190f3017666",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x86339bbf3e57c6026ce678617dec27f2cc5dbd62",
+        "claimType": 0,
+        "amount": "108907127248287855162",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x2f844fd6363cb3fe50f2839b11631b9b18ab481104e90d62b3f72dc2b3211dcd",
+        "0xf6104a9be23d32b8c96a7901777714141f9ce7ac0cdc5846e531ac178fdd7a3d",
+        "0x08fc8db6468b38ae75b67d510c7972571bae59c9f2fad11c622a609a099a59ed",
+        "0xb25907f0f2231dc5f2f9ab017ff01760d474dd5958209f379130029c7da2a411",
+        "0x86df3734a246092ddfb56b2d1aecf99adb0f23d8ee0cb9b9c3aece5416fdb4c9",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x86ec5c8ce7a4dd7762cff205d64bfc0c272feb6d",
+        "claimType": 2,
+        "amount": "110683997029932023692504",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x9d2681c091a9949fc63487f8efd79b2add7f35d35a3ae966c293304ea2a8cb10",
+        "0x82c8a314fd117c8f97007aa220e145f643f0afa25e943d4cef177bddfa4599ce",
+        "0x581e6c39871136ba4091682e9ec57423056c67ef38255325b36955c4b59f968f",
+        "0x3033c37bdc8e870d65746d0ff63927c3ffc85a2fad2b152ab1d30be771db8982",
+        "0xf645a449e520f06215add1d3d21bdff0ec15847063c28291485018f6e2c3139a",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x89f7498a8db97ff7d8ef323e480cb18db44a1309",
+        "claimType": 1,
+        "amount": "47037238832142573888391",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x0d2db39e11079942c303bb1619e496bf840240f4e6a82046b362589cdc2b13ff",
+        "0x7f327f40ebca124c4fdc4a7a0d0d2bfd0117460e40542d9d4435e7da4f58750a",
+        "0x3ac0f603a5886b56d3a660e8293fc89c48eac77262b488078187ea7ca6c0b5c4",
+        "0xc611986d125d93cbeaaf925c7784b8051b1151dcb64e5247fc4582b1241b99d8",
+        "0xb9a76688860668d594a4c4b6aff3288556831ede6b50883d94b8682f5ab7e987",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x8ddd48b520df91f05c5d8c19b2cee59abe65978a",
+        "claimType": 1,
+        "amount": "36062165298420282286670",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x0e567505d30d87e671890f25480e5452b815aa5a173875cae2940327438e641d",
+        "0x9498805670dde8b3ae6b2a6b1f547d6f62ff3cede0de71e1f19bd244fd342d29",
+        "0x3ac0f603a5886b56d3a660e8293fc89c48eac77262b488078187ea7ca6c0b5c4",
+        "0xc611986d125d93cbeaaf925c7784b8051b1151dcb64e5247fc4582b1241b99d8",
+        "0xb9a76688860668d594a4c4b6aff3288556831ede6b50883d94b8682f5ab7e987",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0x92d6c2e99d5959f2e9c0a7aba5149d8a5ef22f23",
+        "claimType": 2,
+        "amount": "56202529921998242496368",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x5e4c6e82e2bf059157ce50c437843f88b1681380822035e2042e513d00a4844e",
+        "0x5368cd6ba5bb94846d5b17e1d11e246276c6467204276bb2435c22e38f58eef9",
+        "0x57435ab33ad9fb19ccdedd13a5b8c7831de0ceea5b7e15d0daba0ef2616f101b",
+        "0x56b58bd220be5b462243ff4cfe965f54fb4bcca9ebea5f11b34971f873d52172",
+        "0xf1a97b0b93cc07f42f5587cec1b268425eb6350fcaf94913eb8db190f3017666",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x9565d813a3a0cea62b3bdb9a4e236dcb5910c4f0",
+        "claimType": 2,
+        "amount": "55623303883911874853571",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xad94d63ebaa4347409f3168f8e3182fd83408b669a4cea025fd9e1487bc381cd",
+        "0xfd77de93b3053f8d1bd13c1aa4f4d3ac39671d91a635a8b7546b078baf8be8dc",
+        "0xaecb5ef79dc4c5b270ef3051befcaa371b6445607360ad48d7c33bb401d9781d",
+        "0x1d5cccfb9fdedc99de84880a48f8ce59cf082a6344469e24fa9ca7faba1ca22f",
+        "0xf645a449e520f06215add1d3d21bdff0ec15847063c28291485018f6e2c3139a",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0x98bbe5658da8b31fbd3f07157a2cff4d10c0f22e",
+        "claimType": 1,
+        "amount": "34111436004784679749300",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xc64d0f909fd9bbf6c1d80e32932119c464a9dab5a14dd72886d32087dbe076c4",
+        "0x1370532c3620eaa864c6b1086bba96198544bda9bbe8782e7ef57c76c5de6d24",
+        "0xaa7d4de2d60a7f013914de2c3a66019b5f666bb89a94d2689cb4d01d7d4b6a1c",
+        "0xd336fdb1c9e7fb596215d67d70af6a37defa7ea6a708465e36b04d80af31043a",
+        "0xbf109403fc7b61a6e232466403d2d4e89636f6e8d3213ae65a7f1b3ef301ae52",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0xa0e1fba30e75e2d0d6c428cff4b3b6a06233422b",
+        "claimType": 1,
+        "amount": "9744294535553772200916",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x5713296ec727aba8af696b7b90c25fef0ea72ae1e5fb849413e81e7f843c9b1c",
+        "0x844660a84810ba5e70c951c591f0309ef6225e66773fdac235937d912322fd7f",
+        "0x5d931c1f2ae841ab4991dbcc4ee1c4a2cd5957f3bb52fd014a6c76a3d33a0c95",
+        "0x2da6519b9aa46931a2090b8995f996ea5e02824d5e4345bb055ec66df676d330",
+        "0x01fe5e214f0e3afa188bcd5de03fa1ec3597826033dad461f03e287f7ecaa6f6",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xa174d46ef49d7d4a0328f9910222689e9eab2f45",
+        "claimType": 2,
+        "amount": "84608876601167109589438",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xb35300ca79c65d5b700048478a5955e5e83644a23077c1c5162789dce5b2d323",
+        "0xc490aa9f16b708536dac8963ac2555897326a9a20407ce671f65b36249f13e6a",
+        "0x8c03be722bf352669d98375a53ed4ac17bc2f6f14dbae51ae5a752e3928529d6",
+        "0x1d5cccfb9fdedc99de84880a48f8ce59cf082a6344469e24fa9ca7faba1ca22f",
+        "0xf645a449e520f06215add1d3d21bdff0ec15847063c28291485018f6e2c3139a",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0xa6b95941845b229ad7b2cd4c3c6de3ad9d0865ff",
+        "claimType": 1,
+        "amount": "26315512811815687686681",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x85bf3d604aaf360a7fff6596534d21e9836d21c5c2e9a13f112b5c914a4b90e1",
+        "0xeee14df3603fc048d9dbed5209cdc2256a8663515e3efd8b7bb1649116e2eea8",
+        "0x4df0741c5c37470aa427c103c89b0e5e3c279074a057f6acae20f7a54b9adb93",
+        "0x3e33806cf0bd2c6b033ac7660b5007eef709094adf8fe0bb7590680e172c3cc5",
+        "0x46053751eaab72f8ba246b1f44faec22910051b22f8b0b7c10e75e21fe4cc208",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0xaa14f00460efa76418f9ce265fe6dbb259b59d3f",
+        "claimType": 1,
+        "amount": "12812636628536731906310",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x05b4ef1d5447b768c6ce439d134cefec8b43a6d1c1da86772793cd87b0ffb543",
+        "0xd531f75633f43e784abb81b5389844cd68f79ac9a28df2b848f59c01a7daa4ba",
+        "0xf1184dc7e619c25cba18741dd5029c1335b072c180814aa41352d3e4f8b4c672",
+        "0x27bc2bb8e1f3efd1ae127f5c713bdf3ba047614ef25d8f3f42926a5783add4fc",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xab3dae93cd52f6e2a0809dc19567c79ac3b1e225",
+        "claimType": 1,
+        "amount": "24636663687972339550471",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xe78c0bfed10961bf1a64da587279bdf7b68fc151b019d495301e33895af1614d",
+        "0x1cb1487aa41ccbd56d239c89d84f64da7cf40374283df3e4a1a7a5b9b18de4d5",
+        "0x4b6d83ecf52d26cefcffe29178e4b1cae19e1e3e758301bb66c5a60944c12cb5",
+        "0xbe5e25e7f9c395d541beab84915310b60f4babb3d09789365802b4f2990eca79",
+        "0xe524a1b46ba5459a0f7c44df13270405622fe92876c81e1efeb822664eacd6e3",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xac3f85d29119836545670b2fcefe35c829be35ab",
+        "amount": "378632426224001460971567",
+        "claimType": 0,
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xb8ce7f9555d06ed1b1d861c60ae6d170f2eae809fd3c526b0b73d30803797c52",
+        "0xb62ca63d3b461becaf078db2c2f56ec5dd0e97f77c9d6e72bb2ec98d666fa08a",
+        "0xe712e288c7d4eb28fa3d1972cfcc69420fcf0762efc8038f5ac7eea41ef96f2b",
+        "0x620bdb508540c0f69ddb86dd39d2149570ff5dc554c36c451ea85a66fa96f9f7",
+        "0xbf109403fc7b61a6e232466403d2d4e89636f6e8d3213ae65a7f1b3ef301ae52",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0xadedcd23941e479b4736b38e271eb926596bbe3d",
+        "claimType": 1,
+        "amount": "14050632480499560615897",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xdf31d821997257af33401e568f13153cb5d781ae99608434fc1248a06d85172f",
+        "0x132421d221f49d2093b80b3f692f5eb591c39267333ccdcce4609e2f5513593f",
+        "0x3d66a4422634b1f83535559420733f16497fcb2c2cbf35a6c1838d7522d7bbb8",
+        "0xa65acd50a88de94fac0ea037dfebdc3350d7e45a4f129602b78c65c48586e38a",
+        "0xe524a1b46ba5459a0f7c44df13270405622fe92876c81e1efeb822664eacd6e3",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xaf31ca175bbe0c6dd667c8403b65a33b28238afa",
+        "claimType": 2,
+        "amount": "66798656872586261275849",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x10047774a86871e5f6396c3f6f7ce88c25f76a00dbb0d8e148539882fd236a1d",
+        "0xcf31edc0eff16cae0fc4f0762d892b941ff867b51889160d252b72a83e1120bf",
+        "0x1c4aa038fe0b6aeb695c1dffa9122777d0d49550cd0380780c8d834636ee5506",
+        "0xca226439332efa3904802d3eb28e6ac243daaa10604643bb15cfb3389ef9f39c",
+        "0xb9a76688860668d594a4c4b6aff3288556831ede6b50883d94b8682f5ab7e987",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xb3c9aa09f22a06122d3608ef075f14e001561470",
+        "claimType": 1,
+        "amount": "43099074391526376868802",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xc983b32f16b0d560872ac62cccd8e1d67f105b28b8a6c226e5b5f0008307a42a",
+        "0x20805221bc8095656121177a3e2c557599980a87bd234881a35608cf81d024f1",
+        "0xba9d9a21d5edf8b7597da6dd53cd09a7716559af7ffcdcb0954ab7549eecdd0c",
+        "0xa65acd50a88de94fac0ea037dfebdc3350d7e45a4f129602b78c65c48586e38a",
+        "0xe524a1b46ba5459a0f7c44df13270405622fe92876c81e1efeb822664eacd6e3",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xb4466be43f01e8a615490098aaf18a1dc5c56568",
+        "claimType": 1,
+        "amount": "47486770284719845304733",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x985af47fe98003fdeff235a8536fb2652a3de934bfc2d0082d8551d51d75da9d",
+        "0x6ed49a252e37728548bc6a3f093a63eb35015c517bee7374d9a5cccc87dd2ef4",
+        "0xc649d355c4ecd10ab79d73de281ec87bf6ee6cadee5de7f80a91798fcb213993",
+        "0x3033c37bdc8e870d65746d0ff63927c3ffc85a2fad2b152ab1d30be771db8982",
+        "0xf645a449e520f06215add1d3d21bdff0ec15847063c28291485018f6e2c3139a",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0xb53d69b2519ac9f6d65cff8e7824bf09f7064d61",
+        "claimType": 2,
+        "amount": "63342394858862792345236",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xd2f54d4d0df04ca843535cb8190959e0b32c6cef095c81bab4a3084c13a83bcc",
+        "0x676688f532c5601495bb906834d0a30eb4aa869e6651970297866c5f1392733e",
+        "0x3d66a4422634b1f83535559420733f16497fcb2c2cbf35a6c1838d7522d7bbb8",
+        "0xa65acd50a88de94fac0ea037dfebdc3350d7e45a4f129602b78c65c48586e38a",
+        "0xe524a1b46ba5459a0f7c44df13270405622fe92876c81e1efeb822664eacd6e3",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xb54547b790d0c05be00fbd3d3436d3172854e3dc",
+        "claimType": 1,
+        "amount": "5026614361668049096852",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xf9165f23ef8d79d68da41646b5349b7f94886a252efd7dc2cccc5fbf20271907",
+        "0xf2023276e8b5971459f63b5d7d0a43e5733efdbc83ba95a0cdb3c308e26d05f5",
+        "0xd0a3fa56e0e812fc2ab189e90d3666f76b18e565a95a61c54f0a90525542c043",
+        "0x82ff6454bc6b7cb3a1b213452224ecf4df617478271890e0b4df7548ed1d5f76",
+        "0x27bc2bb8e1f3efd1ae127f5c713bdf3ba047614ef25d8f3f42926a5783add4fc",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xb5ecb64526f777eb6f02d4a83abab1fad26b1c00",
+        "claimType": 2,
+        "amount": "189431124702576667719825",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xf4b1cf097184850a5a42aa38f88da6064c53b41f9ecd9cafb2e7af40423692a6",
+        "0x14b21c2b68bacc9cac2d95aff28958297608a715a976431e32231f2ef83b4929",
+        "0x8ccd3c913c19d64b3deeaaa68a3662c592eacf355334bd1ebb07650381fe5258",
+        "0xbe5e25e7f9c395d541beab84915310b60f4babb3d09789365802b4f2990eca79",
+        "0xe524a1b46ba5459a0f7c44df13270405622fe92876c81e1efeb822664eacd6e3",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xbb99dda7b6dce88908dcd684ab7bf1a90f084401",
+        "claimType": 1,
+        "amount": "14940102864751635605442",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x60844e881f886ddd43483883b79a2bcc2f161a5988e4e39c0b78864c0c6d49d1",
+        "0x625e828b940f457ef286dc6d0542cff48311667127f75f2bf482c81791553ffd",
+        "0x67462f574f9b189f3ef71c131daebba12d9fc82b6e130d91daedc43ae774e614",
+        "0x95ee94b6067935f1c356688a836f81664dd3854b75e15dc8bfab1a8c3d2ba604",
+        "0xf1a97b0b93cc07f42f5587cec1b268425eb6350fcaf94913eb8db190f3017666",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0xbc1682730ae5bd0aed7d210da330ed581d9f2c4d",
+        "claimType": 1,
+        "amount": "13205863806693585737078",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x025a46a62d6c10c73ddc9b97f3d8be0f8caa85d004960f6c4d0891a45edbd111",
+        "0x5e60b53eb0da72aa54584dab9b1a53d53ef2110cb101dc0eef6f2497c07443a6",
+        "0xf1184dc7e619c25cba18741dd5029c1335b072c180814aa41352d3e4f8b4c672",
+        "0x27bc2bb8e1f3efd1ae127f5c713bdf3ba047614ef25d8f3f42926a5783add4fc",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xbe311f1640b700f76d17c009a505487c23b0312c",
+        "claimType": 1,
+        "amount": "39639391169619206379315",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xb4e6f79e6d2d98ce47c21c317a1575c499a8b6a2dad9cdb9e79246d04f7801e7",
+        "0x410badba0643e36641da0b5f32961f8267b3b99bcd3cfe391cce72436c9be131",
+        "0x6ba70710e6f2599a17a34e91715fdd84221a50ca59280b32e53387bc98640420",
+        "0x620bdb508540c0f69ddb86dd39d2149570ff5dc554c36c451ea85a66fa96f9f7",
+        "0xbf109403fc7b61a6e232466403d2d4e89636f6e8d3213ae65a7f1b3ef301ae52",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0xbf61db1cdb43d196309824473fa82e5b17581159",
+        "claimType": 2,
+        "amount": "189947081138879381276320",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xc7b61fa946ab0e85ce497da10a8be34cbccf53e48a6968b666fcb5353bf15d30",
+        "0x7a30205b57a1b5b86722da663c9649bd6dd2f3effbd6726b7062cc8572ee7265",
+        "0x53b10445d0332466172ebe77e4619b3de445a312c03a1c3adba3bd300a3270e5",
+        "0xd336fdb1c9e7fb596215d67d70af6a37defa7ea6a708465e36b04d80af31043a",
+        "0xbf109403fc7b61a6e232466403d2d4e89636f6e8d3213ae65a7f1b3ef301ae52",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0xc139f933a6b44aa698e649cc8f142ce02fd19213",
+        "claimType": 0,
+        "amount": "75954989073801498613",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x073af3b36f9520d3b5be3ddfc6b1b9c9e04381fc9d5719636146643e8c4462ea",
+        "0xb13c2186e908c5cc92ea794ec2782ae8111ed1d35fd18af742ec436198e3edbf",
+        "0x6394fba6fba97a9e3a3cbb638c74987e87f65c2edadb080e5fc575093c389369",
+        "0xc611986d125d93cbeaaf925c7784b8051b1151dcb64e5247fc4582b1241b99d8",
+        "0xb9a76688860668d594a4c4b6aff3288556831ede6b50883d94b8682f5ab7e987",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xc1d269e9d2a39c6a285eaaf53eb9fe9b7245c87e",
+        "claimType": 1,
+        "amount": "22291969774627963118021",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xfd849d9b2a6c8c2ee6d1024b6cc7a2ab2ad64543981d49fdd72f5cafdbd853f3",
+        "0x00ce5e89d9820a5a176041136d2307ed99d0ba2610829dee938b970f27c13c06",
+        "0x6ce272d14faf71f2018150c09940c68457442d0a5b030eed8de5bf746d265eb5",
+        "0x82ff6454bc6b7cb3a1b213452224ecf4df617478271890e0b4df7548ed1d5f76",
+        "0x27bc2bb8e1f3efd1ae127f5c713bdf3ba047614ef25d8f3f42926a5783add4fc",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xc2ae38bd4804f74bba2828cdfc1ffa4be4d71304",
+        "claimType": 1,
+        "amount": "11709415576560010503454",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x19b1e01c3134d4309fd8d2f307a828d309aa416dadd1b63bb028f550028def61",
+        "0xcaa2191b73cccf6f9a387490c0b1ab20c0be8f682bec060e2b25e91ee7fc7ed1",
+        "0xd3ca375822bbc328e15ce09bf0fe367dc6d6a7081c5f5ed21bbb823c1c25b401",
+        "0xcc9a0405bccd0b2092870064c8b05868886e368c99a9104e6d5e65250b70b4bc",
+        "0x86df3734a246092ddfb56b2d1aecf99adb0f23d8ee0cb9b9c3aece5416fdb4c9",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xc396b6f023f3a1c894a20fba08432e847c05c7f9",
+        "claimType": 2,
+        "amount": "41509186060580861332455",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x3447beb133d3794aa6bb49c96ecade3733c5fccd08e9ff5ee3ead3746032950f",
+        "0x52437144635a731dd68c293aeeeb798e6340371e9c0d1c2288f203c5cc722b8c",
+        "0x08fc8db6468b38ae75b67d510c7972571bae59c9f2fad11c622a609a099a59ed",
+        "0xb25907f0f2231dc5f2f9ab017ff01760d474dd5958209f379130029c7da2a411",
+        "0x86df3734a246092ddfb56b2d1aecf99adb0f23d8ee0cb9b9c3aece5416fdb4c9",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xc5261026e08ec6dc23162ef7eb1248548715be76",
+        "claimType": 1,
+        "amount": "13905825970977968704995",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xab0978050d980468f636bc29b2ef3454135349d9f3bec92693129624c927af08",
+        "0xfd77de93b3053f8d1bd13c1aa4f4d3ac39671d91a635a8b7546b078baf8be8dc",
+        "0xaecb5ef79dc4c5b270ef3051befcaa371b6445607360ad48d7c33bb401d9781d",
+        "0x1d5cccfb9fdedc99de84880a48f8ce59cf082a6344469e24fa9ca7faba1ca22f",
+        "0xf645a449e520f06215add1d3d21bdff0ec15847063c28291485018f6e2c3139a",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0xc9aae1c39de077aeb7d7bc5b018acc4c71504a84",
+        "claimType": 1,
+        "amount": "12243782653834366552209",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x9101197bdf2b20f9580e039fd18242bfb43b834587231faf7a06774ccc97915e",
+        "0x762c762b23fb3c465728166e665338c2e43e756ba30701576b24c8c24ea22fa8",
+        "0xcc64fbb4b7cb32123d88de781db4fb7c2817de8df26e3ef42c772b0cfe873a90",
+        "0xf3ee9ba88da31e246d8b519b6949972a9b09db6350c79a1d565cae136b0e9b8a",
+        "0x46053751eaab72f8ba246b1f44faec22910051b22f8b0b7c10e75e21fe4cc208",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0xccd522393233052dd0dfeaadc124a0a9bb87fd08",
+        "claimType": 2,
+        "amount": "155910504573085494429240",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x7f5f8452284f8e0cfdbad1c68b39a64a8d96cc88ec86a66f1411e86ca718ce5f",
+        "0x7785ba213998f8b48f8b27a2fd793da3744fbc47b57f4b4355f7c2043f9a2f42",
+        "0x4df0741c5c37470aa427c103c89b0e5e3c279074a057f6acae20f7a54b9adb93",
+        "0x3e33806cf0bd2c6b033ac7660b5007eef709094adf8fe0bb7590680e172c3cc5",
+        "0x46053751eaab72f8ba246b1f44faec22910051b22f8b0b7c10e75e21fe4cc208",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0xcd67d20a68801832a26bc7877639a1f03dd480b7",
+        "claimType": 0,
+        "amount": "217914254496575710324",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xc7cd35a144d8500a4a62f7c3f5f839ccb1ab034e9937bbeefa885b378f38152f",
+        "0x7a30205b57a1b5b86722da663c9649bd6dd2f3effbd6726b7062cc8572ee7265",
+        "0x53b10445d0332466172ebe77e4619b3de445a312c03a1c3adba3bd300a3270e5",
+        "0xd336fdb1c9e7fb596215d67d70af6a37defa7ea6a708465e36b04d80af31043a",
+        "0xbf109403fc7b61a6e232466403d2d4e89636f6e8d3213ae65a7f1b3ef301ae52",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0xcdeae85d8cef99a6433f341c3dce6096c3c5598c",
+        "claimType": 1,
+        "amount": "9554965065499219556403",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x3d201a484079213e49bae3f271ab3434166f6c6c25c905af46dbd33ccee532e0",
+        "0x912a34dcf4b15df2e461b5c2a7e0d059f82bae6de73cc64d5120d88095cac503",
+        "0x50144e4cffb710752119fe17f4d592bddad9ebbc071c217c2dc31f30b965d82a",
+        "0x50397b676821e92ca4b1835cad0cfc398f46929a415433a7c8258c95bfff58b7",
+        "0x01fe5e214f0e3afa188bcd5de03fa1ec3597826033dad461f03e287f7ecaa6f6",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xcf3a3e5797a960c67e0e4b23d4594246ffb9d935",
+        "claimType": 1,
+        "amount": "16699664218146565312049",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x26449f7deaa7070edec3f120270688ea899694430ae4dfbeb29b27f298498cf7",
+        "0x29d8efdfba1726432e5362bc5c6de0f4a47f60a1a23ceac2c5015d446cda064d",
+        "0x851c74d3568e0256df295bfa48ede78217395c7e022fb5e8a5d656ecec567304",
+        "0xb25907f0f2231dc5f2f9ab017ff01760d474dd5958209f379130029c7da2a411",
+        "0x86df3734a246092ddfb56b2d1aecf99adb0f23d8ee0cb9b9c3aece5416fdb4c9",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xd1b117c30689979fcbe97f9c53d670f050cfcabc",
+        "claimType": 0,
+        "amount": "108707127248287855162",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xf67fa4990b421e75247578a23c475f8821f962ef618ff5793ab7c188ce6e09fb",
+        "0xf2023276e8b5971459f63b5d7d0a43e5733efdbc83ba95a0cdb3c308e26d05f5",
+        "0xd0a3fa56e0e812fc2ab189e90d3666f76b18e565a95a61c54f0a90525542c043",
+        "0x82ff6454bc6b7cb3a1b213452224ecf4df617478271890e0b4df7548ed1d5f76",
+        "0x27bc2bb8e1f3efd1ae127f5c713bdf3ba047614ef25d8f3f42926a5783add4fc",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xd249c7e0bdb6f407604260350ed56e7dd5254e51",
+        "claimType": 1,
+        "amount": "15835598714715698078292",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x57c295741dac57fbd1f3a92bf421a1d9e5bf628208c0a77e82ec337321c15a87",
+        "0x1ba40accf868b379b3f401f5866a3368fe3feff68121d2b76571cb0ce0def292",
+        "0x2ab7685a61484ab968aa1c2cb9268f97329f2658d6b208b7c1aeb2ab13341745",
+        "0x56b58bd220be5b462243ff4cfe965f54fb4bcca9ebea5f11b34971f873d52172",
+        "0xf1a97b0b93cc07f42f5587cec1b268425eb6350fcaf94913eb8db190f3017666",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0xd288c3ef25ebf79e7c53ea37dcdfb0710f3ed173",
+        "claimType": 1,
+        "amount": "29046608462201629015492",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xbf20a26a76719491db5c14d69c3e5c5485aeeb14a012ac439ffe0f8580e499b1",
+        "0xfc87491e86cadfd0878fd8d25b2b152452b448144b76e534f58028f7da9d6efc",
+        "0xaa7d4de2d60a7f013914de2c3a66019b5f666bb89a94d2689cb4d01d7d4b6a1c",
+        "0xd336fdb1c9e7fb596215d67d70af6a37defa7ea6a708465e36b04d80af31043a",
+        "0xbf109403fc7b61a6e232466403d2d4e89636f6e8d3213ae65a7f1b3ef301ae52",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0xd6122bb3d05454b4e4cc9883064a96607eb835bf",
+        "claimType": 1,
+        "amount": "12109906329254778981370",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x0b8807645c432620505b6303985cac7001706aeddd3ad8ea2af0275b0fbeead0",
+        "0x330325eabaf06dbc0a28ba4770d927fca478319c64b5ecddee0d9342c8017036",
+        "0x6394fba6fba97a9e3a3cbb638c74987e87f65c2edadb080e5fc575093c389369",
+        "0xc611986d125d93cbeaaf925c7784b8051b1151dcb64e5247fc4582b1241b99d8",
+        "0xb9a76688860668d594a4c4b6aff3288556831ede6b50883d94b8682f5ab7e987",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xd6c5f3e3a8a76ec73f2fafaf06ef9da57796ddf0",
+        "claimType": 1,
+        "amount": "19263107073597095944758",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xc3ece3bcc20ea7ec50450996223f0443765476d286d5b5f513705cc7c3a87c94",
+        "0x1370532c3620eaa864c6b1086bba96198544bda9bbe8782e7ef57c76c5de6d24",
+        "0xaa7d4de2d60a7f013914de2c3a66019b5f666bb89a94d2689cb4d01d7d4b6a1c",
+        "0xd336fdb1c9e7fb596215d67d70af6a37defa7ea6a708465e36b04d80af31043a",
+        "0xbf109403fc7b61a6e232466403d2d4e89636f6e8d3213ae65a7f1b3ef301ae52",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0xd9200cc419bde28b169ad8c904d2687a15a4bf9f",
+        "claimType": 2,
+        "amount": "48439625317019115957652",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xd88c4f3d8f5eb05c653c794c0d1c4d51d6fa1d6651559cd515312ba01b0a79d3",
+        "0x132421d221f49d2093b80b3f692f5eb591c39267333ccdcce4609e2f5513593f",
+        "0x3d66a4422634b1f83535559420733f16497fcb2c2cbf35a6c1838d7522d7bbb8",
+        "0xa65acd50a88de94fac0ea037dfebdc3350d7e45a4f129602b78c65c48586e38a",
+        "0xe524a1b46ba5459a0f7c44df13270405622fe92876c81e1efeb822664eacd6e3",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xd9ddd06b3e603f451dd8a16574ca9d3df564742b",
+        "claimType": 1,
+        "amount": "11849781525172841906025",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x6f5cd99394493fa1411b4546d8a5441d61519d5514bb13b2a63eeb7331808d13",
+        "0x3b74fea0cdb74fe311937f5cd9cc85ac90ee002a4deaa7bfecbf188b881fb0f8",
+        "0x8aec3b8956a4f5d800258430e08fd9b3a39e6dc1bf4696509a0727dd4b3c53ce",
+        "0x3e33806cf0bd2c6b033ac7660b5007eef709094adf8fe0bb7590680e172c3cc5",
+        "0x46053751eaab72f8ba246b1f44faec22910051b22f8b0b7c10e75e21fe4cc208",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0xdbb159ee372d58d2653023bf1c5ab5678b842870",
+        "claimType": 1,
+        "amount": "39331309801012732525040",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x9007a5a58b835db3faf1793eb2e277f4f36ef8fde48563d016d186ef10e266a1",
+        "0x762c762b23fb3c465728166e665338c2e43e756ba30701576b24c8c24ea22fa8",
+        "0xcc64fbb4b7cb32123d88de781db4fb7c2817de8df26e3ef42c772b0cfe873a90",
+        "0xf3ee9ba88da31e246d8b519b6949972a9b09db6350c79a1d565cae136b0e9b8a",
+        "0x46053751eaab72f8ba246b1f44faec22910051b22f8b0b7c10e75e21fe4cc208",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0xde4051b333b3063fd28267cd4412dd25233d0ae1",
+        "claimType": 2,
+        "amount": "167909957420707917027767",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x96e94756e4d5d4afaa206240a45123456c51a7857eab0b8d0e71050b256e8f72",
+        "0x2572df9b34bb4d0ec7793e48b091b1c80f527b866cb8a0d384d5feb89a030d11",
+        "0xc649d355c4ecd10ab79d73de281ec87bf6ee6cadee5de7f80a91798fcb213993",
+        "0x3033c37bdc8e870d65746d0ff63927c3ffc85a2fad2b152ab1d30be771db8982",
+        "0xf645a449e520f06215add1d3d21bdff0ec15847063c28291485018f6e2c3139a",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0xe304af184b9ca77e3576aef834a4dc1a43ebfa70",
+        "claimType": 2,
+        "amount": "58877542562808918245097",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x3d09de05793e33f9b52ed2d766bd5f03c0a1904042bf6234fa1372dc4376d7e2",
+        "0xe06ca65b4ff920b829d6b6d1156c9d764750e141f7ccba224c3a1503ac5bb9a4",
+        "0x8ed0e236de884709478b799a20d93f0abe78285728eaca27ebb6d7adab7df982",
+        "0x50397b676821e92ca4b1835cad0cfc398f46929a415433a7c8258c95bfff58b7",
+        "0x01fe5e214f0e3afa188bcd5de03fa1ec3597826033dad461f03e287f7ecaa6f6",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xe70d5351a842131c66aaebc4bd604912bf3cba72",
+        "claimType": 2,
+        "amount": "78258759070191571804158",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xf40c978cac91e9e322fc42bf494a54c9a2aeb441f9e074e0dc0d21093c40f4b1",
+        "0x14b21c2b68bacc9cac2d95aff28958297608a715a976431e32231f2ef83b4929",
+        "0x8ccd3c913c19d64b3deeaaa68a3662c592eacf355334bd1ebb07650381fe5258",
+        "0xbe5e25e7f9c395d541beab84915310b60f4babb3d09789365802b4f2990eca79",
+        "0xe524a1b46ba5459a0f7c44df13270405622fe92876c81e1efeb822664eacd6e3",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xea851ec9ba36f1741c4acdde72f5b41b1903af57",
+        "claimType": 0,
+        "amount": "217614254496575710324",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xfae0ad0f1a5936d799859c5f2b008b3869f30d4a73adcc9ccd1a3c3313c740dc",
+        "0xb5d800756d590759296a500c6e66ef97c6329039e7dfb0665cd3a7d0bcea45fd",
+        "0xd0a3fa56e0e812fc2ab189e90d3666f76b18e565a95a61c54f0a90525542c043",
+        "0x82ff6454bc6b7cb3a1b213452224ecf4df617478271890e0b4df7548ed1d5f76",
+        "0x27bc2bb8e1f3efd1ae127f5c713bdf3ba047614ef25d8f3f42926a5783add4fc",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xec056b0ef36de1d63031fdbb9bcef5feb36fb27f",
+        "claimType": 1,
+        "amount": "16317096675839370391034",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x0efae577ee34d1e758973942fcf24cd5a4d121e745ddefb2666e779aa1b10ecb",
+        "0x49514f4f65b46e9e68c8df50c3dbd3d185d881997725ec481b25c8a18ccb93cf",
+        "0x6aad0487eb9a0ddaf4f44f817723622bcc1f06ab4a8e9e71f132436abe7c7c05",
+        "0xca226439332efa3904802d3eb28e6ac243daaa10604643bb15cfb3389ef9f39c",
+        "0xb9a76688860668d594a4c4b6aff3288556831ede6b50883d94b8682f5ab7e987",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xecafe633830fa27b4912a5588c28b7d994e1f203",
+        "claimType": 1,
+        "amount": "59497195924284757032",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x5305eb1ab56a98cda08e8f05dac326c06ea3018426f9f22755768dab5cd291c6",
+        "0x905a1351c813c41b21bb2b44667cebe2cdfefd33b43348cc8260fa3b0aa1cb10",
+        "0x5d931c1f2ae841ab4991dbcc4ee1c4a2cd5957f3bb52fd014a6c76a3d33a0c95",
+        "0x2da6519b9aa46931a2090b8995f996ea5e02824d5e4345bb055ec66df676d330",
+        "0x01fe5e214f0e3afa188bcd5de03fa1ec3597826033dad461f03e287f7ecaa6f6",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xee6f6572cfeb3467ce5f3572bea7c5fd6d2b1725",
+        "claimType": 1,
+        "amount": "18641953259952040224436",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x2c7de6475f8a6e69138627b6aa17f2ed6cb40e0254a3721561895a94a1836324",
+        "0x74db6d02d4780ba9e470981d2b05ba6a4d80353cdffc5baf91539bc8e3b9a839",
+        "0x851c74d3568e0256df295bfa48ede78217395c7e022fb5e8a5d656ecec567304",
+        "0xb25907f0f2231dc5f2f9ab017ff01760d474dd5958209f379130029c7da2a411",
+        "0x86df3734a246092ddfb56b2d1aecf99adb0f23d8ee0cb9b9c3aece5416fdb4c9",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xef4ef2f3b8c69282846a98341095baa018247553",
+        "claimType": 2,
+        "amount": "185960420166648332225569",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xa88f9e30a1fd5175d2e348289ee230b708081ea034a48deca76f2182d9a27828",
+        "0x3626d526001bb837b03907096685d92c20321f26eb6beb299a550c5e51ad6bc5",
+        "0xaecb5ef79dc4c5b270ef3051befcaa371b6445607360ad48d7c33bb401d9781d",
+        "0x1d5cccfb9fdedc99de84880a48f8ce59cf082a6344469e24fa9ca7faba1ca22f",
+        "0xf645a449e520f06215add1d3d21bdff0ec15847063c28291485018f6e2c3139a",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0xf0c331bdcf75295a726834194178c951d2281799",
+        "claimType": 0,
+        "amount": "739248465288357415100",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x0f054042029505579d7f736536a0abbee50ae88c8dc3eb6adb6107f5eb608dd0",
+        "0xe8c27bd98e353cd334c89cd4f224aaccd6b6507aaf4a8b39e6e42e186242b630",
+        "0x6aad0487eb9a0ddaf4f44f817723622bcc1f06ab4a8e9e71f132436abe7c7c05",
+        "0xca226439332efa3904802d3eb28e6ac243daaa10604643bb15cfb3389ef9f39c",
+        "0xb9a76688860668d594a4c4b6aff3288556831ede6b50883d94b8682f5ab7e987",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xf24f04f1f886b2e09d9cf76fbc7e02925c9f8cc8",
+        "claimType": 2,
+        "amount": "56655461299414963493097",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x15bb315940ae23b5b0c9ff7e09bda7da2ea23f68ded74b9d4050b5a859407d82",
+        "0x5311d688e9cb9389f26eb663d42abe6c9c03531d64a629af4eee686f27d7f1a8",
+        "0xd3ca375822bbc328e15ce09bf0fe367dc6d6a7081c5f5ed21bbb823c1c25b401",
+        "0xcc9a0405bccd0b2092870064c8b05868886e368c99a9104e6d5e65250b70b4bc",
+        "0x86df3734a246092ddfb56b2d1aecf99adb0f23d8ee0cb9b9c3aece5416fdb4c9",
+        "0xa1c22167ea34d93301b5e53d8584ad38226632a84a569b6823243640f1426ab2",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xf5e307dc74656dde1a520b4319fba404f01dbe22",
+        "claimType": 0,
+        "amount": "108907127248287855162",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xfc1b4a0e106cf906f15cd1dc509d57fa59b36dd6e9dfc575ceeb275d80d528cd",
+        "0xb5d800756d590759296a500c6e66ef97c6329039e7dfb0665cd3a7d0bcea45fd",
+        "0xd0a3fa56e0e812fc2ab189e90d3666f76b18e565a95a61c54f0a90525542c043",
+        "0x82ff6454bc6b7cb3a1b213452224ecf4df617478271890e0b4df7548ed1d5f76",
+        "0x27bc2bb8e1f3efd1ae127f5c713bdf3ba047614ef25d8f3f42926a5783add4fc",
+        "0xe4f8d46fba90ba6d07c08c987ae23185b809f0f6bcdb9af8d675ecfb35a516cb",
+        "0x858c9d0010315f0d1e533566992a0e70c318e09b8d51bd6a509ff15c70791272",
+        "0xa8a568bac4987ef239e1938006570929707a533bf9b8fe89990efa84fd5ce7c7"
+      ],
+      "body": {
+        "beneficiary": "0xfb9197720329a80191ba140844e96dccad149014",
+        "claimType": 2,
+        "amount": "74567813039808160930020",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0xb6380c94bcec34e1963f04bd557f258604442336b48cf45796087f474459c994",
+        "0x410badba0643e36641da0b5f32961f8267b3b99bcd3cfe391cce72436c9be131",
+        "0x6ba70710e6f2599a17a34e91715fdd84221a50ca59280b32e53387bc98640420",
+        "0x620bdb508540c0f69ddb86dd39d2149570ff5dc554c36c451ea85a66fa96f9f7",
+        "0xbf109403fc7b61a6e232466403d2d4e89636f6e8d3213ae65a7f1b3ef301ae52",
+        "0xe15d6ba2b6b4ec232633a7cc34ee623284c92832567debc787f4579a1203f20a",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0xfe193a0f95bbeee5a5c8306bca5cedfa65114460",
+        "claimType": 1,
+        "amount": "8129661974153399443378",
+        "rewardEpochId": 333
+      }
+    },
+    {
+      "merkleProof": [
+        "0x936fe99c7a92d06cef8d4f48ed585b8e9f81c7092bede9c7dcf9b6ddc1204849",
+        "0x2566abeef65b949170040d74c7f50ff4ff50dfdddcd039cda7dfc22aa8f04b18",
+        "0x2355a44e30d3103c5b2ab40efc7f6b6a38ce6fd0eb55579a10de990b77bf9edc",
+        "0xf3ee9ba88da31e246d8b519b6949972a9b09db6350c79a1d565cae136b0e9b8a",
+        "0x46053751eaab72f8ba246b1f44faec22910051b22f8b0b7c10e75e21fe4cc208",
+        "0x9b81af19669a778000645ae20f6c8367d23f9d6871bf1831f834f505a89d41f6",
+        "0x250143e2036279319648a8cb9fe0044526f563a5789bddb44dec3034e670cbda"
+      ],
+      "body": {
+        "beneficiary": "0xff2e51fbf9196eaf96978ec454c5acdcf4c46990",
+        "claimType": 2,
+        "amount": "237988783697139050729",
+        "rewardEpochId": 333
+      }
+    }
+  ],
+  "noOfWeightBasedClaims": 60,
+  "merkleRoot": "0x06951a727473f7c3fb54cb6b97efba6e0b7ede83e159a0bc3b63b18edd5e3eb8",
+  "abi": {
+    "components": [
+      {
+        "internalType": "uint24",
+        "name": "rewardEpochId",
+        "type": "uint24"
+      },
+      {
+        "internalType": "bytes20",
+        "name": "beneficiary",
+        "type": "bytes20"
+      },
+      {
+        "internalType": "uint120",
+        "name": "amount",
+        "type": "uint120"
+      },
+      {
+        "internalType": "enum RewardsV2Interface.ClaimType",
+        "name": "claimType",
+        "type": "uint8"
+      }
+    ],
+    "internalType": "struct RewardsV2Interface.RewardClaim",
+    "name": "_claim",
+    "type": "tuple"
+  }
+}
