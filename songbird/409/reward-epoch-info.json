@@ -1,0 +1,3791 @@
+{
+  "rewardEpochId": 409,
+  "signingPolicy": {
+    "rewardEpochId": 409,
+    "startVotingRoundId": 1374240,
+    "threshold": 32753,
+    "seed": "0x95b64478589545fa720fcaf834dcdc48a2a259a5cf2a97e9ae2e1eb3d17ee8c7",
+    "voters": [
+      "0x526a35584129879950c1b044f5627812217b833a",
+      "0xfd9abd602150d39d819eb71ee8d6809c157d9a82",
+      "0x9e475034972d8acc3fe28e9a950d73a7631254e4",
+      "0x15687fcfcd693ff9f357c0b535a49072653e5d00",
+      "0x0e879d2836196f9bb212eaa5d6b206fa633a8370",
+      "0x86339bbf3e57c6026ce678617dec27f2cc5dbd62",
+      "0x680cb53763d589b2835ff522cbeea507dba9f74c",
+      "0x70538a23d7a825eabf80e26dfacfd8c9d61c205d",
+      "0x5483a24b91fd1fcb8ba1c5ae54c85d9b61d62198",
+      "0x85ddaaa17e3906bc1be051f6161ebe2ef68998c5",
+      "0x5da692a7ee11e292bddf8ea15bd388f3bec1347a",
+      "0x53bce8b63c3357717d87a816e3414e2103a85d27",
+      "0x558298090e6e5d439e792c9d1a3cde189a14037c",
+      "0xb25f584a52cc31541f6d783abe700c078f618bb4",
+      "0xfe28f67f7e33f9702476da4a851148b8d594b453",
+      "0x5bb7e630a3c14d4f4d889b1c7488f7affc8da0e1",
+      "0x4f29816fddfecef74b05639718eb719f719def4e",
+      "0x0cd4562cb47830cfc2acbca68c99d4c50e962f88",
+      "0x40567b5f30c90f35a3d3a5c57702bef6813d9a39",
+      "0xa1c5ad0b4a24b70b786b6143b066a8c54388f01f",
+      "0xcd67d20a68801832a26bc7877639a1f03dd480b7",
+      "0xc139f933a6b44aa698e649cc8f142ce02fd19213",
+      "0xf72841bd4042eff74f2caab7d8ddb11ffeab6b94",
+      "0xf5e307dc74656dde1a520b4319fba404f01dbe22",
+      "0x0c88a5cd336a2b2a81f16e09a23582300489f4de",
+      "0x2eecbb469af133d136f011ce3f27ecf9524bb7c3",
+      "0x57bc972bf2e5cc455e0d7ab0eb5d3d3cf004f10b",
+      "0x6b526660dcb12b70dd76595a886fb7430e44c855",
+      "0x79280386dda03f4af8d6212582652a80332d29d7",
+      "0x5b0ff409b17df4b717ea0c5035d0a961c502fca8",
+      "0x91abe8c9b87c7d48f4fd70af31e418ce6d336896",
+      "0x7a85e157c0ada485915019f84bc7da2027589d68",
+      "0x2a4bac7f442a4cd30faf3a1aeee74940c456ddf1",
+      "0xea851ec9ba36f1741c4acdde72f5b41b1903af57",
+      "0x338119f38fc07f29aa96449251353d9e4684da6d",
+      "0xf0c331bdcf75295a726834194178c951d2281799",
+      "0xd1b117c30689979fcbe97f9c53d670f050cfcabc",
+      "0xad8918d794329a549e33bf2ea6234d73c6ebe274",
+      "0xb4d13ca9e17c52d61ffc06c2bc75e3a751517b4b",
+      "0x1c884cf954ec8f15d7bf16b9d50402cc5c94b5fd",
+      "0x493e5d0833646f99e4b414e9de5a10d8cb9b5c5a",
+      "0x53722abc03b122d570adf3f256bcb75640c2968a",
+      "0xaa4d1f2b94370229bc20c3582e1d940ec783de12",
+      "0xf9b5da7af59bf8c8b68ef1743a4dcdca213b583e",
+      "0x276d718dd0b4e9271e3bfa776c112753a06bc53f",
+      "0xc0d15f4b2d964d372f5ae097f7bf73259a50513a",
+      "0xee02d89fbc7c61b0f6b0ce6bc20acc3522f66295",
+      "0x285ee7a4ec946ad5f6edae1611dbc4bc0510c783",
+      "0x8481da9fb718e36121d67be580531fac1ef1349f",
+      "0x81050097cbdc0b3d58fe0db4469775db7f538304",
+      "0x31e412e114629702281533cc657be76ad928283b",
+      "0xe78b600d8daec600c6ff98a1e6a22f28022830fc",
+      "0x0aad8d0bab50599b1669a36dbf1fe4896242a093",
+      "0x21ef03f609aad7db7224d3f8fd90f5593d2607ca",
+      "0x4dfcbc3a1529fb3c07245095fba7830063d71c34",
+      "0x295d1dceafda82dca22f6323b9b7889a2920c789",
+      "0xfb021c01f924c416d1fed247161963efc2ae7604",
+      "0xda120015f32de47427663db78bc7339ace2213ac",
+      "0xe627eb93529583a0f359e4b39fc8ad275cc93bfc",
+      "0x519468fd9811661f490cb921b499d2388bc9426b",
+      "0x493560bac93dfc176e5663cfc830af04209e95fa",
+      "0xe5c465582969717375f38202d6f615581daf2728",
+      "0x38fd3ec8d50787df2f8c0f4f89da7dd41674d4d6",
+      "0x2dedbb410e97d3e11d282e6b700e82b42018b939"
+    ],
+    "weights": [
+      1298,
+      537,
+      1363,
+      597,
+      1902,
+      1662,
+      1902,
+      562,
+      1265,
+      703,
+      1470,
+      1316,
+      864,
+      1240,
+      1650,
+      1364,
+      1424,
+      680,
+      719,
+      1902,
+      933,
+      1822,
+      367,
+      1147,
+      1331,
+      1116,
+      13,
+      1004,
+      861,
+      1902,
+      1058,
+      1340,
+      753,
+      545,
+      932,
+      1902,
+      511,
+      0,
+      997,
+      1053,
+      1902,
+      372,
+      541,
+      1077,
+      752,
+      942,
+      794,
+      1902,
+      1090,
+      1194,
+      864,
+      894,
+      725,
+      1150,
+      1563,
+      342,
+      924,
+      775,
+      851,
+      1336,
+      598,
+      904,
+      7,
+      0
+    ],
+    "signingPolicyBytes": "0x00400001990014f8207ff195b64478589545fa720fcaf834dcdc48a2a259a5cf2a97e9ae2e1eb3d17ee8c7526a35584129879950c1b044f5627812217b833a0512fd9abd602150d39d819eb71ee8d6809c157d9a8202199e475034972d8acc3fe28e9a950d73a7631254e4055315687fcfcd693ff9f357c0b535a49072653e5d0002550e879d2836196f9bb212eaa5d6b206fa633a8370076e86339bbf3e57c6026ce678617dec27f2cc5dbd62067e680cb53763d589b2835ff522cbeea507dba9f74c076e70538a23d7a825eabf80e26dfacfd8c9d61c205d02325483a24b91fd1fcb8ba1c5ae54c85d9b61d6219804f185ddaaa17e3906bc1be051f6161ebe2ef68998c502bf5da692a7ee11e292bddf8ea15bd388f3bec1347a05be53bce8b63c3357717d87a816e3414e2103a85d270524558298090e6e5d439e792c9d1a3cde189a14037c0360b25f584a52cc31541f6d783abe700c078f618bb404d8fe28f67f7e33f9702476da4a851148b8d594b45306725bb7e630a3c14d4f4d889b1c7488f7affc8da0e105544f29816fddfecef74b05639718eb719f719def4e05900cd4562cb47830cfc2acbca68c99d4c50e962f8802a840567b5f30c90f35a3d3a5c57702bef6813d9a3902cfa1c5ad0b4a24b70b786b6143b066a8c54388f01f076ecd67d20a68801832a26bc7877639a1f03dd480b703a5c139f933a6b44aa698e649cc8f142ce02fd19213071ef72841bd4042eff74f2caab7d8ddb11ffeab6b94016ff5e307dc74656dde1a520b4319fba404f01dbe22047b0c88a5cd336a2b2a81f16e09a23582300489f4de05332eecbb469af133d136f011ce3f27ecf9524bb7c3045c57bc972bf2e5cc455e0d7ab0eb5d3d3cf004f10b000d6b526660dcb12b70dd76595a886fb7430e44c85503ec79280386dda03f4af8d6212582652a80332d29d7035d5b0ff409b17df4b717ea0c5035d0a961c502fca8076e91abe8c9b87c7d48f4fd70af31e418ce6d33689604227a85e157c0ada485915019f84bc7da2027589d68053c2a4bac7f442a4cd30faf3a1aeee74940c456ddf102f1ea851ec9ba36f1741c4acdde72f5b41b1903af570221338119f38fc07f29aa96449251353d9e4684da6d03a4f0c331bdcf75295a726834194178c951d2281799076ed1b117c30689979fcbe97f9c53d670f050cfcabc01ffad8918d794329a549e33bf2ea6234d73c6ebe2740000b4d13ca9e17c52d61ffc06c2bc75e3a751517b4b03e51c884cf954ec8f15d7bf16b9d50402cc5c94b5fd041d493e5d0833646f99e4b414e9de5a10d8cb9b5c5a076e53722abc03b122d570adf3f256bcb75640c2968a0174aa4d1f2b94370229bc20c3582e1d940ec783de12021df9b5da7af59bf8c8b68ef1743a4dcdca213b583e0435276d718dd0b4e9271e3bfa776c112753a06bc53f02f0c0d15f4b2d964d372f5ae097f7bf73259a50513a03aeee02d89fbc7c61b0f6b0ce6bc20acc3522f66295031a285ee7a4ec946ad5f6edae1611dbc4bc0510c783076e8481da9fb718e36121d67be580531fac1ef1349f044281050097cbdc0b3d58fe0db4469775db7f53830404aa31e412e114629702281533cc657be76ad928283b0360e78b600d8daec600c6ff98a1e6a22f28022830fc037e0aad8d0bab50599b1669a36dbf1fe4896242a09302d521ef03f609aad7db7224d3f8fd90f5593d2607ca047e4dfcbc3a1529fb3c07245095fba7830063d71c34061b295d1dceafda82dca22f6323b9b7889a2920c7890156fb021c01f924c416d1fed247161963efc2ae7604039cda120015f32de47427663db78bc7339ace2213ac0307e627eb93529583a0f359e4b39fc8ad275cc93bfc0353519468fd9811661f490cb921b499d2388bc9426b0538493560bac93dfc176e5663cfc830af04209e95fa0256e5c465582969717375f38202d6f615581daf2728038838fd3ec8d50787df2f8c0f4f89da7dd41674d4d600072dedbb410e97d3e11d282e6b700e82b42018b9390000",
+    "timestamp": 1782106299
+  },
+  "voterRegistrationInfo": [
+    {
+      "voterRegistered": {
+        "voter": "0x527e5e829763885008e171493c0e8d4a1ec48239",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x526a35584129879950c1b044f5627812217b833a",
+        "submitAddress": "0xe6c5024a337451e32f18f4b043bdb2d755897f7e",
+        "submitSignaturesAddress": "0xfb341c48679a52973f778df1dd5c50a8e03010b0",
+        "publicKeyPart1": "0x0867be798fbfa4ce51090ae40166f9e0626c3d856bb0e0367494a41ba99c19da",
+        "publicKeyPart2": "0x0287972a591d8d54526e3117329a6a4674d0fb1002a3aa0f527237837985b4f7",
+        "registrationWeight": "39594476775586022575"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x527e5e829763885008e171493c0e8d4a1ec48239",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x86ec5c8ce7a4dd7762cff205d64bfc0c272feb6d",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "134952076418234000918620083",
+        "wNatCappedWeight": "134952076418234000918620083",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x65ae92f3473d75815f2a86298b76a608f94e1575",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0xfd9abd602150d39d819eb71ee8d6809c157d9a82",
+        "submitAddress": "0x8982e007397edc5e6efe3978fa5ee2e19ec62070",
+        "submitSignaturesAddress": "0x094d9cf2c4474a3680363e7c1d1b1c4bffbd0b2a",
+        "publicKeyPart1": "0x0a195a77c953182735552f4df2077dc16cd3b6d31dde958890bc5e31d8b1dfbc",
+        "publicKeyPart2": "0x13fdcadb7e927b11ed55f1a84a91a66c6d37d91de86eefb39844241ecfe46129",
+        "registrationWeight": "16381320020863687465"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x65ae92f3473d75815f2a86298b76a608f94e1575",
+        "rewardEpochId": 409,
+        "delegationAddress": "0xe304af184b9ca77e3576aef834a4dc1a43ebfa70",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "41603697059670457452740857",
+        "wNatCappedWeight": "41603697059670457452740857",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x01f24cb1de93f218f6627d496e6318bea65f2f34",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x9e475034972d8acc3fe28e9a950d73a7631254e4",
+        "submitAddress": "0x854d6971733c84a8a62bab6f62a588a9e1e33f92",
+        "submitSignaturesAddress": "0x2e98485ba7f43d418e7380592e50a155ec8840a4",
+        "publicKeyPart1": "0x1529a7aa863f5f9bb74c3d4acf15ec970443bc44fd530a12a18a6f2bb3af75b7",
+        "publicKeyPart2": "0x09de5e46ae24922f2e96e7564601c1e9f8c6df448e3e9f6c9dcc19e3246fe64a",
+        "registrationWeight": "41597229824544178081"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x01f24cb1de93f218f6627d496e6318bea65f2f34",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x0d3852ad415477ffc39ce9351bd4dedbbd585833",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "144129431508912563671103672",
+        "wNatCappedWeight": "144129431508912563671103672",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xc2ae38bd4804f74bba2828cdfc1ffa4be4d71304",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x15687fcfcd693ff9f357c0b535a49072653e5d00",
+        "submitAddress": "0xcc5ea80ee5ae7febe57913d330b41e16e7daf13e",
+        "submitSignaturesAddress": "0x3229f42a987b3900e99a40a71f88798c78701e0d",
+        "publicKeyPart1": "0x1c856c12d4ce5cd94ae28ef726575027be24f1a77253538efb7f015a4e968ed2",
+        "publicKeyPart2": "0x252f61f4912dbabfe633d3d1e3c5859457389cb4ece458f29eb1d94d66472667",
+        "registrationWeight": "18236858172066328360"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xc2ae38bd4804f74bba2828cdfc1ffa4be4d71304",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x7394923453fc2f606cfb4d0ea1a5438bb8260d08",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "48002835478114398556562509",
+        "wNatCappedWeight": "48002835478114398556562509",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x89f7498a8db97ff7d8ef323e480cb18db44a1309",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x0e879d2836196f9bb212eaa5d6b206fa633a8370",
+        "submitAddress": "0x216e8856902c0e90170e1a4f1bc8659c1b200afc",
+        "submitSignaturesAddress": "0xdeb6752c4120e1ee876ef39a3034c146fae189f8",
+        "publicKeyPart1": "0x09527f5f57482741588df7c7ece2801b77497a50c525983d20121c08259f60a2",
+        "publicKeyPart2": "0x10582db660b71b08db2eb6c6059561358f63c44db072a64c2aededdf3ded9428",
+        "registrationWeight": "58011172091029638000"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x89f7498a8db97ff7d8ef323e480cb18db44a1309",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x0f80af5b905a9a34f69e74412c4a00b231d26daa",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "248750313005884839631801915",
+        "wNatCappedWeight": "224568527045410736815952512",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xbe311f1640b700f76d17c009a505487c23b0312c",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x86339bbf3e57c6026ce678617dec27f2cc5dbd62",
+        "submitAddress": "0x7ce5f38ba4b9a11a462c0235159052cf5d026972",
+        "submitSignaturesAddress": "0xd224ab1433acb76a26c669b451589707b88a39b7",
+        "publicKeyPart1": "0x07704246b5cde7de97bb90e401bd673d1b873b06c1bcd123ec76ac549c7d9797",
+        "publicKeyPart2": "0x0a868035a203f9e1097ac3ba2f8be9ad4655a3eb4deee864c8f15ae1d1120ecb",
+        "registrationWeight": "50692663527611393700"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xbe311f1640b700f76d17c009a505487c23b0312c",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x6d323e71e141ce2d7b752313c8a654a9c9d1b377",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "187611849860858949257409769",
+        "wNatCappedWeight": "187611849860858949257409769",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x0c660191434484428a563614e0aa9d2041772953",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x680cb53763d589b2835ff522cbeea507dba9f74c",
+        "submitAddress": "0x85be5ecda6b130ed06de1f79d5f1d3ba88a4577f",
+        "submitSignaturesAddress": "0x732d031eddea4b28b3860962cb30d451eb562502",
+        "publicKeyPart1": "0x1520f9b758bd6d8e5c9b1fb3dc5f2300f4b493022e552e5beea4d74df85f8076",
+        "publicKeyPart2": "0x2d011bf5ed09ad60d4f5d6454cf1415f7291cc5ef2555a33207142ce39c3ba21",
+        "registrationWeight": "58011172091029638000"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x0c660191434484428a563614e0aa9d2041772953",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x2d7bf53ed6117ad1dcd6416d460481522a16afdf",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "351258787977098973726407868",
+        "wNatCappedWeight": "224568527045410736815952512",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xd6c5f3e3a8a76ec73f2fafaf06ef9da57796ddf0",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x70538a23d7a825eabf80e26dfacfd8c9d61c205d",
+        "submitAddress": "0x71aec2bc126654d116386864b5f3babce0ca87e0",
+        "submitSignaturesAddress": "0xe0dcf787fa4ea43fc949878a1d85a740a25b9958",
+        "publicKeyPart1": "0x14494c8ae19aa0207a389b4ff39ca27f81849b75f4423aea48a840b28acfee46",
+        "publicKeyPart2": "0x2368b5c80b8536633a8df31963c0821346f5a7b5a7bb4822d18c280d4a6f87df",
+        "registrationWeight": "17148206306818890576"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xd6c5f3e3a8a76ec73f2fafaf06ef9da57796ddf0",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x43cab70e8edefef8c648c4fc0863dd9d8ff5776a",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "44220635591985526061231529",
+        "wNatCappedWeight": "44220635591985526061231529",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xdbb159ee372d58d2653023bf1c5ab5678b842870",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x5483a24b91fd1fcb8ba1c5ae54c85d9b61d62198",
+        "submitAddress": "0x9f061f18fde13b8afb4ad002d40b94d26f86c9b6",
+        "submitSignaturesAddress": "0x9fc23f0dcc1c46ef3647201442f4dacc01971b11",
+        "publicKeyPart1": "0x03c9ea86549511ee86835cc1199ad8f0720a2b73b6b74711a073248382f46cd6",
+        "publicKeyPart2": "0x1a526478e9a20c85e280fb1c5085899cbe9ce30d65dc0807b9a25458ed69b9fa",
+        "registrationWeight": "38589360572930229797"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xdbb159ee372d58d2653023bf1c5ab5678b842870",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x0fa72d3912d1c530ab1f6a8a9fb61c672947e964",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "130403770918431101063293257",
+        "wNatCappedWeight": "130403770918431101063293257",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xaa14f00460efa76418f9ce265fe6dbb259b59d3f",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x85ddaaa17e3906bc1be051f6161ebe2ef68998c5",
+        "submitAddress": "0xfac6ac7f8124418c389aeb225ceb1872eedac401",
+        "submitSignaturesAddress": "0x9cb870ddd75d722a57d35d1ce93526546710aae0",
+        "publicKeyPart1": "0x1680ee2984c3e5dbd89d4bb6ebd98b91d124725d56022fc0ebb11245b2a235e6",
+        "publicKeyPart2": "0x21eb3c1ec3b3ab550083a54199d17ac51a56b056a0e35d34b5656310ad59b0d1",
+        "registrationWeight": "21463127279056872610"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xaa14f00460efa76418f9ce265fe6dbb259b59d3f",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x04bd6870d801d68cd58163900b8eed6bddda29cb",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "59647298740784365439570281",
+        "wNatCappedWeight": "59647298740784365439570281",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xd288c3ef25ebf79e7c53ea37dcdfb0710f3ed173",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x5da692a7ee11e292bddf8ea15bd388f3bec1347a",
+        "submitAddress": "0x2d4da92b99b98dd4a0744fa563bf27b30aee6b0b",
+        "submitSignaturesAddress": "0xa587056d4d028003b0241051bbff7ec2691d84f9",
+        "publicKeyPart1": "0x2633860dd25a2b5435fbb522aa6c134ed2cb7fe031a2b2766fa52e8cf5a65957",
+        "publicKeyPart2": "0x0792f99b3c7b52119439205dd5f2f91c3b41d0bb83be68f04a2748fd9f2bc2b0",
+        "registrationWeight": "44849709606808633430"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xd288c3ef25ebf79e7c53ea37dcdfb0710f3ed173",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x0708a4c813594b7e0218cb4a5d8b75c76abfc859",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "159347851836668386319989686",
+        "wNatCappedWeight": "159347851836668386319989686",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x1cbf078705c907510fdb711cf3c6e9b8e583f156",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x53bce8b63c3357717d87a816e3414e2103a85d27",
+        "submitAddress": "0x959fe25a0f1b4e1bea43c57c611afb62442124b0",
+        "submitSignaturesAddress": "0xe8d23036eea8c64a05eb5cbe919c4fdfaecda5fb",
+        "publicKeyPart1": "0x17373b729a384e6074f85eaabd9042d72bf056835ad1a2f02a20c980e392fc99",
+        "publicKeyPart2": "0x0d43b5b3ddb44a62e10a5898098f3adcfdb6a667f07c4ea3e6dada94877500d9",
+        "registrationWeight": "40150210059492805599"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x1cbf078705c907510fdb711cf3c6e9b8e583f156",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x6c6b3560704da8a2c33b1bb00e88ba343807e565",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "137483490233981443640654877",
+        "wNatCappedWeight": "137483490233981443640654877",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xc5261026e08ec6dc23162ef7eb1248548715be76",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x558298090e6e5d439e792c9d1a3cde189a14037c",
+        "submitAddress": "0x3eb6a7ec0453b176a46a81ae49255e913b7e4749",
+        "submitSignaturesAddress": "0xfa0bc9ee91340b02d0d0a608b3cff23c38eda75b",
+        "publicKeyPart1": "0x1dfb1e7daaeb023e7c9809a65de2b13df63859eb182b75aa8f3cc080ba35a7a5",
+        "publicKeyPart2": "0x1fb8dc0e03fc55f326faa81b7ec0ec0dbd4695e071af15acabc5793a352affae",
+        "registrationWeight": "26369009332182598615"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xc5261026e08ec6dc23162ef7eb1248548715be76",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x9565d813a3a0cea62b3bdb9a4e236dcb5910c4f0",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "78485947232809650590480483",
+        "wNatCappedWeight": "78485947232809650590480483",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xc1d269e9d2a39c6a285eaaf53eb9fe9b7245c87e",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0xb25f584a52cc31541f6d783abe700c078f618bb4",
+        "submitAddress": "0xeb431aca7d7b626c8635de8842a8ca4a25c53ab1",
+        "submitSignaturesAddress": "0xdf4a3adb26d23cf51380b31d5ffc3c94d06697b7",
+        "publicKeyPart1": "0x0e7a4499d35d90c55a060f7e6b9e5a0c9d04e5154b7fa049e75ded80cc15b583",
+        "publicKeyPart2": "0x05e5acbbb75a703cd424266f6ff2ac9bbc39a1ee881fdd1e3ec91869f8f9bf89",
+        "registrationWeight": "37834570765081344046"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xc1d269e9d2a39c6a285eaaf53eb9fe9b7245c87e",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x58cd43e9fcdbd4d0f507ab4f6029db8032746da8",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "127014093342862618698391295",
+        "wNatCappedWeight": "127014093342862618698391295",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x6c2209754845df0fc01d048c3f3c3537b5d35b9c",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0xfe28f67f7e33f9702476da4a851148b8d594b453",
+        "submitAddress": "0x8ca22a091f467d4e4d0e0357b6cd6d963e426689",
+        "submitSignaturesAddress": "0xfba9e89bf31ad6a0a7079e6ea4775b09b49efdd2",
+        "publicKeyPart1": "0x0b9f23f04efd418dc45c183010cd0ded815083d7882e27434166c41c871f136e",
+        "publicKeyPart2": "0x042ea2b42f276bcd05fd1c6ff1456301591db6e287dc316396c9e9f49235cb59",
+        "registrationWeight": "50341202615720225704"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x6c2209754845df0fc01d048c3f3c3537b5d35b9c",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x1b00870092a929d160492daf8e734b4bca033266",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "185879531827514765417239675",
+        "wNatCappedWeight": "185879531827514765417239675",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x342c8c165db96a60efedd2e3480ae5398a1fd322",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x5bb7e630a3c14d4f4d889b1c7488f7affc8da0e1",
+        "submitAddress": "0xc7aeb460f425667d4fb16e0c0c42325b031030a0",
+        "submitSignaturesAddress": "0x0beb25d66cdd056ac4ff46c2c85937a27f644f86",
+        "publicKeyPart1": "0x038d51351495bc3cc20fd1316e58ce28a327e5fe712a70606af238d6110d381e",
+        "publicKeyPart2": "0x20383e5731dc31c42712205966c438969f7694f79900efffb34c606d12c24440",
+        "registrationWeight": "41628359496267731598"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x342c8c165db96a60efedd2e3480ae5398a1fd322",
+        "rewardEpochId": 409,
+        "delegationAddress": "0xde4051b333b3063fd28267cd4412dd25233d0ae1",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "144273272662010753111179807",
+        "wNatCappedWeight": "144273272662010753111179807",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x19585c914aea4d985e034399c581b35014ec94ef",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x4f29816fddfecef74b05639718eb719f719def4e",
+        "submitAddress": "0x991b71d7380e89354ea71007eb744316829b62ae",
+        "submitSignaturesAddress": "0x8b31c922bfc7f969585fda3e86faa873b72e88e4",
+        "publicKeyPart1": "0x0bea4ddaa37c9f34160604d5ca90f1ce2b353caa1df54d580447bac6fa269686",
+        "publicKeyPart2": "0x0ed29f25b00c1ebb59d916e4ec7e932f9838d9ef7c459160dbbd41e79901568c",
+        "registrationWeight": "43456221157193787712"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x19585c914aea4d985e034399c581b35014ec94ef",
+        "rewardEpochId": 409,
+        "delegationAddress": "0xb5ecb64526f777eb6f02d4a83abab1fad26b1c00",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "152781028190568595969330576",
+        "wNatCappedWeight": "152781028190568595969330576",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xec056b0ef36de1d63031fdbb9bcef5feb36fb27f",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x0cd4562cb47830cfc2acbca68c99d4c50e962f88",
+        "submitAddress": "0x1a2c2cf93667b0936c2e2e057fafc8637df56642",
+        "submitSignaturesAddress": "0xee75cd37b1a6815cc6e8ea27cf735524c170c57a",
+        "publicKeyPart1": "0x20f54d0d08d51d97844e91a8f05307250bbb7f0915b974806c079444d088332b",
+        "publicKeyPart2": "0x27aaa90d1f09c41615b5eeb9c03649e8787f4ac5d67e1ddab98010a725e93746",
+        "registrationWeight": "20741484011546494224"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xec056b0ef36de1d63031fdbb9bcef5feb36fb27f",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x7c255e428e95bebc76e944d49d4f460c84b3a3c3",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "56988410819169020771601011",
+        "wNatCappedWeight": "56988410819169020771601011",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xd9ddd06b3e603f451dd8a16574ca9d3df564742b",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x40567b5f30c90f35a3d3a5c57702bef6813d9a39",
+        "submitAddress": "0xb410331e0f29f9cf5792a18982bf416a7768fdec",
+        "submitSignaturesAddress": "0x88311d4876d761837fe70e771a4d4a5beb9da887",
+        "publicKeyPart1": "0x2eb04cf003c1079247e39bc5a0c777ccbe86e360b22213741ea259adbc6c9a1c",
+        "publicKeyPart2": "0x1b3d9011ec62b2eeed3d6996858fe90589a4d61f35dec99a087bc57786449af2",
+        "registrationWeight": "21952454421649561414"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xd9ddd06b3e603f451dd8a16574ca9d3df564742b",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x4eb408fa585a5c66e523a4ae5f5706374ec9e8c7",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "61467310585532747382128502",
+        "wNatCappedWeight": "61467310585532747382128502",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x7429e0c70306834e2b210cf3feb306342f456ce7",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0xa1c5ad0b4a24b70b786b6143b066a8c54388f01f",
+        "submitAddress": "0xf01f5a31a07a046cd63d5ec27e82d12e6a89762f",
+        "submitSignaturesAddress": "0xdce533e7f4b46b992ebae38bf81a0f56d65cd88e",
+        "publicKeyPart1": "0x177ccd52148eb4beee49a8aedcfd3b9a9efa625c2c12fc5f0da79828fc17eacf",
+        "publicKeyPart2": "0x25a3ce7b3e2465869eb4b7441aacb42fe0eafdc9c66885cd3d89d596bd33e815",
+        "registrationWeight": "58011172091029638000"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x7429e0c70306834e2b210cf3feb306342f456ce7",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x69141e890f3a79cd2cff552c0b71508be23712dc",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "482744802270885032271447927",
+        "wNatCappedWeight": "224568527045410736815952512",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x18c8af2eac14282e207c67c405325e5a4a401a9f",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0xcd67d20a68801832a26bc7877639a1f03dd480b7",
+        "submitAddress": "0xc19b486b078cbbbc569f8eb3df3e691990f3ef8e",
+        "submitSignaturesAddress": "0xbdcbb346b27866aba638b89fcf00a6e9c970ebe8",
+        "publicKeyPart1": "0x1ba957530ad233ea61260ce1b41d308b5be16dfa425c2ec1baad13254eb484f9",
+        "publicKeyPart2": "0x1cc87e44959627cb86fa24e14bdbaf33950206fbfd996d0e87c9aecf8f4a9fd9",
+        "registrationWeight": "28455658367101337008"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x18c8af2eac14282e207c67c405325e5a4a401a9f",
+        "rewardEpochId": 409,
+        "delegationAddress": "0xa174d46ef49d7d4a0328f9910222689e9eab2f45",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "86874363134488004651232797",
+        "wNatCappedWeight": "86874363134488004651232797",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x4985138d5efab799caa5abb09eb7dbc87dd5141a",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0xc139f933a6b44aa698e649cc8f142ce02fd19213",
+        "submitAddress": "0xe50c2243dd448dfcbd037463dc8d9f0787bfb17a",
+        "submitSignaturesAddress": "0x822526f4768eff2d4ba0b037bef08d7410c18c52",
+        "publicKeyPart1": "0x068d5e485eac0bc51a908beea82bd4b9bfb112fe4475f5393dddc58aaa519bf8",
+        "publicKeyPart2": "0x2b1b4e961c53f93698efea97e2296fbf0db1d6f381b918e94432a071f9b4987c",
+        "registrationWeight": "55590857781604103772"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x4985138d5efab799caa5abb09eb7dbc87dd5141a",
+        "rewardEpochId": 409,
+        "delegationAddress": "0xccd522393233052dd0dfeaadc124a0a9bb87fd08",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "212163763397878560080781446",
+        "wNatCappedWeight": "212163763397878560080781446",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xbdeb203e55e65451fabf0e7b778b32ac174918ff",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0xf72841bd4042eff74f2caab7d8ddb11ffeab6b94",
+        "submitAddress": "0x58ced1f8150498dfeba90451f033314a00da3525",
+        "submitSignaturesAddress": "0xec814d475773ef28772a8b8372caecaac2807708",
+        "publicKeyPart1": "0x150a68bceeaff168bfb719df137d04e818778ff6cd22421c9f2f93e2afb6f57b",
+        "publicKeyPart2": "0x27660207aa23f8a7a05a2e22e1d43b432313ddfb6a21c38166641deb83a5e25f",
+        "registrationWeight": "11197124899657214728"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xbdeb203e55e65451fabf0e7b778b32ac174918ff",
+        "rewardEpochId": 409,
+        "delegationAddress": "0xaf4ef2a0ecf8d914db6b721d3eb79c46ca612796",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "25050065133593197075996847",
+        "wNatCappedWeight": "25050065133593197075996847",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x48dcd1215b7f8c92150742765ffe989f55b3a5b0",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0xf5e307dc74656dde1a520b4319fba404f01dbe22",
+        "submitAddress": "0x2b6a18ef47c03e37bb7e3e8f4a4fdc4af8577d97",
+        "submitSignaturesAddress": "0xe55db1292c2f84809b308971b585f57bf1d57748",
+        "publicKeyPart1": "0x1e2a182e03e1f8634b458a99affe12d18c8764e4b6d90f4d8ee6307febd7c985",
+        "publicKeyPart2": "0x1e13e4fb872b8a8e404fe7395e0df36cc643ea6c39ae46cc5094d04af5ca3204",
+        "registrationWeight": "34990689778663295424"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x48dcd1215b7f8c92150742765ffe989f55b3a5b0",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x3886e101bb798ab3180b52a393b5beab39f2db1d",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "114446733862409377179550862",
+        "wNatCappedWeight": "114446733862409377179550862",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x661a71e863c887e68aa8c9348e8aa60e48a868ad",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x0c88a5cd336a2b2a81f16e09a23582300489f4de",
+        "submitAddress": "0x6ee543bd1cf7afa237233c29e7562665c82b89ed",
+        "submitSignaturesAddress": "0xc9852851b353900647246edcb8162227dadf8373",
+        "publicKeyPart1": "0x0cfa9f1092d8f1fc832c09290f7487a64ba5e6af06ffda2995332629b6cc4cd2",
+        "publicKeyPart2": "0x14a7f03ec75504640b019bd34a18f647edd49a14adda989cebc2f7d742f67a9a",
+        "registrationWeight": "40607399321913838050"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x661a71e863c887e68aa8c9348e8aa60e48a868ad",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x53caedda4339ed74272ecfef85b657def18fa2e4",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "139574815940864226226734290",
+        "wNatCappedWeight": "139574815940864226226734290",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xa0e1fba30e75e2d0d6c428cff4b3b6a06233422b",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x2eecbb469af133d136f011ce3f27ecf9524bb7c3",
+        "submitAddress": "0x39a875a881bf934ba1483f2bdae8c1a19125cbbf",
+        "submitSignaturesAddress": "0x4976bed181eb89de7e5a12b8b343f787a3f7ea05",
+        "publicKeyPart1": "0x16762ec6e45834741bc48854d22fd1fe9e2d4d5fcabbbbbb21f798a0a992c1a2",
+        "publicKeyPart2": "0x26c25d95f1ebd94aa6571a5846f024957b32472a2806e3381b8cf7eaa45b50d0",
+        "registrationWeight": "34039020068249041050"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xa0e1fba30e75e2d0d6c428cff4b3b6a06233422b",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x6bf25c0256cbe8969424f6994e19cf5e0a3c23bb",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "110315423539753875446739931",
+        "wNatCappedWeight": "110315423539753875446739931",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xdd8fe872d02942dbc3f5a2ecc62c78331430a90f",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x57bc972bf2e5cc455e0d7ab0eb5d3d3cf004f10b",
+        "submitAddress": "0x4ee74b4bd478621f51db5294d00729376b8208ba",
+        "submitSignaturesAddress": "0x04572afb00b83babdd230e95b52c5706c39f865e",
+        "publicKeyPart1": "0x1f157a3a2954ebbef1700ee8a1342e767293bfeb3917e4d34a6421fbf7d8a65e",
+        "publicKeyPart2": "0x292b1579d1badeb4667ce76273a989e43d2a728c36891af91683b92e4462a0fd",
+        "registrationWeight": "420784506875983338"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xdd8fe872d02942dbc3f5a2ecc62c78331430a90f",
+        "rewardEpochId": 409,
+        "delegationAddress": "0xc4cceca39bdca9428b482aff538ad68558597b79",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "315316415670222216526999",
+        "wNatCappedWeight": "315316415670222216526999",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xab3dae93cd52f6e2a0809dc19567c79ac3b1e225",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x6b526660dcb12b70dd76595a886fb7430e44c855",
+        "submitAddress": "0x7573043e973cf04d8b920fb9170471d44a291fe1",
+        "submitSignaturesAddress": "0x61a39010fcc0bb7e1b81f880751ab832a797091f",
+        "publicKeyPart1": "0x1245a51163f6d8dbfac2eb1c35379be9ec6ff5d9fbe13046eeb1be0d0c15e48c",
+        "publicKeyPart2": "0x26e9ba22fe2bfde0f03b1d49d24f47340d6b3abd19457b80321492877e73358e",
+        "registrationWeight": "30633624019032047148"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xab3dae93cd52f6e2a0809dc19567c79ac3b1e225",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x2de2c741658f0ae7b2ddd8eadd179911564af119",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "95851263792751403940983496",
+        "wNatCappedWeight": "95851263792751403940983496",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xecafe633830fa27b4912a5588c28b7d994e1f203",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x79280386dda03f4af8d6212582652a80332d29d7",
+        "submitAddress": "0x232b3cecc2e4eaae6122952ad0b1bbc60f85a829",
+        "submitSignaturesAddress": "0xb1b47b656d828ee475f7c929add686331eaecf42",
+        "publicKeyPart1": "0x26f08e0bbbfe590a7b02b16fbb9c42e4f3145baf9bb9f36e3d2454af73db3bee",
+        "publicKeyPart2": "0x270bac27a0eacc78a654058a1802c8c30802502f0dfc8a3a9e4017e294aac256",
+        "registrationWeight": "26265382523041429053"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xecafe633830fa27b4912a5588c28b7d994e1f203",
+        "rewardEpochId": 409,
+        "delegationAddress": "0xff2e51fbf9196eaf96978ec454c5acdcf4c46990",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "78074956919526020112827917",
+        "wNatCappedWeight": "78074956919526020112827917",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x8ddd48b520df91f05c5d8c19b2cee59abe65978a",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x5b0ff409b17df4b717ea0c5035d0a961c502fca8",
+        "submitAddress": "0x92bf54ae8aed699a038e8d8b0e62e5b511f56dc5",
+        "submitSignaturesAddress": "0x351cc97c268f5dc8eeeddded15b0bd0825e683f6",
+        "publicKeyPart1": "0x18384be720b40837649785e0d74caa7d99b2b8f8dd0b921564da2a3cd3177baf",
+        "publicKeyPart2": "0x1f16806f5df1d59e0fd25c66a832baf92525312669c309adec891783cf0313b6",
+        "registrationWeight": "58011172091029638000"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x8ddd48b520df91f05c5d8c19b2cee59abe65978a",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x1c602a30335187a97d8061ffffd4522796de82bf",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "250069059762200212767232557",
+        "wNatCappedWeight": "224568527045410736815952512",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x44eb776cd95ae59b2eda2ce354557427361e75da",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x91abe8c9b87c7d48f4fd70af31e418ce6d336896",
+        "submitAddress": "0xb9f0f796bebca28c9813452c9b1b5719d89604e3",
+        "submitSignaturesAddress": "0xd8659e7ef5d329509bcefcad0b6d6b3622bc49c7",
+        "publicKeyPart1": "0x022d6391aceb4cc55efcb5a17e96f49931c32ee271832aa6b024ef0223cccc6b",
+        "publicKeyPart2": "0x12cbf13b2eb7431ef6c24548977d6e8a25f135aae18f311343d2749bb73cdf46",
+        "registrationWeight": "32283599931171529577"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x44eb776cd95ae59b2eda2ce354557427361e75da",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x633ce03ea66d910c15869e1552fdccc2bf9aad87",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "102795962735310394070490210",
+        "wNatCappedWeight": "102795962735310394070490210",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x121c651710217239592a169b9f7d1038ad53446d",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x7a85e157c0ada485915019f84bc7da2027589d68",
+        "submitAddress": "0x44bae8ba9da0a0583e49937ca5a251b8cdc1bc81",
+        "submitSignaturesAddress": "0x41137152912a1fd477ca2b4ab4ddab195d4f452f",
+        "publicKeyPart1": "0x1c5d912af50dc9f5c56a37a1865bf95f8c8a9aa4c4a1ac935b4a3f1fc594637c",
+        "publicKeyPart2": "0x07735ce941e177f5598bbb4e9c10d499be1627bdadddbfe998ef46cdc3667eb3",
+        "registrationWeight": "40879516396630661640"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x121c651710217239592a169b9f7d1038ad53446d",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x580b729602c10c59b058c3c3b0cec6c3db7ae0c7",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "140823260962701003720159287",
+        "wNatCappedWeight": "140823260962701003720159287",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x28603d496801086f503d80b5d321ecad13ca3afc",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x2a4bac7f442a4cd30faf3a1aeee74940c456ddf1",
+        "submitAddress": "0x8051e1447d2dbc375c218605f623898edffe0a28",
+        "submitSignaturesAddress": "0x399b78562110e9be3ac52a3e2628f6fc413147eb",
+        "publicKeyPart1": "0x181e06575c697a3596e4d1126773729e45778f639493e78b08c3dc62352d3a11",
+        "publicKeyPart2": "0x243b25fd67ef0ea51d30a210954b0e47997b7c319d84185536194e5e710e53dd",
+        "registrationWeight": "22980840106545990855"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x28603d496801086f503d80b5d321ecad13ca3afc",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x2c293599ca61bb53e8ff82c8a19c2a8b883ea23f",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "65336303227361347082635657",
+        "wNatCappedWeight": "65336303227361347082635657",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xc9aae1c39de077aeb7d7bc5b018acc4c71504a84",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0xea851ec9ba36f1741c4acdde72f5b41b1903af57",
+        "submitAddress": "0x1037187c620b36e8c19ea1bd134f1c79417c3798",
+        "submitSignaturesAddress": "0x31f99aa33a86bb5dec2362ffadde8e1a7d07e830",
+        "publicKeyPart1": "0x0d0d139c45d0d594631b054fefa16c3a9e387f206adb4fcd3a9eda151fb083de",
+        "publicKeyPart2": "0x10720a497dcf2a23db2f4d927e0d9057d7604e5e762a57db6f8fcfd01ecc3b66",
+        "registrationWeight": "16627597409397744786"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xc9aae1c39de077aeb7d7bc5b018acc4c71504a84",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x0501b6306b03a9eede8165d4b9abcb4915937b89",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "42439744401367042172191261",
+        "wNatCappedWeight": "42439744401367042172191261",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x01caaaa7b40aa13ab2a04087d262b5558e695607",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x338119f38fc07f29aa96449251353d9e4684da6d",
+        "submitAddress": "0xbe9f00d70c357c663b63cf5972d4c59c851a7618",
+        "submitSignaturesAddress": "0x7e5a5371517f855e10d27394483dbab123da5d9d",
+        "publicKeyPart1": "0x1ec9ba90b04ed361a44ef0b46cc173f423c6a95f9d86688553d16780eae163de",
+        "publicKeyPart2": "0x182db0c31609bbdd2fb5c9b29dbaca96c0ee2c9cd6885d71b3c20a7d7bd279ee",
+        "registrationWeight": "28437615954850607299"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x01caaaa7b40aa13ab2a04087d262b5558e695607",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x35149714467f2fe71b46eeb4d11689ed8728bd25",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "86800904957738776213877372",
+        "wNatCappedWeight": "86800904957738776213877372",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x3ed54c61ec0ff7c144d547c2d032392864e66ca2",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0xf0c331bdcf75295a726834194178c951d2281799",
+        "submitAddress": "0x0bf38d9067a250c0f470ddbd123c4210270ea710",
+        "submitSignaturesAddress": "0xac9cbd0f0b6ccc7ef984981f4c4d8a6a858fc79f",
+        "publicKeyPart1": "0x017d5ddba0bccf8b1f245efa0bbc6d44eae746ee72028fc9175ba0c054c4d0d6",
+        "publicKeyPart2": "0x05fdb63cbcfe808e40c5697942b7d12418711054a60e80fc39e5d1948d9f11ba",
+        "registrationWeight": "58011172091029638000"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x3ed54c61ec0ff7c144d547c2d032392864e66ca2",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x04a8b3171fbbfe4554b55190b43e709c4b672030",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "353231114334079318465387748",
+        "wNatCappedWeight": "224568527045410736815952512",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x6976b491cf6043bbc11214633f7a51467760a967",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0xd1b117c30689979fcbe97f9c53d670f050cfcabc",
+        "submitAddress": "0x30a4ae4e8c78fc087d166e90f8f564ff2fb55698",
+        "submitSignaturesAddress": "0x87fffae4ec0e9dacf349ca83f2e841faeb54911e",
+        "publicKeyPart1": "0x0fd9c73eac9889f932317c36f8698ff9d219f49e34746792188e15e5143312c7",
+        "publicKeyPart2": "0x11792b518a2be7aba28b9334b79bda4c8504e9eb66f59761d710e6daf7f3c126",
+        "registrationWeight": "15608960543008711056"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x6976b491cf6043bbc11214633f7a51467760a967",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x7aeadd818077129f7143c3a1865bb339f0967aec",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "39009052703271296410816472",
+        "wNatCappedWeight": "39009052703271296410816472",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x882ee9cebe3d7b38eebd640b89de01b326351679",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0xad8918d794329a549e33bf2ea6234d73c6ebe274",
+        "submitAddress": "0xb0a1797e150ee76f5f2d2de951544c4d592594b7",
+        "submitSignaturesAddress": "0xbdfdff3f451f6c08cfe8d1502025bb65e6ebbe5c",
+        "publicKeyPart1": "0x290b4ce36add26da9030a11e4f37025adbc27d51c4df00e78c72dbdba7b8349b",
+        "publicKeyPart2": "0x0431a4c4566a0c388b88817717a7e1f5e8a02ec12af6cbfdd4b9ecfb74bfeaf5",
+        "registrationWeight": "5196150000000000"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x882ee9cebe3d7b38eebd640b89de01b326351679",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x99307a8f46cbcc9238a80be8ed955f3e8b491ed4",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "900000000000000000000",
+        "wNatCappedWeight": "900000000000000000000",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x625598caf40c63eb62860260cfd343d5fa4d88d4",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0xb4d13ca9e17c52d61ffc06c2bc75e3a751517b4b",
+        "submitAddress": "0x9ee69d3b7c8099ab0e604bbac544e77e2066d38c",
+        "submitSignaturesAddress": "0x898c46bf51bd9a241b6b7d8a99089c954ccece60",
+        "publicKeyPart1": "0x2ed3380b8ee9e4a749af5613593c6945cb1b44ded98e1c486cf442cc8a21575f",
+        "publicKeyPart2": "0x1f963f15b0b0c5748b917d7347110f6ec4cf676e0902bf362ff731e4d42e942a",
+        "registrationWeight": "30435358495251003427"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x625598caf40c63eb62860260cfd343d5fa4d88d4",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x2d3bde536ad297f2ea74965f02c9e42f4780fb6a",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "95025006562606354809274254",
+        "wNatCappedWeight": "95025006562606354809274254",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x4ddd9f80f88f53c730ce7c6041f17583447dd968",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x1c884cf954ec8f15d7bf16b9d50402cc5c94b5fd",
+        "submitAddress": "0xc58b13d32dcf08eb23d2105159982377982b2777",
+        "submitSignaturesAddress": "0x099ae1a237a4a7696672986c2155fe8b80abe906",
+        "publicKeyPart1": "0x097b88396d0d61f660834184551f26f88aa9aab5b5c14fe4834e0c6a98dfee04",
+        "publicKeyPart2": "0x1bb72537f20333ac48bac2fc86d360de9a3f6c46af0899f7c835969ec5670661",
+        "registrationWeight": "32136261469816074466"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x4ddd9f80f88f53c730ce7c6041f17583447dd968",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x819eab111bd9a6e595187a914240529d2efff21f",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "102170880960677509988086252",
+        "wNatCappedWeight": "102170880960677509988086252",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xb3c9aa09f22a06122d3608ef075f14e001561470",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x493e5d0833646f99e4b414e9de5a10d8cb9b5c5a",
+        "submitAddress": "0x38f01976677021a2599c1d155206037ecb28c1e5",
+        "submitSignaturesAddress": "0x49e99eab73f135b384dddd3ccdb9cd1cf0e1736d",
+        "publicKeyPart1": "0x140579a5b93cc64dadf5d96535bef746cf4d41e14a7d6046b4dd8d3e56e61c3a",
+        "publicKeyPart2": "0x2b003418ba0853b6a81095d509f70e8f5dee99c6ac59b7f0a946d9810e75a7d3",
+        "registrationWeight": "58011172091029638000"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xb3c9aa09f22a06122d3608ef075f14e001561470",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x499017adb21d6f70480e4e6224cf4144071c1461",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "254523540555480673046815532",
+        "wNatCappedWeight": "224568527045410736815952512",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xd03a130079430a5d8fd1caea3535a80ddc6bfc0d",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x53722abc03b122d570adf3f256bcb75640c2968a",
+        "submitAddress": "0x85d134f68c3c564bb935479490e5c8df5f4f1124",
+        "submitSignaturesAddress": "0x736188c74a6fdae726d319c41bae03e2776481e7",
+        "publicKeyPart1": "0x083a999cd108a0c9c4255c625d47ce58633f4a9251f07206551fddebb7e12481",
+        "publicKeyPart2": "0x182ce213f779264a780779b21202db357e938703dc0a02cb0f50fa9d238227a8",
+        "registrationWeight": "11353931974742284459"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xd03a130079430a5d8fd1caea3535a80ddc6bfc0d",
+        "rewardEpochId": 409,
+        "delegationAddress": "0xb6ded9d9ca19af10c67f9a8be8ca75e38e166faa",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "25518895387158365109822106",
+        "wNatCappedWeight": "25518895387158365109822106",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xfe193a0f95bbeee5a5c8306bca5cedfa65114460",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0xaa4d1f2b94370229bc20c3582e1d940ec783de12",
+        "submitAddress": "0x917445462e58e32af317fb5271d7eb028438f87f",
+        "submitSignaturesAddress": "0xb46f83efe04bc1fc9ca480cba861e65f35940352",
+        "publicKeyPart1": "0x0df7e4944b21107e21525d144e16d55000d617606a889860e995d9c929f7e0d3",
+        "publicKeyPart2": "0x016a914ac197d38bab99a102cbf3070d0d11c7d2a69e7edbb531251d903b74b8",
+        "registrationWeight": "16509695581588152720"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xfe193a0f95bbeee5a5c8306bca5cedfa65114460",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x78a99aa32cde18b33b150941fbf718715d15af6a",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "42038979848034169827783095",
+        "wNatCappedWeight": "42038979848034169827783095",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x00620f4659bc546284dab2720373c606727f073a",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0xf9b5da7af59bf8c8b68ef1743a4dcdca213b583e",
+        "submitAddress": "0x57857265f6015f2193fc4e924055172b54826fb1",
+        "submitSignaturesAddress": "0xa5277c53daabc9cbc885ffbc4a4a4ccf46655620",
+        "publicKeyPart1": "0x21024f152b5f6805aa3f9c6e083d845ab8737093cb694cb46f7db4868d088297",
+        "publicKeyPart2": "0x1458b2fb6835496a95116829a5ff309611871ab6d5ee9acc0cdc0425483a9962",
+        "registrationWeight": "32853985867619141816"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x00620f4659bc546284dab2720373c606727f073a",
+        "rewardEpochId": 409,
+        "delegationAddress": "0xca60cd408a5e447897258cdb1f699478c71cc55e",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "105224671135595015177763006",
+        "wNatCappedWeight": "105224671135595015177763006",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x0a2128437f75ea111887f033fd84794403562737",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x276d718dd0b4e9271e3bfa776c112753a06bc53f",
+        "submitAddress": "0xd296098327d541e6057cb2ffa309e19e9c7207ee",
+        "submitSignaturesAddress": "0xcd07dd0b6efe464c92ff700f4c691228f943b803",
+        "publicKeyPart1": "0x0585a32440188feb88e991e09bb5a0d637ddc75b9ee3182afc0e488ab0e11f4f",
+        "publicKeyPart2": "0x3049435a85f4b92ee5e2ba99f00c5b7dc288fd09edaa822e179b4bc80ee7e365",
+        "registrationWeight": "22962396778630846572"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x0a2128437f75ea111887f033fd84794403562737",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x35d73107a089ac2b3b14a6681d8c408aab9568d3",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "65266408446803419167995095",
+        "wNatCappedWeight": "65266408446803419167995095",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xed1af13d359044eea494cb9acf03997cabffd44b",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0xc0d15f4b2d964d372f5ae097f7bf73259a50513a",
+        "submitAddress": "0x9a18baf7dd4261f337b206cffc5c0d723d2afc4b",
+        "submitSignaturesAddress": "0x7a0e2ba7a52553e7e82a8d1c29fb1d6e11bb5ed0",
+        "publicKeyPart1": "0x2d3105021b2e4c70f9833009138e6a0655d0eda07dd9ad7dd5e396199d3f65de",
+        "publicKeyPart2": "0x176a67aef15db69444eb863f1337f54b6112f861f304d39a7474b85091a88edc",
+        "registrationWeight": "28746490563614426282"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xed1af13d359044eea494cb9acf03997cabffd44b",
+        "rewardEpochId": 409,
+        "delegationAddress": "0xb0840104e84da02254b043fd4c205415e759bf1e",
+        "delegationFeeBIPS": 1000,
+        "wNatWeight": "88060232687050630944803471",
+        "wNatCappedWeight": "88060232687050630944803471",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xadedcd23941e479b4736b38e271eb926596bbe3d",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0xee02d89fbc7c61b0f6b0ce6bc20acc3522f66295",
+        "submitAddress": "0x70e0c2e0831b135a62dec08a32a4e99f64433541",
+        "submitSignaturesAddress": "0x29f140350a8bf591f1a813f389c3ccd7882a4a25",
+        "publicKeyPart1": "0x2f5325c7ec031d8cbfe08e7d93a7138c9370f63321e802b38f194fd9643a443e",
+        "publicKeyPart2": "0x058b2ebfe67d0687a2c3a3514eb0961d8a1cb46b0e0995b70120e33ff11b77a0",
+        "registrationWeight": "24214825683255941760"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xadedcd23941e479b4736b38e271eb926596bbe3d",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x92d6c2e99d5959f2e9c0a7aba5149d8a5ef22f23",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "70055430789330887146916539",
+        "wNatCappedWeight": "70055430789330887146916539",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xb4466be43f01e8a615490098aaf18a1dc5c56568",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x285ee7a4ec946ad5f6edae1611dbc4bc0510c783",
+        "submitAddress": "0xe191a91f55bd34192fbf8c573d6880df7e0ea19a",
+        "submitSignaturesAddress": "0x5ebc2d21e383f5649ed3a0a8a44fcb98a3d91912",
+        "publicKeyPart1": "0x0f53a52074b0b790186e8ecef811d2cd5587930fba2889e58364e6eb3daa6a56",
+        "publicKeyPart2": "0x1af7e68a852452b4585344a4567066b4f7a37ab03a3e3f119d4ce88b9c8a505e",
+        "registrationWeight": "58011172091029638000"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xb4466be43f01e8a615490098aaf18a1dc5c56568",
+        "rewardEpochId": 409,
+        "delegationAddress": "0xbf61db1cdb43d196309824473fa82e5b17581159",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "273817383728865772905779941",
+        "wNatCappedWeight": "224568527045410736815952512",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xbb99dda7b6dce88908dcd684ab7bf1a90f084401",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x8481da9fb718e36121d67be580531fac1ef1349f",
+        "submitAddress": "0x41c2c30b9bd902ce3710903f27f5024da49c509e",
+        "submitSignaturesAddress": "0x9be9e883fdaa4cf0353bd5677e2d27973e9cee82",
+        "publicKeyPart1": "0x22206bab9c235f82ad230aa2a69cb3aac02507fe40e8c8451f918dd8175f6ba1",
+        "publicKeyPart2": "0x2f0a19f8fc166486c0edda4ba51ac9ad8f31917a2522a2c4737ca3edaa743995",
+        "registrationWeight": "33251911905668560900"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xbb99dda7b6dce88908dcd684ab7bf1a90f084401",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x010a16c53f33e4d93892f00897965578b55a8cfc",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "106927384522208989231814484",
+        "wNatCappedWeight": "106927384522208989231814484",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xee6f6572cfeb3467ce5f3572bea7c5fd6d2b1725",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x81050097cbdc0b3d58fe0db4469775db7f538304",
+        "submitAddress": "0x5d62d85f7903eca56c65521172bda8904a1e0937",
+        "submitSignaturesAddress": "0xe0fb39dcf3eb2d3ae7088263b0fba6bea04c523f",
+        "publicKeyPart1": "0x18673471e9c217c8feb7d1aebe40e3e861e393c8f047e81f54b5793468b70d9e",
+        "publicKeyPart2": "0x2ef26bfda81a314ee18a857d21c4bd045a9d19836bfb63222a7e94fd6ed59edf",
+        "registrationWeight": "36426233482064810604"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xee6f6572cfeb3467ce5f3572bea7c5fd6d2b1725",
+        "rewardEpochId": 409,
+        "delegationAddress": "0xfb9197720329a80191ba140844e96dccad149014",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "120749637728309802783726666",
+        "wNatCappedWeight": "120749637728309802783726666",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xd249c7e0bdb6f407604260350ed56e7dd5254e51",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x31e412e114629702281533cc657be76ad928283b",
+        "submitAddress": "0x9247b83e99cb6d1a4546c2efea7595137a0532e7",
+        "submitSignaturesAddress": "0xbb654271f2a2debfdb3e702067fe9aaa484a3981",
+        "publicKeyPart1": "0x1c45b94cfc6175b40338b6155bc5a0c72b5c514ef7cdab54812edf61a2639696",
+        "publicKeyPart2": "0x0298fe3014b702cb1c7c61c6be071b6d229d7d40ec32b7f6426947887851a3f0",
+        "registrationWeight": "26350457237527506621"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xd249c7e0bdb6f407604260350ed56e7dd5254e51",
+        "rewardEpochId": 409,
+        "delegationAddress": "0xb53d69b2519ac9f6d65cff8e7824bf09f7064d61",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "78412319757642037962470940",
+        "wNatCappedWeight": "78412319757642037962470940",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x05d8f084bf6ac2267a5ca699740e9236db6e2bdb",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0xe78b600d8daec600c6ff98a1e6a22f28022830fc",
+        "submitAddress": "0xc967d1fd27a94e4fc5c085c0adfa9bcd2418d1a0",
+        "submitSignaturesAddress": "0xc877be63b032ec7a4116192c94fdf4a1b2e6c422",
+        "publicKeyPart1": "0x0d07bb0be00b212b39d99891e2a70e336b1bea14d0ae535fffab9ad0f7c7c29c",
+        "publicKeyPart2": "0x1e1f9990c46918ace811f366ef7614f218fd077baa8da4fdf15828c7a4157449",
+        "registrationWeight": "27264497886645513732"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x05d8f084bf6ac2267a5ca699740e9236db6e2bdb",
+        "rewardEpochId": 409,
+        "delegationAddress": "0xc396b6f023f3a1c894a20fba08432e847c05c7f9",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "82059737127658504981193600",
+        "wNatCappedWeight": "82059737127658504981193600",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x1a34a80deb40d2a1a6c0e2959785058a975ad900",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x0aad8d0bab50599b1669a36dbf1fe4896242a093",
+        "submitAddress": "0xc3b54c0ac337cb33eed108f1a23a95983c8c58aa",
+        "submitSignaturesAddress": "0x5068d865a9c5e314286af73c059bee47ef8988c7",
+        "publicKeyPart1": "0x292883d48b92f9d3da7798dc51e05adbd9b18d427de16ef867c1a8b89a786421",
+        "publicKeyPart2": "0x2a18a0bc6304c0ee8990f45791ddc3838e5cbdfd2c8bc70b0f3fcba16481432a",
+        "registrationWeight": "22125547218535288889"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x1a34a80deb40d2a1a6c0e2959785058a975ad900",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x27cb5f4eba81976617b75953053d33ef2002dadf",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "62114377243752868691794061",
+        "wNatCappedWeight": "62114377243752868691794061",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x7e74f48ee5575e028d6bebd77e368761f1d74a2a",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x21ef03f609aad7db7224d3f8fd90f5593d2607ca",
+        "submitAddress": "0xcf1392b41ff06ab51d6f1bdf69e7cd706141a8ba",
+        "submitSignaturesAddress": "0xe8c7a135f1005eb66b135075a3ef9106b4da5c4f",
+        "publicKeyPart1": "0x0c44f245cb3a0d3d8c657507336da03a0fb9130c01353300f561125670088421",
+        "publicKeyPart2": "0x292a8812432510ea25db4d8bae2a7f2912856a235f8aef481ee627653698ee5f",
+        "registrationWeight": "35083751723528113645"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x7e74f48ee5575e028d6bebd77e368761f1d74a2a",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x4619ae2f09cf5e6da873c501a12d86aacbd7962b",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "114852767626960681445707467",
+        "wNatCappedWeight": "114852767626960681445707467",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x4f84caab4a53aabbad2dfe1013d2bb53edbf2f0a",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x4dfcbc3a1529fb3c07245095fba7830063d71c34",
+        "submitAddress": "0xe0bfd268e193103cb3e8331725414d7644f05e35",
+        "submitSignaturesAddress": "0x80cfaefb05c359dd29f5b2dbb740efe3fab6ec0a",
+        "publicKeyPart1": "0x29fa1941fded80680943e0f6ff83f73c447f1f06048c7b5a51c601dfaee6c8ee",
+        "publicKeyPart2": "0x1bd09a839857613e4d118ffc74a0ef4fb2605e58d50e11dc9b5e0443a2e8d80e",
+        "registrationWeight": "47688569442287500692"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x4f84caab4a53aabbad2dfe1013d2bb53edbf2f0a",
+        "rewardEpochId": 409,
+        "delegationAddress": "0xef4ef2f3b8c69282846a98341095baa018247553",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "172936155476883249408466363",
+        "wNatCappedWeight": "172936155476883249408466363",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x317edfb00ca5065590f6662ee33264b5c27b7c31",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x295d1dceafda82dca22f6323b9b7889a2920c789",
+        "submitAddress": "0x0280799e02545dc838f816d2c9ce74e0a415c44b",
+        "submitSignaturesAddress": "0xe699d488af51096060b465ef9a08d41e7f3b642b",
+        "publicKeyPart1": "0x21cb0a4e2e1291bd91e79914219eb83c7ebd8af894aca30b8a64c0485f1d276e",
+        "publicKeyPart2": "0x29af737364be864ec9828c7a459e51b96526324a8f8004c61edd97c1f161b290",
+        "registrationWeight": "10449615792803682086"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x317edfb00ca5065590f6662ee33264b5c27b7c31",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x821bde578955b35f9f2c9022268e5bc748994f71",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "22845496620683055264586152",
+        "wNatCappedWeight": "22845496620683055264586152",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xcf3a3e5797a960c67e0e4b23d4594246ffb9d935",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0xfb021c01f924c416d1fed247161963efc2ae7604",
+        "submitAddress": "0xa8bbba017b2ce496bbed4cfc0fb5d1afd4f23772",
+        "submitSignaturesAddress": "0xf417294c5a65535d4a33259c73eea39373977c65",
+        "publicKeyPart1": "0x0c2b2ad5a8d01ce43c9a0b402cbb5c912aae6814080d133743be60f548bbd217",
+        "publicKeyPart2": "0x0a0ea359df423f0243033fedd4586e5863c0238a325ab45823f941464ba1d93b",
+        "registrationWeight": "28195957806874487784"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xcf3a3e5797a960c67e0e4b23d4594246ffb9d935",
+        "rewardEpochId": 409,
+        "delegationAddress": "0xaf31ca175bbe0c6dd667c8403b65a33b28238afa",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "85818826555370008385949859",
+        "wNatCappedWeight": "85818826555370008385949859",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xcdeae85d8cef99a6433f341c3dce6096c3c5598c",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0xda120015f32de47427663db78bc7339ace2213ac",
+        "submitAddress": "0x6a4121a29839b446052640655818b4c7f9bb569f",
+        "submitSignaturesAddress": "0x53cbf076ac8d35d40057e653b53f7e8b77d3b5fa",
+        "publicKeyPart1": "0x2a7aaad860513a588dda76e68e9a66e7d74a4c7de4398dbb6e81e834ac4a0f24",
+        "publicKeyPart2": "0x20c0d6747cd094230148f76ca276640d15eb06f1ee9900bf8d74f8159a587e9c",
+        "registrationWeight": "23650596060696514656"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xcdeae85d8cef99a6433f341c3dce6096c3c5598c",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x1e68dc808a240c096f0261144dc41fd4c883cfb0",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "67887474916910255967080788",
+        "wNatCappedWeight": "67887474916910255967080788",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x6facdb16ca28ade44f682c17be7b3357eb2f6a4c",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0xe627eb93529583a0f359e4b39fc8ad275cc93bfc",
+        "submitAddress": "0x86eac68014db746b662e6bea8be9a2df3caefda5",
+        "submitSignaturesAddress": "0xadb05bc67040578bfb4b25f3ce89ab89c2f78a97",
+        "publicKeyPart1": "0x25d85428c569e605c24291af182f66d652c2c34906c2bc68969a016010737991",
+        "publicKeyPart2": "0x211530d71dd9391d663c53fa78dde88b5e93f7e4951c3d04c5ba2ab5c6bba6f4",
+        "registrationWeight": "25977787954834163260"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x6facdb16ca28ade44f682c17be7b3357eb2f6a4c",
+        "rewardEpochId": 409,
+        "delegationAddress": "0xf24f04f1f886b2e09d9cf76fbc7e02925c9f8cc8",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "76937183130452726987833038",
+        "wNatCappedWeight": "76937183130452726987833038",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x98bbe5658da8b31fbd3f07157a2cff4d10c0f22e",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x519468fd9811661f490cb921b499d2388bc9426b",
+        "submitAddress": "0xe8a41662716c769b139860a947f3d4ef084084f1",
+        "submitSignaturesAddress": "0x074f47e258d65780faa3d4ee365565f506fc083c",
+        "publicKeyPart1": "0x19c49dfbdf5df0f7319b22b2eb913f29d15e22f51ced5dbb567bb6a903b81bb8",
+        "publicKeyPart2": "0x08b8b8b1f360d4655f0cb6a9b628c73afc21176b595b7117485d344061034fba",
+        "registrationWeight": "40753099571922282942"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x98bbe5658da8b31fbd3f07157a2cff4d10c0f22e",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x5f3c5991de3f0713715a733ee125785d516ceb16",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "140242943335775435181296070",
+        "wNatCappedWeight": "140242943335775435181296070",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xd6122bb3d05454b4e4cc9883064a96607eb835bf",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x493560bac93dfc176e5663cfc830af04209e95fa",
+        "submitAddress": "0xfa84cf492ea6e648c09ed1048182ce6f2058bd9f",
+        "submitSignaturesAddress": "0xc2b2481e6bc2026a39042a3e039e98f4f2f224f3",
+        "publicKeyPart1": "0x06dc8be1f3c8a9549bf5f44ea3b07220eb7350847db291f3b94496fef4f8713b",
+        "publicKeyPart2": "0x1966cf66617d52f3eb96f7fb11602929352a0ceb766af9bd59d8710e284c3477",
+        "registrationWeight": "18251074757063888510"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xd6122bb3d05454b4e4cc9883064a96607eb835bf",
+        "rewardEpochId": 409,
+        "delegationAddress": "0xd9200cc419bde28b169ad8c904d2687a15a4bf9f",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "48052728878074169662525355",
+        "wNatCappedWeight": "48052728878074169662525355",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0xa6b95941845b229ad7b2cd4c3c6de3ad9d0865ff",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0xe5c465582969717375f38202d6f615581daf2728",
+        "submitAddress": "0x1b7202d589b133cb4179b6d034e047bda2620303",
+        "submitSignaturesAddress": "0x4cfffa315ff2ae0902deecc58189941a0c29b822",
+        "publicKeyPart1": "0x29692fcadde7502497d8cb057bdfbe9cf761a79ad4b5f64d228780557bfd3ab1",
+        "publicKeyPart2": "0x22b5a6cff3252cab751a58dfb3fc3347560b59f36b1ec8a0e8b7831c6a7e0a57",
+        "registrationWeight": "27569422315770479889"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0xa6b95941845b229ad7b2cd4c3c6de3ad9d0865ff",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x664e070592063bfe5072f0ac25c6c11e5ccf9928",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "83285667396403819212874397",
+        "wNatCappedWeight": "83285667396403819212874397",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x0c481b7655cd50b9165d6f31c19c3303521401db",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x38fd3ec8d50787df2f8c0f4f89da7dd41674d4d6",
+        "submitAddress": "0x64533d1517a0e57eb5a8ce16bcfb758e96ec536d",
+        "submitSignaturesAddress": "0xc67b8939d43796a0e7414ff21440b135de5a32b7",
+        "publicKeyPart1": "0x1c5a3e8a9dd89ce224124400af7b366136acd70c5514957a3150293572f0a9cb",
+        "publicKeyPart2": "0x2fe31a0b45eeeb026d9c4e41631346362455a49ec2fc9a5183329177c0883f66",
+        "registrationWeight": "241029223134718603"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x0c481b7655cd50b9165d6f31c19c3303521401db",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x715bb0531eff2fca16ca8d3535f6d5133b6d7ec7",
+        "delegationFeeBIPS": 0,
+        "wNatWeight": "150000857147135174906760",
+        "wNatCappedWeight": "150000857147135174906760",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    },
+    {
+      "voterRegistered": {
+        "voter": "0x80a104815c6d020fd7570dc59c87c7d449a156d6",
+        "rewardEpochId": 409,
+        "signingPolicyAddress": "0x2dedbb410e97d3e11d282e6b700e82b42018b939",
+        "submitAddress": "0xd650a4edc94c5325e7842e8f59490cf8f57409c1",
+        "submitSignaturesAddress": "0xb2a8e491df868d7216186c9ace2fada6d78ae235",
+        "publicKeyPart1": "0x109f9a4362be1c93b0ad5ce714fffd48cda8694bb75067c0ba6f472d376a7bed",
+        "publicKeyPart2": "0x123552f3a8ea54e7a045d44dfe0b3a92ee05128f52c7d39fd17e818e599799bf",
+        "registrationWeight": "9457404789265226"
+      },
+      "voterRegistrationInfo": {
+        "voter": "0x80a104815c6d020fd7570dc59c87c7d449a156d6",
+        "rewardEpochId": 409,
+        "delegationAddress": "0x15953ba7307ce1dd84972532e7624b37145c7d03",
+        "delegationFeeBIPS": 2000,
+        "wNatWeight": "2000000000000000000000",
+        "wNatCappedWeight": "2000000000000000000000",
+        "nodeIds": [],
+        "nodeWeights": []
+      }
+    }
+  ],
+  "canonicalFeedOrder": [
+    {
+      "id": "0x01414156452f555344000000000000000000000000",
+      "decimals": 4
+    },
+    {
+      "id": "0x014144412f55534400000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x01414c474f2f555344000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x014150542f55534400000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x014152422f55534400000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x0141544f4d2f555344000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x01415641582f555344000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x014243482f55534400000000000000000000000000",
+      "decimals": 4
+    },
+    {
+      "id": "0x01424552412f555344000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x01424e422f55534400000000000000000000000000",
+      "decimals": 4
+    },
+    {
+      "id": "0x01424f4e4b2f555344000000000000000000000000",
+      "decimals": 9
+    },
+    {
+      "id": "0x014254432f55534400000000000000000000000000",
+      "decimals": 2
+    },
+    {
+      "id": "0x01444f47452f555344000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x01444f542f55534400000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x01454e412f55534400000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x014554432f55534400000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x014554482f55534400000000000000000000000000",
+      "decimals": 3
+    },
+    {
+      "id": "0x0145544846492f5553440000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x014645542f55534400000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x0146494c2f55534400000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x01464c522f55534400000000000000000000000000",
+      "decimals": 6
+    },
+    {
+      "id": "0x014752414d2f555344000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x01484241522f555344000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x01484e542f55534400000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x01485950452f555344000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x014943502f55534400000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x014a55502f55534400000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x014c454f2f55534400000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x014c494e4b2f555344000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x014c54432f55534400000000000000000000000000",
+      "decimals": 4
+    },
+    {
+      "id": "0x014d4f4e2f55534400000000000000000000000000",
+      "decimals": 7
+    },
+    {
+      "id": "0x014e4541522f555344000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x014e494748542f5553440000000000000000000000",
+      "decimals": 6
+    },
+    {
+      "id": "0x014e4f542f55534400000000000000000000000000",
+      "decimals": 7
+    },
+    {
+      "id": "0x014f4e444f2f555344000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x014f502f5553440000000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x01504158472f555344000000000000000000000000",
+      "decimals": 3
+    },
+    {
+      "id": "0x0150454e47552f5553440000000000000000000000",
+      "decimals": 6
+    },
+    {
+      "id": "0x01504550452f555344000000000000000000000000",
+      "decimals": 10
+    },
+    {
+      "id": "0x01504f4c2f55534400000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x0150554d502f555344000000000000000000000000",
+      "decimals": 7
+    },
+    {
+      "id": "0x01505954482f555344000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x01514e542f55534400000000000000000000000000",
+      "decimals": 4
+    },
+    {
+      "id": "0x0152454e4445522f55534400000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x0152554e452f555344000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x01532f555344000000000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x015347422f55534400000000000000000000000000",
+      "decimals": 7
+    },
+    {
+      "id": "0x01534849422f555344000000000000000000000000",
+      "decimals": 9
+    },
+    {
+      "id": "0x01534f4c2f55534400000000000000000000000000",
+      "decimals": 4
+    },
+    {
+      "id": "0x015355492f55534400000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x0154414f2f55534400000000000000000000000000",
+      "decimals": 4
+    },
+    {
+      "id": "0x015452554d502f5553440000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x015452582f55534400000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x01554e492f55534400000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x01555344432f555344000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x01555344532f555344000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x01555344542f555344000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x01555344582f555344000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x015749462f55534400000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x015844432f55534400000000000000000000000000",
+      "decimals": 6
+    },
+    {
+      "id": "0x01584c4d2f55534400000000000000000000000000",
+      "decimals": 6
+    },
+    {
+      "id": "0x0158504c2f55534400000000000000000000000000",
+      "decimals": 5
+    },
+    {
+      "id": "0x015852502f55534400000000000000000000000000",
+      "decimals": 5
+    }
+  ],
+  "rewardOffers": {
+    "rewardOffers": [],
+    "inflationOffers": [
+      {
+        "offerIndex": 0,
+        "rewardEpochId": 409,
+        "feedIds": [
+          "0x01464c522f55534400000000000000000000000000",
+          "0x015347422f55534400000000000000000000000000",
+          "0x014254432f55534400000000000000000000000000",
+          "0x015852502f55534400000000000000000000000000",
+          "0x014c54432f55534400000000000000000000000000",
+          "0x01584c4d2f55534400000000000000000000000000",
+          "0x01444f47452f555344000000000000000000000000",
+          "0x014144412f55534400000000000000000000000000",
+          "0x01414c474f2f555344000000000000000000000000",
+          "0x014554482f55534400000000000000000000000000",
+          "0x0146494c2f55534400000000000000000000000000",
+          "0x014152422f55534400000000000000000000000000",
+          "0x01415641582f555344000000000000000000000000",
+          "0x01424e422f55534400000000000000000000000000",
+          "0x01504f4c2f55534400000000000000000000000000",
+          "0x01534f4c2f55534400000000000000000000000000",
+          "0x01555344432f555344000000000000000000000000",
+          "0x01555344542f555344000000000000000000000000",
+          "0x015844432f55534400000000000000000000000000",
+          "0x015452582f55534400000000000000000000000000",
+          "0x014c494e4b2f555344000000000000000000000000",
+          "0x0141544f4d2f555344000000000000000000000000",
+          "0x01444f542f55534400000000000000000000000000",
+          "0x014752414d2f555344000000000000000000000000",
+          "0x014943502f55534400000000000000000000000000",
+          "0x01534849422f555344000000000000000000000000",
+          "0x01555344532f555344000000000000000000000000",
+          "0x014243482f55534400000000000000000000000000",
+          "0x014e4541522f555344000000000000000000000000",
+          "0x014c454f2f55534400000000000000000000000000",
+          "0x01554e492f55534400000000000000000000000000",
+          "0x014554432f55534400000000000000000000000000",
+          "0x015749462f55534400000000000000000000000000",
+          "0x01424f4e4b2f555344000000000000000000000000",
+          "0x014a55502f55534400000000000000000000000000",
+          "0x0145544846492f5553440000000000000000000000",
+          "0x01454e412f55534400000000000000000000000000",
+          "0x01505954482f555344000000000000000000000000",
+          "0x01484e542f55534400000000000000000000000000",
+          "0x015355492f55534400000000000000000000000000",
+          "0x01504550452f555344000000000000000000000000",
+          "0x01514e542f55534400000000000000000000000000",
+          "0x01414156452f555344000000000000000000000000",
+          "0x01532f555344000000000000000000000000000000",
+          "0x014f4e444f2f555344000000000000000000000000",
+          "0x0154414f2f55534400000000000000000000000000",
+          "0x014645542f55534400000000000000000000000000",
+          "0x0152454e4445522f55534400000000000000000000",
+          "0x014e4f542f55534400000000000000000000000000",
+          "0x0152554e452f555344000000000000000000000000",
+          "0x01555344582f555344000000000000000000000000",
+          "0x015452554d502f5553440000000000000000000000",
+          "0x01484241522f555344000000000000000000000000",
+          "0x0150454e47552f5553440000000000000000000000",
+          "0x01485950452f555344000000000000000000000000",
+          "0x014150542f55534400000000000000000000000000",
+          "0x01504158472f555344000000000000000000000000",
+          "0x01424552412f555344000000000000000000000000",
+          "0x014f502f5553440000000000000000000000000000",
+          "0x0150554d502f555344000000000000000000000000",
+          "0x0158504c2f55534400000000000000000000000000",
+          "0x014d4f4e2f55534400000000000000000000000000",
+          "0x014e494748542f5553440000000000000000000000"
+        ],
+        "decimals": [
+          6,
+          7,
+          2,
+          5,
+          4,
+          6,
+          5,
+          5,
+          5,
+          3,
+          5,
+          5,
+          5,
+          4,
+          5,
+          4,
+          5,
+          5,
+          6,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          9,
+          5,
+          4,
+          5,
+          5,
+          5,
+          5,
+          5,
+          9,
+          5,
+          5,
+          5,
+          5,
+          5,
+          5,
+          10,
+          4,
+          4,
+          5,
+          5,
+          4,
+          5,
+          5,
+          7,
+          5,
+          5,
+          5,
+          5,
+          6,
+          5,
+          5,
+          3,
+          5,
+          5,
+          7,
+          5,
+          7,
+          6
+        ],
+        "amount": "2552083333333333333333331",
+        "minRewardedTurnoutBIPS": 5000,
+        "primaryBandRewardSharePPM": 400000,
+        "secondaryBandWidthPPMs": [
+          1150,
+          1400,
+          500,
+          900,
+          900,
+          900,
+          900,
+          900,
+          900,
+          500,
+          1150,
+          1150,
+          900,
+          500,
+          900,
+          900,
+          100,
+          100,
+          500,
+          500,
+          900,
+          900,
+          1150,
+          1150,
+          900,
+          900,
+          100,
+          500,
+          900,
+          1600,
+          1150,
+          900,
+          1400,
+          1400,
+          1150,
+          1400,
+          1400,
+          1150,
+          900,
+          1150,
+          1150,
+          1150,
+          900,
+          1400,
+          1150,
+          1150,
+          1150,
+          1400,
+          1400,
+          1150,
+          200,
+          1400,
+          900,
+          1400,
+          1150,
+          1150,
+          500,
+          1400,
+          1150,
+          1400,
+          1400,
+          1400,
+          1400
+        ],
+        "mode": 2
+      }
+    ]
+  },
+  "votePowerBlock": 125589046,
+  "votePowerTimestamp": 1782104498,
+  "expectedStartVotingRoundId": 1374240,
+  "expectedEndVotingRoundId": 1377599,
+  "endVotingRoundId": 1377599,
+  "fuInflationRewardsOffered": {
+    "rewardEpochId": 409,
+    "feedConfigurations": [
+      {
+        "feedId": "0x01464c522f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x015347422f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x014254432f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x015852502f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x014c54432f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01584c4d2f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01444f47452f555344000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x014144412f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01414c474f2f555344000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x014554482f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x0146494c2f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x014152422f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01415641582f555344000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01424e422f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01504f4c2f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01534f4c2f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01555344432f555344000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01555344542f555344000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x015844432f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x015452582f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x014c494e4b2f555344000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x0141544f4d2f555344000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01444f542f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01544f4e2f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x014943502f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01534849422f555344000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01555344532f555344000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x014243482f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x014e4541522f555344000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x014c454f2f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01554e492f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x014554432f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x015749462f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01424f4e4b2f555344000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x014a55502f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x0145544846492f5553440000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01454e412f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01505954482f555344000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01484e542f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x015355492f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01504550452f555344000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01514e542f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01414156452f555344000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01532f555344000000000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x014f4e444f2f555344000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x0154414f2f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x014645542f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x0152454e4445522f55534400000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x014e4f542f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x0152554e452f555344000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01555344582f555344000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x015452554d502f5553440000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x000000000000000000000000000000000000000000",
+        "rewardBandValue": 0,
+        "inflationShare": 0
+      },
+      {
+        "feedId": "0x01484241522f555344000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x0150454e47552f5553440000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01485950452f555344000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x014150542f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01504158472f555344000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x01424552412f555344000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x014f502f5553440000000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x0150554d502f555344000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x0158504c2f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x014d4f4e2f55534400000000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      },
+      {
+        "feedId": "0x014e494748542f5553440000000000000000000000",
+        "rewardBandValue": 5000,
+        "inflationShare": 10000
+      }
+    ],
+    "amount": "1093750000000000000000000"
+  },
+  "fuIncentivesOffered": [
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "100762236667631483343394853182134",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "15161016317314453125"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "301672682150111490028277314656549",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "45390660309102539062"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "357437481072299529137383889374649",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "53781214690897460937"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "364424886653119250552579443419238",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "54832562631653647460"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "294685276569249548749250799294806",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "44339312368340000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "139368351778809959096791998665881",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "20969818905523764648"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "188450734900069718689594011684072",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "28354915108267578125"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "557374406333239409507814767373488",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "83864379640019091796"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "393842799201934917411037721216633",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "59258878153460610351"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "265267364020476101754623482814565",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "39912996846539389648"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "393842799201930860929116990882549",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "59258878153460000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "265267364020480158236544213148649",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "39912996846540000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "115672229560320816898479179619454",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "17404422706582519531"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "353732290877375813877814681530434",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "53223719632612026367"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "167392412128367067174263712683825",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "25186410857908691406"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "284535685038920052340931459079325",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "42812171567436824448"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "191202823506857091335930027063896",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "28769003378378417968"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "437200250787465263229748667404624",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "65782582397280354873"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "30707088928080508739454423729878",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "4620289224340000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "103055825069018886217083934940814",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "15506117144059082031"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "146212359200672323314251863098594",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "21999590689381046878"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "163114568649851388811999758373092",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "24542752510043457031"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "489751916067657079325072844154072",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "73689678162166015625"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "169358247154753939840588359877126",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "25482196837833984374"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "378830165766749328913668738904143",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "57000028131825224570"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "110921750300902492951616855437546",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "16689650030340000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "202344876846488663869511528968258",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "30445473235312500000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "312019846575779223817805416077095",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "46947528575265964354"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "144745439800132925366174599138940",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "21778873189420000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "202344876846498869981681188815163",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "30445473235314035645"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "312019846575739583880133141578766",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "46947528575260000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "144745439800132925366174599138940",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "21778873189420000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "202344876846538509919353463313492",
+      "sampleSizeIncrease": "19419530092696877526060762334624",
+      "offerAmount": "30445473235320000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "312019846575739583880133141578766",
+      "sampleSizeIncrease": "19419530092696877526060762334624",
+      "offerAmount": "46947528575260000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "144745439800132925366174599138940",
+      "sampleSizeIncrease": "19419530092696877526060762334624",
+      "offerAmount": "21778873189420000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "202344876846538509919353463313492",
+      "sampleSizeIncrease": "19419530092696877526060762334624",
+      "offerAmount": "30445473235320000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "312019846575739583880133141578766",
+      "sampleSizeIncrease": "19419530092696877526060762334624",
+      "offerAmount": "46947528575260000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "144745439800132925366174599138940",
+      "sampleSizeIncrease": "19419530092696877526060762334624",
+      "offerAmount": "21778873189420000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "191950945166070069422896729737759",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "28881568214747397460"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "179861748622326099697473568800735",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "27062588087624023437"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "108401742997802654538035992756059",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "16310481473690429687"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "152969073484807975513394985175050",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "23016228061684626468"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "332932736835319214101021623022177",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "50094150573276294030"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "326177426387067174674657113696013",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "49077724426720000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "332932736835343844491004090335185",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "50094150573280000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "97792310122592651722830831907605",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "14714151437180014648"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "464589817749134520493645002386127",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "69903706395348959960"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "194520345473276498672016201645071",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "29268168604651040039"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "246373060938716138265039231444843",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "37070098090016768908"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "412737102283673406611372208148774",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "62101776909980000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "246373060938737612554288995882424",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "37070098090020000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "393762205525037232529052371053771",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "59246751764736741515"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "18974896758614517739191865664129",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "2855025145240000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "246373060938737612554288995882424",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "37070098090020000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "358628618408748392870947755269774",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "53960437117783751591"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "54108483874925013740424452879000",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "8141339792196248408"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "117813575912827983388901938492294",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "17726616695769858398"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "187676429574136181391829311670812",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "28238410591602428279"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "243393682339288450213425326105545",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "36621811022805496416"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "352197266206936852695852819406023",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "52992754790567374527"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "306912897015474166469808384625175",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "46179120209432625472"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "268815277336041850579858754336051",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "40446827510175192476"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "194706777068471465974805878984064",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "29296219713382748401"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "148873503915753459884806036521748",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "22399995243531250000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "510236659306599405556039577440011",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "76771879756460000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "148873503915811613609621626591187",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "22399995243540000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "510236659306599405556039577440011",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "76771879756460000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "148873503915811613609621626591187",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "22399995243540000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "335340118728730152960228077667505",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "50456373141721275907"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "226294293366128527397083499224315",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "34048980924826308593"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "168429903538883223393252903685078",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "25342515215296005127"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "262330871225757975336809921057631",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "39471162518037436523"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "216683705678445286630984947021553",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "32602940408352211914"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "231075121964080809117988021882355",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "34768320061996554272"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "237428195142513762595327031636530",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "35724224270842446289"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "117219751537758067859537092468291",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "17637267934390625000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "175839082398372431623029926560033",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "26457324545671875000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "243598313489182062297312120665858",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "36652600496175379263"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "276647627351449300705534507362591",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "41625308559362304687"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "382462535870961718460126696668607",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "57546566440637695312"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "494106190239867406320479132837288",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "74344836522660688476"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "213926742521361518364893350868609",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "32188118697430336914"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "225486304249471421790066370641276",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "33927408234630299904"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "133550693745717611980365669189151",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "20094475013950522460"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "265397610207987674349224393866889",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "39932594114716796875"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "393712553014402056399316817371032",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "59239280885280000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "265397610208008962766344386660166",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "39932594114720000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "306648750136444936364498230113444",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "46139375804429592109"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "352461413085966082801162973917754",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "53032499195570407890"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "306648750136381185863315596816014",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "46139375804420000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "103344210125417166593307741962452",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "15549508504655273437"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "555765953096962439176359326361594",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "83622366495340000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "103344210125448579989301877669604",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "15549508504660000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "320794961004550771735196379249330",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "48267861047437497026"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "234970992092395032326104153526659",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "35354505447900000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "524336849867698496437520230750482",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "78893440633271484375"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "134773313354655926692382943659565",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "20278434366720000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "524336849867755092473278260371633",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "78893440633280000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "134773313354655926692382943659565",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "20278434366720000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "266340400868996424385797533343883",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "40074449487007842756"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "583877739286868781893166037704075",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "87852157965133139648"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "75232423935496642415706157372010",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "11319717034860000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "448288896981043553331635426928284",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "67451016440009102591"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "210821266241367465834025777102914",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "31720858559990897408"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "229428679634408380584739038014567",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "34520590953838522138"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "218860217346635172746896388913717",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "32930425486170580453"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "142935884381621931352645294952592",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "21506601551409179687"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "506785115803922225047244817292691",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "76252549210666157226"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "374106654484390926275986539026827",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "56289313145782646484"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "285003508738020092889674665004371",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "42882561854217353515"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "346049799599623013677069537274309",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "52067786820165317382"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "322202512740352828805807212195004",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "48479645894019951171"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "336907650482057865841300333409467",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "50692229105980000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "367718236261862928954438576931099",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "55328090805779853515"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "291391926960547116655561651819919",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "43843784194220000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "114155590576225737576520213184855",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "17176224235153320312"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "134292730843305313900083135867038",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "20206124347238830950"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "112925649731286326422268230263111",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "16991163305224121093"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "377955951833503299889173614716763",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "56868491038712797117"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "153960799122249372750141790251322",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "23165446350885009765"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "105639972784012407474242304162415",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "15894936477264228515"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "379770664007495465763121399651665",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "57141538579051513671"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "279339499214859152077913969814418",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "42030336420940000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "263726892074880431754093232933308",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "39681212389624454825"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "395383271147530587411567971097890",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "59490662610375545174"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "263726892074850824362899729834312",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "39681212389620000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "395383271147560194802761474196886",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "59490662610380000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "105700961345790155108791433268280",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "15904113016123046875"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "128820317689153717934352068436500",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "19382727131485771484"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "180255878030382435241139043519746",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "27121890089884907226"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "103637097810603631707730008023515",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "15593577345533623046"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "135598365759638666795984109915044",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "20402574455192262800"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "155369776223801996557099110626434",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "23377445662669082697"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "366516497197791306559066952458604",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "55147273208214585657"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "292593666024583728128687535288007",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "44024601791780000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "218924580152031477682285835684722",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "32940109724781323581"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "101831246181580886473367085716740",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "15321862991826171875"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "317960637872982433673834357139616",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "47841399501253366909"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "239318279167844633716620280244467",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "36008612506920000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "101831246181539867328184660578475",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "15321862991820000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "303752338184884214596754942280621",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "45703572170930227567"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "115906439546577490155841269972352",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "17439662708598632812"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "105443011586672521489931982624911",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "15865301050089287109"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "132322395412560350032133240713673",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "19909661221726420898"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "212159540612033728951693776417755",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "31922219707199658282"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "313619315736724662995538946465101",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "47188189946530710328"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "193134143116734700831857416499100",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "29059596055631977539"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "260515832171916675137916740424417",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "39198065794285464923"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "305096699222747812953560020613866",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "45905849138030931212"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "354013463999602933778785476381174",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "53266025861960000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "293339347306690928800258018607366",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "44136799441012759665"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "312940158639364350998331370214438",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "47086001744128417968"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "346170004583046668167329833816760",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "52085873255871582031"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "312940158639308403999680657446741",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "47086001744120000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "346170004583102615165980546584457",
+      "sampleSizeIncrease": "19424070548645602538341814652214",
+      "offerAmount": "52085873255880000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "154526741999363557972654605592376",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "23250599970716796875"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "118241660926852339632263715793259",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "17791027769773994140"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "173777553641538322481427386438631",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "26147140173484202868"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "114840282909645245685163758270408",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "17279245287311523437"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "132197786275960722326313422728663",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "19890912122701306643"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "659110163222411019165661204031198",
+      "sampleSizeIncrease": "19428613128287474755960697209429",
+      "offerAmount": "99171875000000000000"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "109849644339585641629270381868740",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "16528337454210610351"
+    },
+    {
+      "rewardEpochId": 409,
+      "rangeIncrease": "431902531784273970333297001405874",
+      "sampleSizeIncrease": "0",
+      "offerAmount": "64985470235936963523"
+    }
+  ],
+  "fdcInflationRewardsOffered": {
+    "rewardEpochId": 409,
+    "fdcConfigurations": [
+      {
+        "attestationType": "0x4164647265737356616c69646974790000000000000000000000000000000000",
+        "source": "0x5852500000000000000000000000000000000000000000000000000000000000",
+        "inflationShare": 10000,
+        "minRequestsThreshold": 2,
+        "mode": "0"
+      },
+      {
+        "attestationType": "0x4164647265737356616c69646974790000000000000000000000000000000000",
+        "source": "0x4254430000000000000000000000000000000000000000000000000000000000",
+        "inflationShare": 10000,
+        "minRequestsThreshold": 2,
+        "mode": "0"
+      },
+      {
+        "attestationType": "0x4164647265737356616c69646974790000000000000000000000000000000000",
+        "source": "0x444f474500000000000000000000000000000000000000000000000000000000",
+        "inflationShare": 10000,
+        "minRequestsThreshold": 2,
+        "mode": "0"
+      },
+      {
+        "attestationType": "0x42616c616e636544656372656173696e675472616e73616374696f6e00000000",
+        "source": "0x5852500000000000000000000000000000000000000000000000000000000000",
+        "inflationShare": 10000,
+        "minRequestsThreshold": 2,
+        "mode": "0"
+      },
+      {
+        "attestationType": "0x42616c616e636544656372656173696e675472616e73616374696f6e00000000",
+        "source": "0x4254430000000000000000000000000000000000000000000000000000000000",
+        "inflationShare": 10000,
+        "minRequestsThreshold": 2,
+        "mode": "0"
+      },
+      {
+        "attestationType": "0x42616c616e636544656372656173696e675472616e73616374696f6e00000000",
+        "source": "0x444f474500000000000000000000000000000000000000000000000000000000",
+        "inflationShare": 10000,
+        "minRequestsThreshold": 2,
+        "mode": "0"
+      },
+      {
+        "attestationType": "0x436f6e6669726d6564426c6f636b486569676874457869737473000000000000",
+        "source": "0x5852500000000000000000000000000000000000000000000000000000000000",
+        "inflationShare": 10000,
+        "minRequestsThreshold": 2,
+        "mode": "0"
+      },
+      {
+        "attestationType": "0x436f6e6669726d6564426c6f636b486569676874457869737473000000000000",
+        "source": "0x4254430000000000000000000000000000000000000000000000000000000000",
+        "inflationShare": 10000,
+        "minRequestsThreshold": 2,
+        "mode": "0"
+      },
+      {
+        "attestationType": "0x436f6e6669726d6564426c6f636b486569676874457869737473000000000000",
+        "source": "0x444f474500000000000000000000000000000000000000000000000000000000",
+        "inflationShare": 10000,
+        "minRequestsThreshold": 2,
+        "mode": "0"
+      },
+      {
+        "attestationType": "0x5061796d656e7400000000000000000000000000000000000000000000000000",
+        "source": "0x5852500000000000000000000000000000000000000000000000000000000000",
+        "inflationShare": 20000,
+        "minRequestsThreshold": 5,
+        "mode": "0"
+      },
+      {
+        "attestationType": "0x5061796d656e7400000000000000000000000000000000000000000000000000",
+        "source": "0x4254430000000000000000000000000000000000000000000000000000000000",
+        "inflationShare": 20000,
+        "minRequestsThreshold": 5,
+        "mode": "0"
+      },
+      {
+        "attestationType": "0x5061796d656e7400000000000000000000000000000000000000000000000000",
+        "source": "0x444f474500000000000000000000000000000000000000000000000000000000",
+        "inflationShare": 20000,
+        "minRequestsThreshold": 5,
+        "mode": "0"
+      },
+      {
+        "attestationType": "0x5265666572656e6365645061796d656e744e6f6e6578697374656e6365000000",
+        "source": "0x5852500000000000000000000000000000000000000000000000000000000000",
+        "inflationShare": 10000,
+        "minRequestsThreshold": 2,
+        "mode": "0"
+      },
+      {
+        "attestationType": "0x5265666572656e6365645061796d656e744e6f6e6578697374656e6365000000",
+        "source": "0x4254430000000000000000000000000000000000000000000000000000000000",
+        "inflationShare": 10000,
+        "minRequestsThreshold": 2,
+        "mode": "0"
+      },
+      {
+        "attestationType": "0x5265666572656e6365645061796d656e744e6f6e6578697374656e6365000000",
+        "source": "0x444f474500000000000000000000000000000000000000000000000000000000",
+        "inflationShare": 10000,
+        "minRequestsThreshold": 2,
+        "mode": "0"
+      },
+      {
+        "attestationType": "0x45564d5472616e73616374696f6e000000000000000000000000000000000000",
+        "source": "0x4554480000000000000000000000000000000000000000000000000000000000",
+        "inflationShare": 10000,
+        "minRequestsThreshold": 2,
+        "mode": "0"
+      },
+      {
+        "attestationType": "0x45564d5472616e73616374696f6e000000000000000000000000000000000000",
+        "source": "0x464c520000000000000000000000000000000000000000000000000000000000",
+        "inflationShare": 10000,
+        "minRequestsThreshold": 2,
+        "mode": "0"
+      },
+      {
+        "attestationType": "0x45564d5472616e73616374696f6e000000000000000000000000000000000000",
+        "source": "0x5347420000000000000000000000000000000000000000000000000000000000",
+        "inflationShare": 10000,
+        "minRequestsThreshold": 2,
+        "mode": "0"
+      },
+      {
+        "attestationType": "0x576562324a736f6e000000000000000000000000000000000000000000000000",
+        "source": "0x49676e6974650000000000000000000000000000000000000000000000000000",
+        "inflationShare": 1000,
+        "minRequestsThreshold": 2,
+        "mode": "0"
+      },
+      {
+        "attestationType": "0x5852505061796d656e7400000000000000000000000000000000000000000000",
+        "source": "0x5852500000000000000000000000000000000000000000000000000000000000",
+        "inflationShare": 10000,
+        "minRequestsThreshold": 2,
+        "mode": "0"
+      },
+      {
+        "attestationType": "0x5852505061796d656e744e6f6e6578697374656e636500000000000000000000",
+        "source": "0x5852500000000000000000000000000000000000000000000000000000000000",
+        "inflationShare": 10000,
+        "minRequestsThreshold": 2,
+        "mode": "0"
+      }
+    ],
+    "amount": "3645833333333333333333335"
+  }
+}
